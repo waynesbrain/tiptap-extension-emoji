@@ -33,7 +33,7 @@
   "scripts": {
     "dev": "vite build --watch",
     "build": "tsc -b && vite build",
-    "generate": "tsx ./scripts/generate.ts",
+    "generate": "tsx ./scripts/generate.ts && prettier --write ./src/data.ts",
     "format": "prettier --write \"./src/**/*.{css,js,jsx,scss,ts,tsx}\" \"./scripts/**/*.{css,js,jsx,scss,ts,tsx}\"",
     "lint": "eslint .",
     "lint-ts": "tsc -b --noEmit --pretty",

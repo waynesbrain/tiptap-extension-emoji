@@ -74,13 +74,13 @@ const gitHubCustomEmojis: EmojiItem[] = gitHubCustomEmojiNames.map((name) => {
 
 const content = `// This is a generated file
 
-import { EmojiItem } from './emoji'
+import type { EmojiItem } from "./emoji.js";
 
-export const emojis: EmojiItem[] = ${json5.stringify(emojis, { space: 2 })}
+export const emojis: EmojiItem[] = ${json5.stringify(emojis, { space: 2, quote: '"' })};
 
-export const gitHubCustomEmojis: EmojiItem[] = ${json5.stringify(gitHubCustomEmojis, { space: 2 })}
+export const gitHubCustomEmojis: EmojiItem[] = ${json5.stringify(gitHubCustomEmojis, { space: 2, quote: '"' })};
 
-export const gitHubEmojis: EmojiItem[] = [...emojis, ...gitHubCustomEmojis]
+export const gitHubEmojis: EmojiItem[] = [...emojis, ...gitHubCustomEmojis];
 `;
 
 fs.writeFileSync("./src/data.ts", content);
