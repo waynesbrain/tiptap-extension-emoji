@@ -52,7 +52,7 @@ export type EmojiItem = {
   /**
    * A list of tags that can help for searching emojis
    */
-  tags: string[];
+  tags?: string[];
   /**
    * A name that can help to group emojis
    */

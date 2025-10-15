@@ -9,6 +9,52 @@ import json5 from "json5";
 import type { EmojiItem } from "../src/emoji";
 import { removeVariationSelector } from "../src/helpers/removeVariationSelector";
 
+const TAGS_DISABLED = true;
+
+/**
+ * Filters tags to reduce file size while maintaining search utility.
+ *
+ * Removes tags that are:
+ * 1. First 3 letters match the beginning of the emoji name (prefix check)
+ * 2. First 3 letters match the beginning of any shortcode segment (prefix check)
+ * 3. Multi-word tags containing spaces or hyphens (e.g., "in love", "blond-haired")
+ */
+function filterTags(
+  tags: string[],
+  shortcodes: string[],
+  name: string,
+): string[] {
+  // Extract all segments from all shortcodes (split by underscore)
+  const shortcodeSegments: string[] = [];
+  shortcodes.forEach((shortcode) => {
+    shortcode.split("_").forEach((segment) => {
+      shortcodeSegments.push(segment);
+    });
+  });
+
+  return tags.filter((tag) => {
+    // Get first 3 letters of the tag
+    const tagPrefix = tag.slice(0, 3);
+
+    // Filter out if first 3 letters match the beginning of the name
+    if (name.startsWith(tagPrefix)) {
+      return false;
+    }
+
+    // Filter out if first 3 letters match the beginning of any shortcode segment
+    if (shortcodeSegments.some((segment) => segment.startsWith(tagPrefix))) {
+      return false;
+    }
+
+    // Filter out if tag contains spaces or hyphens (multi-word tags)
+    if (tag.includes(" ") || tag.includes("-")) {
+      return false;
+    }
+
+    return true;
+  });
+}
+
 const emojis: EmojiItem[] = data
   .filter((emoji) => emoji.version > 0 && emoji.version < 14)
   .map((emoji) => {
@@ -26,18 +72,25 @@ const emojis: EmojiItem[] = data
     const shortcodes = emojibaseShortcodes[emoji.hexcode]
       ? [emojibaseShortcodes[emoji.hexcode]!].flat()
       : [];
-    const emoticons = emoji.emoticon ? [emoji.emoticon].flat() : [];
+    // const emoticons = emoji.emoticon ? [emoji.emoticon].flat() : [];
+
+    let tags = emoji.tags
+      ? filterTags(emoji.tags, shortcodes, name)
+      : undefined;
+    if (!tags?.length) {
+      tags = undefined;
+    }
 
     return {
       emoji: removeVariationSelector(emoji.emoji),
       name,
       shortcodes,
-      tags: emoji.tags || [],
+      tags: TAGS_DISABLED ? undefined : tags,
       group: emoji.group
         ? (messages.groups[emoji.group]?.message ?? "")
         : undefined,
-      emoticons: emoticons.length > 0 ? emoticons : undefined,
-      version: emoji.version,
+      // emoticons: emoticons.length > 0 ? emoticons : undefined,
+      // version: emoji.version,
       // #region - disabled fallback
       // fallbackImage: hasFallbackImage
       //   ? `https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/${dataSourceEmoji.image}`
