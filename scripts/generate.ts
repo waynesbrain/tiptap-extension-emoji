@@ -10,7 +10,7 @@ import type { EmojiItem } from "../src/emoji";
 import { removeVariationSelector } from "../src/helpers/removeVariationSelector";
 
 const emojis: EmojiItem[] = data
-  // .filter(emoji => emoji.version > 0 && emoji.version < 14)
+  .filter((emoji) => emoji.version > 0 && emoji.version < 14)
   .map((emoji) => {
     // #region - disabled fallback
     // const dataSourceEmoji = dataSource.find((item) => {
@@ -44,49 +44,56 @@ const emojis: EmojiItem[] = data
     };
   });
 
-const gitHubCustomEmojiNames = [
-  // "atom",
-  // "basecamp",
-  // "basecampy",
-  "bowtie",
-  // "electron",
-  "feelsgood",
-  // "finnadie",
-  // "goberserk",
-  // "godmode",
-  // "hurtrealbad",
-  // "neckbeard",
-  // "octocat",
-  "rage1",
-  "rage2",
-  "rage3",
-  "rage4",
-  "shipit",
-  "suspect",
-  "trollface",
-];
+// #region - disable fallback (github emoji are useless without them)
+// const gitHubCustomEmojiNames = [
+//   // "atom",
+//   // "basecamp",
+//   // "basecampy",
+//   "bowtie",
+//   // "electron",
+//   "feelsgood",
+//   // "finnadie",
+//   // "goberserk",
+//   // "godmode",
+//   // "hurtrealbad",
+//   // "neckbeard",
+//   // "octocat",
+//   "rage1",
+//   "rage2",
+//   "rage3",
+//   "rage4",
+//   "shipit",
+//   "suspect",
+//   "trollface",
+// ];
 
-const gitHubCustomEmojis: EmojiItem[] = gitHubCustomEmojiNames.map((name) => {
-  return {
-    name,
-    shortcodes: [name],
-    tags: [],
-    group: "GitHub",
-    // #region - disable fallback
-    // fallbackImage: `https://github.githubassets.com/images/icons/emoji/${name}.png`,
-    // #endregion
-  };
-});
+// const gitHubCustomEmojis: EmojiItem[] = gitHubCustomEmojiNames.map((name) => {
+//   return {
+//     name,
+//     shortcodes: [name],
+//     tags: [],
+//     group: "GitHub",
+//     fallbackImage: `https://github.githubassets.com/images/icons/emoji/${name}.png`,
+//   };
+// });
+
+// const content = `// This is a generated file
+
+// import type { EmojiItem } from "./emoji.js";
+
+// export const emojis: EmojiItem[] = ${json5.stringify(emojis, { space: 2, quote: '"' })};
+
+// export const gitHubCustomEmojis: EmojiItem[] = ${json5.stringify(gitHubCustomEmojis, { space: 2, quote: '"' })};
+
+// export const gitHubEmojis: EmojiItem[] = [...emojis, ...gitHubCustomEmojis];
+// `;
+// #endregion
 
 const content = `// This is a generated file
 
 import type { EmojiItem } from "./emoji.js";
 
 export const emojis: EmojiItem[] = ${json5.stringify(emojis, { space: 2, quote: '"' })};
-
-export const gitHubCustomEmojis: EmojiItem[] = ${json5.stringify(gitHubCustomEmojis, { space: 2, quote: '"' })};
-
-export const gitHubEmojis: EmojiItem[] = [...emojis, ...gitHubCustomEmojis];
 `;
 
 fs.writeFileSync("./src/data.ts", content);
