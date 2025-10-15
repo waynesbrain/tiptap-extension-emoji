@@ -6,8 +6,8 @@ import gitHubShortcodes from 'emojibase-data/en/shortcodes/github.json'
 import fs from 'fs'
 import json5 from 'json5'
 
-import type { EmojiItem } from './emoji.js'
-import { removeVariationSelector } from './helpers/removeVariationSelector.js'
+import type { EmojiItem } from '../src/emoji'
+import { removeVariationSelector } from '../src/helpers/removeVariationSelector'
 
 const emojis: EmojiItem[] = data
   // .filter(emoji => emoji.version > 0 && emoji.version < 14)
@@ -16,8 +16,8 @@ const emojis: EmojiItem[] = data
       return item.unified === emoji.hexcode || item.non_qualified === emoji.hexcode
     })
     const hasFallbackImage = dataSourceEmoji?.has_img_apple
-    const name = [gitHubShortcodes[emoji.hexcode]].flat()[0] || [emojibaseShortcodes[emoji.hexcode]].flat()[0]
-    const shortcodes = emojibaseShortcodes[emoji.hexcode] ? [emojibaseShortcodes[emoji.hexcode]].flat() : []
+    const name = [gitHubShortcodes[emoji.hexcode]].flat()[0] || [emojibaseShortcodes[emoji.hexcode]].flat()[0]!
+    const shortcodes = emojibaseShortcodes[emoji.hexcode] ? [emojibaseShortcodes[emoji.hexcode]!].flat() : []
     const emoticons = emoji.emoticon ? [emoji.emoticon].flat() : []
 
     return {
@@ -25,7 +25,7 @@ const emojis: EmojiItem[] = data
       name,
       shortcodes,
       tags: emoji.tags || [],
-      group: emoji.group ? messages.groups[emoji.group].message : '',
+      group: emoji.group ? messages.groups[emoji.group]?.message ?? '' : '',
       emoticons,
       version: emoji.version,
       fallbackImage: hasFallbackImage

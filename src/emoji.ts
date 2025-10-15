@@ -143,7 +143,7 @@ export const Emoji = Node.create<EmojiOptions, EmojiStorage>({
         },
         allow: ({ state, range }) => {
           const $from = state.doc.resolve(range.from)
-          const type = state.schema.nodes[this.name]
+          const type = state.schema.nodes[this.name]!
           const allow = !!$from.parent.type.contentMatch.matchType(type)
 
           return allow
@@ -168,7 +168,7 @@ export const Emoji = Node.create<EmojiOptions, EmojiStorage>({
     return {
       emojis: this.options.emojis,
       isSupported: emojiItem => {
-        return emojiItem.version ? supportMap[emojiItem.version] : false
+        return emojiItem.version ? supportMap[emojiItem.version]! : false
       },
     }
   },
@@ -279,7 +279,7 @@ export const Emoji = Node.create<EmojiOptions, EmojiStorage>({
       new InputRule({
         find: inputRegex,
         handler: ({ range, match, chain }) => {
-          const name = match[1]
+          const name = match[1]!
 
           if (!shortcodeToEmoji(name, this.options.emojis)) {
             return
@@ -312,7 +312,7 @@ export const Emoji = Node.create<EmojiOptions, EmojiStorage>({
           find: emoticonRegex,
           type: this.type,
           getAttributes: match => {
-            const emoji = this.options.emojis.find(item => item.emoticons?.includes(match[1]))
+            const emoji = this.options.emojis.find(item => item.emoticons?.includes(match[1]!))
 
             if (!emoji) {
               return
@@ -336,7 +336,7 @@ export const Emoji = Node.create<EmojiOptions, EmojiStorage>({
         handler: ({ range, match, chain }) => {
           // match[1] is the optional prefix (start or whitespace), match[2] is the shortcode name
           const prefix = match[1] || ''
-          const name = match[2]
+          const name = match[2]!
 
           if (!shortcodeToEmoji(name, this.options.emojis)) {
             return
@@ -381,7 +381,7 @@ export const Emoji = Node.create<EmojiOptions, EmojiStorage>({
         props: {
           // double click to select emoji doesn’t work by default
           // that’s why we simulate this behavior
-          handleDoubleClickOn: (view, pos, node) => {
+          handleDoubleClickOn: (_view, pos, node) => {
             if (node.type !== this.type) {
               return false
             }

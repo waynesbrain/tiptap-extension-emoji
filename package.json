@@ -1,21 +1,16 @@
 {
-  "name": "@tiptap/extension-emoji",
+  "name": "tiptap-extension-emoji",
   "description": "emoji extension for tiptap",
   "version": "3.7.0",
-  "homepage": "https://tiptap.dev/api/nodes/emoji",
+  "homepage": "https://github.com/waynesbrain/tiptap-extension-emoji",
   "keywords": [
     "tiptap",
     "tiptap extension"
   ],
   "license": "MIT",
-  "funding": {
-    "type": "github",
-    "url": "https://github.com/sponsors/ueberdosis"
-  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ueberdosis/tiptap",
-    "directory": "packages/extension-emoji"
+    "url": "https://github.com/waynesbrain/tiptap-extension-emoji"
   },
   "type": "module",
   "exports": {
@@ -35,10 +30,20 @@
     "src",
     "dist"
   ],
+  "scripts": {
+    "dev": "vite build --watch",
+    "build": "tsc -b && vite build",
+    "generate": "tsx ./scripts/generate.ts",
+    "format": "prettier --write \"./src/**/*.{css,js,jsx,scss,ts,tsx}\"",
+    "lint": "eslint .",
+    "lint-ts": "tsc -b --noEmit --pretty",
+    "preview": "vite preview",
+    "start": "vite build --watch"
+  },
   "peerDependencies": {
-    "@tiptap/core": "workspace:^",
-    "@tiptap/pm": "workspace:^",
-    "@tiptap/suggestion": "workspace:^"
+    "@tiptap/core": "^3.7.0",
+    "@tiptap/pm": "^3.7.0",
+    "@tiptap/suggestion": "^3.7.0"
   },
   "dependencies": {
     "emoji-regex": "^10.4.0",
@@ -46,15 +51,23 @@
     "is-emoji-supported": "^0.0.5"
   },
   "devDependencies": {
-    "@tiptap/core": "workspace:^",
-    "@tiptap/pm": "workspace:^",
-    "@tiptap/suggestion": "workspace:^",
+    "@eslint/js": "^9.30.1",
+    "@rollup/plugin-typescript": "^12.1.4",
+    "@tiptap/core": "^3.7.0",
+    "@tiptap/pm": "^3.7.0",
+    "@tiptap/suggestion": "^3.7.0",
+    "@types/node": "^22",
     "emoji-datasource": "^7.0.2",
+    "eslint": "^9.30.1",
+    "globals": "^16.3.0",
     "json5": "^2.2.3",
-    "tsm": "^2.3.0"
+    "tsx": "^4.20.6",
+    "typescript": "^5.8.3",
+    "typescript-eslint": "^8.38.0",
+    "vite": "^7.1.5"
   },
-  "scripts": {
-    "build": "tsup",
-    "lint": "prettier ./src/ --check && eslint --cache --quiet --no-error-on-unmatched-pattern ./src/"
+  "prettier": {
+    "trailingComma": "all",
+    "proseWrap": "always"
   }
 }
