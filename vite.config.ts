@@ -1,6 +1,6 @@
 import { resolve } from "node:path";
 import { defineConfig } from "vite";
-import typescript from "@rollup/plugin-typescript";
+import dts from "vite-plugin-dts";
 
 // https://vite.dev/config/
 export default defineConfig({
@@ -45,27 +45,12 @@ export default defineConfig({
   },
   plugins: [
     /**
-     * Generate d.ts files.
+     * Bundle type declarations into a single index.d.ts file.
      * See https://github.com/vitejs/vite/issues/2049
      */
-    typescript({
-      declaration: true,
-      emitDeclarationOnly: true,
-      jsx: "react-jsx",
-      tsconfig: resolve(__dirname, "tsconfig.app.json"),
-      compilerOptions: {
-        outDir: resolve(__dirname, "./dist"),
-        declaration: true,
-        declarationMap: true,
-        emitDeclarationOnly: true,
-        /**
-         * Fix error `@rollup/plugin-typescript TS5096: Option
-         * 'allowImportingTsExtensions' can only be used when either 'noEmit'
-         * or 'emitDeclarationOnly' is set.`
-         */
-        allowImportingTsExtensions: false,
-        noEmit: false,
-      },
+    dts({
+      rollupTypes: true,
+      tsconfigPath: "./tsconfig.app.json",
     }),
   ],
 });

@@ -16,11 +16,9 @@
   "exports": {
     ".": {
       "types": {
-        "import": "./dist/index.d.ts",
-        "require": "./dist/index.d.cts"
+        "import": "./dist/index.d.ts"
       },
-      "import": "./dist/index.js",
-      "require": "./dist/index.cjs"
+      "import": "./dist/index.js"
     }
   },
   "main": "dist/index.cjs",
@@ -52,7 +50,6 @@
   },
   "devDependencies": {
     "@eslint/js": "^9.30.1",
-    "@rollup/plugin-typescript": "^12.1.4",
     "@tiptap/core": "^3.7.0",
     "@tiptap/pm": "^3.7.0",
     "@tiptap/suggestion": "^3.7.0",
@@ -65,7 +62,8 @@
     "tsx": "^4.20.6",
     "typescript": "^5.8.3",
     "typescript-eslint": "^8.38.0",
-    "vite": "^7.1.5"
+    "vite": "^7.1.5",
+    "vite-plugin-dts": "^4.5.4"
   },
   "prettier": {
     "trailingComma": "all",
