@@ -5,6 +5,9 @@ export function emojiToShortcode(
   emoji: string,
   emojis: EmojiItem[],
 ): string | undefined {
-  return emojis.find((item) => item.emoji === removeVariationSelector(emoji))
-    ?.shortcodes[0];
+  return emojis.find(
+    (item) =>
+      item.emoji === removeVariationSelector(emoji) ||
+      item.emoji === removeVariationSelector(emoji, true),
+  )?.shortcodes[0];
 }
