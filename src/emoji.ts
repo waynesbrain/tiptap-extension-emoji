@@ -8,31 +8,31 @@ import {
   Node,
   nodeInputRule,
   PasteRule,
-} from '@tiptap/core'
-import type { Transaction } from '@tiptap/pm/state'
-import { Plugin, PluginKey } from '@tiptap/pm/state'
-import type { SuggestionOptions } from '@tiptap/suggestion'
-import Suggestion from '@tiptap/suggestion'
-import emojiRegex from 'emoji-regex'
-import { isEmojiSupported } from 'is-emoji-supported'
+} from "@tiptap/core";
+import type { Transaction } from "@tiptap/pm/state";
+import { Plugin, PluginKey } from "@tiptap/pm/state";
+import type { SuggestionOptions } from "@tiptap/suggestion";
+import Suggestion from "@tiptap/suggestion";
+import emojiRegex from "emoji-regex";
+import { isEmojiSupported } from "is-emoji-supported";
 
-import { emojis as defaultEmojis } from './data.js'
-import { emojiToShortcode } from './helpers/emojiToShortcode.js'
-import { removeDuplicates } from './helpers/removeDuplicates.js'
-import { shortcodeToEmoji } from './helpers/shortcodeToEmoji.js'
+import { emojis as defaultEmojis } from "./data.js";
+import { emojiToShortcode } from "./helpers/emojiToShortcode.js";
+import { removeDuplicates } from "./helpers/removeDuplicates.js";
+import { shortcodeToEmoji } from "./helpers/shortcodeToEmoji.js";
 
-declare module '@tiptap/core' {
+declare module "@tiptap/core" {
   interface Commands<ReturnType> {
     emoji: {
       /**
        * Add an emoji
        */
-      setEmoji: (shortcode: string) => ReturnType
-    }
+      setEmoji: (shortcode: string) => ReturnType;
+    };
   }
 
   interface Storage {
-    emoji: EmojiStorage
+    emoji: EmojiStorage;
   }
 }
 
@@ -40,66 +40,66 @@ export type EmojiItem = {
   /**
    * A unique name of the emoji which will be stored as attribute
    */
-  name: string
+  name: string;
   /**
    * The emoji unicode character
    */
-  emoji?: string
+  emoji?: string;
   /**
    * A list of unique shortcodes that are used by input rules to find the emoji
    */
-  shortcodes: string[]
+  shortcodes: string[];
   /**
    * A list of tags that can help for searching emojis
    */
-  tags: string[]
+  tags: string[];
   /**
    * A name that can help to group emojis
    */
-  group?: string
+  group?: string;
   /**
    * A list of unique emoticons
    */
-  emoticons?: string[]
+  emoticons?: string[];
   /**
    * The unicode version the emoji was introduced
    */
-  version?: number
+  version?: number;
   /**
    * A fallback image if the current system doesn't support the emoji or for custom emojis
    */
-  fallbackImage?: string
+  fallbackImage?: string;
   /**
    * Store some custom data
    */
-  [key: string]: any
-}
+  [key: string]: any;
+};
 
 export type EmojiOptions = {
-  HTMLAttributes: Record<string, any>
-  emojis: EmojiItem[]
-  enableEmoticons: boolean
-  forceFallbackImages: boolean
-  suggestion: Omit<SuggestionOptions, 'editor'>
-}
+  HTMLAttributes: Record<string, any>;
+  emojis: EmojiItem[];
+  enableEmoticons: boolean;
+  forceFallbackImages: boolean;
+  suggestion: Omit<SuggestionOptions, "editor">;
+};
 
 export type EmojiStorage = {
-  emojis: EmojiItem[]
-  isSupported: (item: EmojiItem) => boolean
-}
+  emojis: EmojiItem[];
+  isSupported: (item: EmojiItem) => boolean;
+};
 
-export const EmojiSuggestionPluginKey = new PluginKey('emojiSuggestion')
+export const EmojiSuggestionPluginKey = new PluginKey("emojiSuggestion");
 
-export const inputRegex = /:([a-zA-Z0-9_+-]+):$/
+export const inputRegex = /:([a-zA-Z0-9_+-]+):$/;
 
-export const pasteRegex = /(^|\s):([a-zA-Z0-9_+-]+):/g
+export const pasteRegex = /(^|\s):([a-zA-Z0-9_+-]+):/g;
 
 export const Emoji = Node.create<EmojiOptions, EmojiStorage>({
-  name: 'emoji',
+  name: "emoji",
 
   inline: true,
 
-  group: 'inline',
+  group: "inline",
 
   selectable: false,
 
@@ -110,16 +110,16 @@ export const Emoji = Node.create<EmojiOptions, EmojiStorage>({
       enableEmoticons: false,
       forceFallbackImages: false,
       suggestion: {
-        char: ':',
+        char: ":",
         pluginKey: EmojiSuggestionPluginKey,
         command: ({ editor, range, props }) => {
           // increase range.to by one when the next node is of type "text"
           // and starts with a space character
-          const nodeAfter = editor.view.state.selection.$to.nodeAfter
-          const overrideSpace = nodeAfter?.text?.startsWith(' ')
+          const nodeAfter = editor.view.state.selection.$to.nodeAfter;
+          const overrideSpace = nodeAfter?.text?.startsWith(" ");
 
           if (overrideSpace) {
-            range.to += 1
+            range.to += 1;
           }
 
           editor
@@ -131,58 +131,66 @@ export const Emoji = Node.create<EmojiOptions, EmojiStorage>({
                 attrs: props,
               },
               {
-                type: 'text',
-                text: ' ',
+                type: "text",
+                text: " ",
               },
             ])
             .command(({ tr, state }) => {
-              tr.setStoredMarks(state.doc.resolve(state.selection.to - 2).marks())
-              return true
+              tr.setStoredMarks(
+                state.doc.resolve(state.selection.to - 2).marks(),
+              );
+              return true;
             })
-            .run()
+            .run();
         },
         allow: ({ state, range }) => {
-          const $from = state.doc.resolve(range.from)
-          const type = state.schema.nodes[this.name]!
-          const allow = !!$from.parent.type.contentMatch.matchType(type)
+          const $from = state.doc.resolve(range.from);
+          const type = state.schema.nodes[this.name]!;
+          const allow = !!$from.parent.type.contentMatch.matchType(type);
 
-          return allow
+          return allow;
         },
       },
-    }
+    };
   },
 
   addStorage() {
-    const { emojis } = this.options
-    const supportMap: Record<number, boolean> = removeDuplicates(emojis.map(item => item.version))
-      .filter(version => typeof version === 'number')
+    const { emojis } = this.options;
+    const supportMap: Record<number, boolean> = removeDuplicates(
+      emojis.map((item) => item.version),
+    )
+      .filter((version) => typeof version === "number")
       .reduce((versions, version) => {
-        const emoji = emojis.find(item => item.version === version && item.emoji)
+        const emoji = emojis.find(
+          (item) => item.version === version && item.emoji,
+        );
 
         return {
           ...versions,
-          [version as number]: emoji ? isEmojiSupported(emoji.emoji as string) : false,
-        }
-      }, {})
+          [version as number]: emoji
+            ? isEmojiSupported(emoji.emoji as string)
+            : false,
+        };
+      }, {});
 
     return {
       emojis: this.options.emojis,
-      isSupported: emojiItem => {
-        return emojiItem.version ? supportMap[emojiItem.version]! : false
+      isSupported: (emojiItem) => {
+        return emojiItem.version ? supportMap[emojiItem.version]! : false;
       },
-    }
+    };
   },
 
   addAttributes() {
     return {
       name: {
         default: null,
-        parseHTML: element => element.dataset.name,
-        renderHTML: attributes => ({
-          'data-name': attributes.name,
+        parseHTML: (element) => element.dataset.name,
+        renderHTML: (attributes) => ({
+          "data-name": attributes.name,
         }),
       },
-    }
+    };
   },
 
   parseHTML() {
@@ -190,68 +198,72 @@ export const Emoji = Node.create<EmojiOptions, EmojiStorage>({
       {
         tag: `span[data-type="${this.name}"]`,
       },
-    ]
+    ];
   },
 
   renderHTML({ HTMLAttributes, node }) {
-    const emojiItem = shortcodeToEmoji(node.attrs.name, this.options.emojis)
-    const attributes = mergeAttributes(HTMLAttributes, this.options.HTMLAttributes, { 'data-type': this.name })
+    const emojiItem = shortcodeToEmoji(node.attrs.name, this.options.emojis);
+    const attributes = mergeAttributes(
+      HTMLAttributes,
+      this.options.HTMLAttributes,
+      { "data-type": this.name },
+    );
 
     if (!emojiItem) {
-      return ['span', attributes, `:${node.attrs.name}:`]
+      return ["span", attributes, `:${node.attrs.name}:`];
     }
 
-    const isSupported = this.storage.isSupported(emojiItem)
-    const hasEmoji = !!emojiItem?.emoji
-    const hasFallbackImage = !!emojiItem?.fallbackImage
+    const isSupported = this.storage.isSupported(emojiItem);
+    const hasEmoji = !!emojiItem?.emoji;
+    const hasFallbackImage = !!emojiItem?.fallbackImage;
 
     const renderFallbackImage =
       (this.options.forceFallbackImages && !hasEmoji) ||
       (this.options.forceFallbackImages && hasFallbackImage) ||
       (this.options.forceFallbackImages && !isSupported && hasFallbackImage) ||
-      ((!isSupported || !hasEmoji) && hasFallbackImage)
+      ((!isSupported || !hasEmoji) && hasFallbackImage);
 
     return [
-      'span',
+      "span",
       attributes,
       renderFallbackImage
         ? [
-            'img',
+            "img",
             {
               src: emojiItem.fallbackImage,
-              draggable: 'false',
-              loading: 'lazy',
-              align: 'absmiddle',
+              draggable: "false",
+              loading: "lazy",
+              align: "absmiddle",
               alt: `${emojiItem.name} emoji`,
             },
           ]
         : emojiItem.emoji || `:${emojiItem.shortcodes[0]}:`,
-    ]
+    ];
   },
 
   renderText({ node }) {
-    const emojiItem = shortcodeToEmoji(node.attrs.name, this.options.emojis)
+    const emojiItem = shortcodeToEmoji(node.attrs.name, this.options.emojis);
 
-    return emojiItem?.emoji || `:${node.attrs.name}:`
+    return emojiItem?.emoji || `:${node.attrs.name}:`;
   },
 
-  renderMarkdown: node => {
+  renderMarkdown: (node) => {
     if (!node.attrs?.name) {
-      return ''
+      return "";
     }
 
-    return `:${node.attrs.name}:`
+    return `:${node.attrs.name}:`;
   },
 
   addCommands() {
     return {
       setEmoji:
-        shortcode =>
+        (shortcode) =>
         ({ chain }) => {
-          const emojiItem = shortcodeToEmoji(shortcode, this.options.emojis)
+          const emojiItem = shortcodeToEmoji(shortcode, this.options.emojis);
 
           if (!emojiItem) {
-            return false
+            return false;
           }
 
           chain()
@@ -262,27 +274,29 @@ export const Emoji = Node.create<EmojiOptions, EmojiStorage>({
               },
             })
             .command(({ tr, state }) => {
-              tr.setStoredMarks(state.doc.resolve(state.selection.to - 1).marks())
-              return true
+              tr.setStoredMarks(
+                state.doc.resolve(state.selection.to - 1).marks(),
+              );
+              return true;
             })
-            .run()
+            .run();
 
-          return true
+          return true;
         },
-    }
+    };
   },
 
   addInputRules() {
-    const inputRules: InputRule[] = []
+    const inputRules: InputRule[] = [];
 
     inputRules.push(
       new InputRule({
         find: inputRegex,
         handler: ({ range, match, chain }) => {
-          const name = match[1]!
+          const name = match[1]!;
 
           if (!shortcodeToEmoji(name, this.options.emojis)) {
-            return
+            return;
           }
 
           chain()
@@ -293,40 +307,48 @@ export const Emoji = Node.create<EmojiOptions, EmojiStorage>({
               },
             })
             .command(({ tr, state }) => {
-              tr.setStoredMarks(state.doc.resolve(state.selection.to - 1).marks())
-              return true
+              tr.setStoredMarks(
+                state.doc.resolve(state.selection.to - 1).marks(),
+              );
+              return true;
             })
-            .run()
+            .run();
         },
       }),
-    )
+    );
 
     if (this.options.enableEmoticons) {
       // get the list of supported emoticons
-      const emoticons = this.options.emojis.flatMap(item => item.emoticons).filter(item => item) as string[]
+      const emoticons = this.options.emojis
+        .flatMap((item) => item.emoticons)
+        .filter((item) => item) as string[];
 
-      const emoticonRegex = new RegExp(`(?:^|\\s)(${emoticons.map(item => escapeForRegEx(item)).join('|')}) $`)
+      const emoticonRegex = new RegExp(
+        `(?:^|\\s)(${emoticons.map((item) => escapeForRegEx(item)).join("|")}) $`,
+      );
 
       inputRules.push(
         nodeInputRule({
           find: emoticonRegex,
           type: this.type,
-          getAttributes: match => {
-            const emoji = this.options.emojis.find(item => item.emoticons?.includes(match[1]!))
+          getAttributes: (match) => {
+            const emoji = this.options.emojis.find((item) =>
+              item.emoticons?.includes(match[1]!),
+            );
 
             if (!emoji) {
-              return
+              return;
             }
 
             return {
               name: emoji.name,
-            }
+            };
           },
         }),
-      )
+      );
     }
 
-    return inputRules
+    return inputRules;
   },
 
   addPasteRules() {
@@ -335,16 +357,16 @@ export const Emoji = Node.create<EmojiOptions, EmojiStorage>({
         find: pasteRegex,
         handler: ({ range, match, chain }) => {
           // match[1] is the optional prefix (start or whitespace), match[2] is the shortcode name
-          const prefix = match[1] || ''
-          const name = match[2]!
+          const prefix = match[1] || "";
+          const name = match[2]!;
 
           if (!shortcodeToEmoji(name, this.options.emojis)) {
-            return
+            return;
           }
 
           // Replace only the shortcode portion (preserve the prefix)
-          const shortcodeFrom = range.from + prefix.length
-          const shortcodeTo = range.to
+          const shortcodeFrom = range.from + prefix.length;
+          const shortcodeTo = range.to;
 
           chain()
             .insertContentAt(
@@ -360,13 +382,15 @@ export const Emoji = Node.create<EmojiOptions, EmojiStorage>({
               },
             )
             .command(({ tr, state }) => {
-              tr.setStoredMarks(state.doc.resolve(state.selection.to - 1).marks())
-              return true
+              tr.setStoredMarks(
+                state.doc.resolve(state.selection.to - 1).marks(),
+              );
+              return true;
             })
-            .run()
+            .run();
         },
       }),
-    ]
+    ];
   },
 
   addProseMirrorPlugins() {
@@ -377,24 +401,24 @@ export const Emoji = Node.create<EmojiOptions, EmojiStorage>({
       }),
 
       new Plugin({
-        key: new PluginKey('emoji'),
+        key: new PluginKey("emoji"),
         props: {
           // double click to select emoji doesn’t work by default
           // that’s why we simulate this behavior
           handleDoubleClickOn: (_view, pos, node) => {
             if (node.type !== this.type) {
-              return false
+              return false;
             }
 
-            const from = pos
-            const to = from + node.nodeSize
+            const from = pos;
+            const to = from + node.nodeSize;
 
             this.editor.commands.setTextSelection({
               from,
               to,
-            })
+            });
 
-            return true
+            return true;
           },
         },
 
@@ -402,17 +426,22 @@ export const Emoji = Node.create<EmojiOptions, EmojiStorage>({
         appendTransaction: (transactions, oldState, newState) => {
           // Skip processing during IME composition
           if (this.editor.view.composing) {
-            return
+            return;
           }
-          const docChanges = transactions.some(transaction => transaction.docChanged) && !oldState.doc.eq(newState.doc)
+          const docChanges =
+            transactions.some((transaction) => transaction.docChanged) &&
+            !oldState.doc.eq(newState.doc);
 
           if (!docChanges) {
-            return
+            return;
           }
 
-          const { tr } = newState
-          const transform = combineTransactionSteps(oldState.doc, transactions as Transaction[])
-          const changes = getChangedRanges(transform)
+          const { tr } = newState;
+          const transform = combineTransactionSteps(
+            oldState.doc,
+            transactions as Transaction[],
+          );
+          const changes = getChangedRanges(transform);
 
           changes.forEach(({ newRange }) => {
             // We don’t want to add emoji inline nodes within code blocks.
@@ -422,56 +451,60 @@ export const Emoji = Node.create<EmojiOptions, EmojiStorage>({
             // For all other cases (e.g. the whole document is set/pasted and the parent of the range is `doc`)
             // it doesn't and we have to double check later.
             if (newState.doc.resolve(newRange.from).parent.type.spec.code) {
-              return
+              return;
             }
 
-            const textNodes = findChildrenInRange(newState.doc, newRange, node => node.type.isText)
+            const textNodes = findChildrenInRange(
+              newState.doc,
+              newRange,
+              (node) => node.type.isText,
+            );
 
             textNodes.forEach(({ node, pos }) => {
               if (!node.text) {
-                return
+                return;
               }
 
-              const matches = [...node.text.matchAll(emojiRegex())]
+              const matches = [...node.text.matchAll(emojiRegex())];
 
-              matches.forEach(match => {
+              matches.forEach((match) => {
                 if (match.index === undefined) {
-                  return
+                  return;
                 }
 
-                const emoji = match[0]
-                const name = emojiToShortcode(emoji, this.options.emojis)
+                const emoji = match[0];
+                const name = emojiToShortcode(emoji, this.options.emojis);
 
                 if (!name) {
-                  return
+                  return;
                 }
 
-                const from = tr.mapping.map(pos + match.index)
+                const from = tr.mapping.map(pos + match.index);
 
                 // Double check parent node is not a code block.
                 if (newState.doc.resolve(from).parent.type.spec.code) {
-                  return
+                  return;
                 }
 
-                const to = from + emoji.length
+                const to = from + emoji.length;
                 const emojiNode = this.type.create({
                   name,
-                })
+                });
 
-                tr.replaceRangeWith(from, to, emojiNode)
+                tr.replaceRangeWith(from, to, emojiNode);
 
-                tr.setStoredMarks(newState.doc.resolve(from).marks())
-              })
-            })
-          })
+                tr.setStoredMarks(newState.doc.resolve(from).marks());
+              });
+            });
+          });
 
           if (!tr.steps.length) {
-            return
+            return;
           }
 
-          return tr
+          return tr;
         },
       }),
-    ]
+    ];
   },
-})
+});
