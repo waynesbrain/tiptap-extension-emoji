@@ -1,4 +1,4 @@
-import dataSource from "emoji-datasource/emoji.json";
+// import dataSource from "emoji-datasource/emoji.json"; // disabled fallback
 import data from "emojibase-data/en/data.json";
 import messages from "emojibase-data/en/messages.json";
 import emojibaseShortcodes from "emojibase-data/en/shortcodes/emojibase.json";
@@ -12,12 +12,14 @@ import { removeVariationSelector } from "../src/helpers/removeVariationSelector"
 const emojis: EmojiItem[] = data
   // .filter(emoji => emoji.version > 0 && emoji.version < 14)
   .map((emoji) => {
-    const dataSourceEmoji = dataSource.find((item) => {
-      return (
-        item.unified === emoji.hexcode || item.non_qualified === emoji.hexcode
-      );
-    });
-    const hasFallbackImage = dataSourceEmoji?.has_img_apple;
+    // #region - disabled fallback
+    // const dataSourceEmoji = dataSource.find((item) => {
+    //   return (
+    //     item.unified === emoji.hexcode || item.non_qualified === emoji.hexcode
+    //   );
+    // });
+    // const hasFallbackImage = dataSourceEmoji?.has_img_apple;
+    // #endregion
     const name =
       [gitHubShortcodes[emoji.hexcode]].flat()[0] ||
       [emojibaseShortcodes[emoji.hexcode]].flat()[0]!;
@@ -34,25 +36,27 @@ const emojis: EmojiItem[] = data
       group: emoji.group ? (messages.groups[emoji.group]?.message ?? "") : "",
       emoticons,
       version: emoji.version,
-      fallbackImage: hasFallbackImage
-        ? `https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/${dataSourceEmoji.image}`
-        : undefined,
+      // #region - disabled fallback
+      // fallbackImage: hasFallbackImage
+      //   ? `https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/${dataSourceEmoji.image}`
+      //   : undefined,
+      // #endregion
     };
   });
 
 const gitHubCustomEmojiNames = [
-  "atom",
-  "basecamp",
-  "basecampy",
+  // "atom",
+  // "basecamp",
+  // "basecampy",
   "bowtie",
-  "electron",
+  // "electron",
   "feelsgood",
-  "finnadie",
-  "goberserk",
-  "godmode",
-  "hurtrealbad",
-  "neckbeard",
-  "octocat",
+  // "finnadie",
+  // "goberserk",
+  // "godmode",
+  // "hurtrealbad",
+  // "neckbeard",
+  // "octocat",
   "rage1",
   "rage2",
   "rage3",
@@ -68,7 +72,9 @@ const gitHubCustomEmojis: EmojiItem[] = gitHubCustomEmojiNames.map((name) => {
     shortcodes: [name],
     tags: [],
     group: "GitHub",
-    fallbackImage: `https://github.githubassets.com/images/icons/emoji/${name}.png`,
+    // #region - disable fallback
+    // fallbackImage: `https://github.githubassets.com/images/icons/emoji/${name}.png`,
+    // #endregion
   };
 });
 

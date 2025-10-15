@@ -245,8 +245,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f600.png",
   },
   {
     emoji: "😃",
@@ -256,8 +254,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f603.png",
   },
   {
     emoji: "😄",
@@ -267,8 +263,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [":D"],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f604.png",
   },
   {
     emoji: "😁",
@@ -278,8 +272,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f601.png",
   },
   {
     emoji: "😆",
@@ -289,8 +281,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: ["xD", "XD"],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f606.png",
   },
   {
     emoji: "😅",
@@ -300,8 +290,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f605.png",
   },
   {
     emoji: "🤣",
@@ -311,8 +299,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [":'D"],
     version: 3,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f923.png",
   },
   {
     emoji: "😂",
@@ -322,8 +308,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [":')"],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f602.png",
   },
   {
     emoji: "🙂",
@@ -333,8 +317,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [":)"],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f642.png",
   },
   {
     emoji: "🙃",
@@ -344,8 +326,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f643.png",
   },
   {
     emoji: "🫠",
@@ -364,8 +344,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [";)"],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f609.png",
   },
   {
     emoji: "😊",
@@ -375,8 +353,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [":>"],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f60a.png",
   },
   {
     emoji: "😇",
@@ -386,8 +362,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: ["o:)", "O:)"],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f607.png",
   },
   {
     emoji: "🥰",
@@ -397,8 +371,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f970.png",
   },
   {
     emoji: "😍",
@@ -408,8 +380,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f60d.png",
   },
   {
     emoji: "🤩",
@@ -419,8 +389,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f929.png",
   },
   {
     emoji: "😘",
@@ -430,8 +398,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [":x", ":X"],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f618.png",
   },
   {
     emoji: "😗",
@@ -441,8 +407,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f617.png",
   },
   {
     emoji: "☺",
@@ -452,8 +416,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/263a-fe0f.png",
   },
   {
     emoji: "😚",
@@ -463,8 +425,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [":*"],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f61a.png",
   },
   {
     emoji: "😙",
@@ -474,8 +434,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f619.png",
   },
   {
     emoji: "🥲",
@@ -485,8 +443,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 13,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f972.png",
   },
   {
     emoji: "😋",
@@ -496,8 +452,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f60b.png",
   },
   {
     emoji: "😛",
@@ -507,8 +461,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [":p", ":P"],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f61b.png",
   },
   {
     emoji: "😜",
@@ -518,8 +470,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [";p", ";P"],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f61c.png",
   },
   {
     emoji: "🤪",
@@ -529,8 +479,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f92a.png",
   },
   {
     emoji: "😝",
@@ -540,8 +488,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: ["xp", "xP", "XP"],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f61d.png",
   },
   {
     emoji: "🤑",
@@ -551,8 +497,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f911.png",
   },
   {
     emoji: "🤗",
@@ -562,8 +506,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f917.png",
   },
   {
     emoji: "🤭",
@@ -573,8 +515,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f92d.png",
   },
   {
     emoji: "🫢",
@@ -602,8 +542,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f92b.png",
   },
   {
     emoji: "🤔",
@@ -613,8 +551,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [":l", ":L"],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f914.png",
   },
   {
     emoji: "🫡",
@@ -633,8 +569,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [":z", ":Z"],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f910.png",
   },
   {
     emoji: "🤨",
@@ -644,8 +578,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f928.png",
   },
   {
     emoji: "😐",
@@ -655,8 +587,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [":|"],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f610.png",
   },
   {
     emoji: "😑",
@@ -666,8 +596,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f611.png",
   },
   {
     emoji: "😶",
@@ -677,8 +605,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [":#"],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f636.png",
   },
   {
     emoji: "🫥",
@@ -697,8 +623,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 13.1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f636-200d-1f32b-fe0f.png",
   },
   {
     emoji: "😏",
@@ -708,8 +632,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [":j"],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f60f.png",
   },
   {
     emoji: "😒",
@@ -719,8 +641,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [":?"],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f612.png",
   },
   {
     emoji: "🙄",
@@ -730,8 +650,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f644.png",
   },
   {
     emoji: "😬",
@@ -741,8 +659,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: ["8D"],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f62c.png",
   },
   {
     emoji: "😮‍💨",
@@ -752,8 +668,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 13.1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f62e-200d-1f4a8.png",
   },
   {
     emoji: "🤥",
@@ -763,8 +677,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 3,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f925.png",
   },
   {
     emoji: "🫨",
@@ -801,8 +713,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f60c.png",
   },
   {
     emoji: "😔",
@@ -812,8 +722,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f614.png",
   },
   {
     emoji: "😪",
@@ -823,8 +731,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f62a.png",
   },
   {
     emoji: "🤤",
@@ -834,8 +740,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 3,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f924.png",
   },
   {
     emoji: "😴",
@@ -845,8 +749,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f634.png",
   },
   {
     emoji: "😷",
@@ -856,8 +758,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f637.png",
   },
   {
     emoji: "🤒",
@@ -867,8 +767,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f912.png",
   },
   {
     emoji: "🤕",
@@ -878,8 +776,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f915.png",
   },
   {
     emoji: "🤢",
@@ -889,8 +785,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: ["%("],
     version: 3,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f922.png",
   },
   {
     emoji: "🤮",
@@ -900,8 +794,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f92e.png",
   },
   {
     emoji: "🤧",
@@ -911,8 +803,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 3,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f927.png",
   },
   {
     emoji: "🥵",
@@ -922,8 +812,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f975.png",
   },
   {
     emoji: "🥶",
@@ -933,8 +821,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f976.png",
   },
   {
     emoji: "🥴",
@@ -944,8 +830,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [":&"],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f974.png",
   },
   {
     emoji: "😵",
@@ -955,8 +839,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: ["xo", "XO"],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f635.png",
   },
   {
     emoji: "😵‍💫",
@@ -966,8 +848,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 13.1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f635-200d-1f4ab.png",
   },
   {
     emoji: "🤯",
@@ -977,8 +857,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f92f.png",
   },
   {
     emoji: "🤠",
@@ -988,8 +866,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 3,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f920.png",
   },
   {
     emoji: "🥳",
@@ -999,8 +875,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f973.png",
   },
   {
     emoji: "🥸",
@@ -1010,8 +884,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 13,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f978.png",
   },
   {
     emoji: "😎",
@@ -1021,8 +893,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: ["8)"],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f60e.png",
   },
   {
     emoji: "🤓",
@@ -1032,8 +902,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [":B"],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f913.png",
   },
   {
     emoji: "🧐",
@@ -1043,8 +911,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9d0.png",
   },
   {
     emoji: "😕",
@@ -1054,8 +920,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [":/"],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f615.png",
   },
   {
     emoji: "🫤",
@@ -1074,8 +938,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f61f.png",
   },
   {
     emoji: "🙁",
@@ -1085,8 +947,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f641.png",
   },
   {
     emoji: "☹",
@@ -1096,8 +956,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [":("],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2639-fe0f.png",
   },
   {
     emoji: "😮",
@@ -1107,8 +965,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f62e.png",
   },
   {
     emoji: "😯",
@@ -1118,8 +974,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f62f.png",
   },
   {
     emoji: "😲",
@@ -1129,8 +983,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [":o", ":O"],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f632.png",
   },
   {
     emoji: "😳",
@@ -1140,8 +992,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [":$"],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f633.png",
   },
   {
     emoji: "🥺",
@@ -1151,8 +1001,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f97a.png",
   },
   {
     emoji: "🥹",
@@ -1171,8 +1019,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f626.png",
   },
   {
     emoji: "😧",
@@ -1182,8 +1028,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [":s", ":S"],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f627.png",
   },
   {
     emoji: "😨",
@@ -1193,8 +1037,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f628.png",
   },
   {
     emoji: "😰",
@@ -1204,8 +1046,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f630.png",
   },
   {
     emoji: "😥",
@@ -1215,8 +1055,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f625.png",
   },
   {
     emoji: "😢",
@@ -1226,8 +1064,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [":'("],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f622.png",
   },
   {
     emoji: "😭",
@@ -1237,8 +1073,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [":'o"],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f62d.png",
   },
   {
     emoji: "😱",
@@ -1248,8 +1082,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: ["Dx"],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f631.png",
   },
   {
     emoji: "😖",
@@ -1259,8 +1091,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: ["x(", "X("],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f616.png",
   },
   {
     emoji: "😣",
@@ -1270,8 +1100,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f623.png",
   },
   {
     emoji: "😞",
@@ -1281,8 +1109,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f61e.png",
   },
   {
     emoji: "😓",
@@ -1292,8 +1118,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [":<"],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f613.png",
   },
   {
     emoji: "😩",
@@ -1303,8 +1127,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: ["D:"],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f629.png",
   },
   {
     emoji: "😫",
@@ -1314,8 +1136,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [":c", ":C"],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f62b.png",
   },
   {
     emoji: "🥱",
@@ -1325,8 +1145,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f971.png",
   },
   {
     emoji: "😤",
@@ -1336,8 +1154,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f624.png",
   },
   {
     emoji: "😡",
@@ -1347,8 +1163,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [">:/"],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f621.png",
   },
   {
     emoji: "😠",
@@ -1358,8 +1172,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f620.png",
   },
   {
     emoji: "🤬",
@@ -1369,8 +1181,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [":@"],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f92c.png",
   },
   {
     emoji: "😈",
@@ -1380,8 +1190,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [">:)"],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f608.png",
   },
   {
     emoji: "👿",
@@ -1391,8 +1199,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [">:("],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f47f.png",
   },
   {
     emoji: "💀",
@@ -1402,8 +1208,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f480.png",
   },
   {
     emoji: "☠",
@@ -1413,8 +1217,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2620-fe0f.png",
   },
   {
     emoji: "💩",
@@ -1424,8 +1226,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4a9.png",
   },
   {
     emoji: "🤡",
@@ -1435,8 +1235,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 3,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f921.png",
   },
   {
     emoji: "👹",
@@ -1446,8 +1244,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [">0)"],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f479.png",
   },
   {
     emoji: "👺",
@@ -1457,8 +1253,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f47a.png",
   },
   {
     emoji: "👻",
@@ -1468,8 +1262,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f47b.png",
   },
   {
     emoji: "👽",
@@ -1479,8 +1271,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f47d.png",
   },
   {
     emoji: "👾",
@@ -1490,8 +1280,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f47e.png",
   },
   {
     emoji: "🤖",
@@ -1501,8 +1289,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f916.png",
   },
   {
     emoji: "😺",
@@ -1512,8 +1298,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f63a.png",
   },
   {
     emoji: "😸",
@@ -1523,8 +1307,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f638.png",
   },
   {
     emoji: "😹",
@@ -1534,8 +1316,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f639.png",
   },
   {
     emoji: "😻",
@@ -1545,8 +1325,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f63b.png",
   },
   {
     emoji: "😼",
@@ -1556,8 +1334,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f63c.png",
   },
   {
     emoji: "😽",
@@ -1567,8 +1343,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [":3"],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f63d.png",
   },
   {
     emoji: "🙀",
@@ -1578,8 +1352,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f640.png",
   },
   {
     emoji: "😿",
@@ -1589,8 +1361,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f63f.png",
   },
   {
     emoji: "😾",
@@ -1600,8 +1370,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f63e.png",
   },
   {
     emoji: "🙈",
@@ -1611,8 +1379,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f648.png",
   },
   {
     emoji: "🙉",
@@ -1622,8 +1388,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f649.png",
   },
   {
     emoji: "🙊",
@@ -1633,8 +1397,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f64a.png",
   },
   {
     emoji: "💌",
@@ -1644,8 +1406,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f48c.png",
   },
   {
     emoji: "💘",
@@ -1655,8 +1415,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f498.png",
   },
   {
     emoji: "💝",
@@ -1666,8 +1424,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f49d.png",
   },
   {
     emoji: "💖",
@@ -1677,8 +1433,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f496.png",
   },
   {
     emoji: "💗",
@@ -1688,8 +1442,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f497.png",
   },
   {
     emoji: "💓",
@@ -1699,8 +1451,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f493.png",
   },
   {
     emoji: "💞",
@@ -1710,8 +1460,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f49e.png",
   },
   {
     emoji: "💕",
@@ -1721,8 +1469,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f495.png",
   },
   {
     emoji: "💟",
@@ -1732,8 +1478,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f49f.png",
   },
   {
     emoji: "❣",
@@ -1743,8 +1487,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2763-fe0f.png",
   },
   {
     emoji: "💔",
@@ -1754,8 +1496,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: ["</3"],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f494.png",
   },
   {
     emoji: "❤‍🔥",
@@ -1765,8 +1505,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 13.1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2764-fe0f-200d-1f525.png",
   },
   {
     emoji: "❤‍🩹",
@@ -1783,8 +1521,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 13.1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2764-fe0f-200d-1fa79.png",
   },
   {
     emoji: "❤",
@@ -1794,8 +1530,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: ["<3"],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2764-fe0f.png",
   },
   {
     emoji: "🩷",
@@ -1814,8 +1548,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9e1.png",
   },
   {
     emoji: "💛",
@@ -1825,8 +1557,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f49b.png",
   },
   {
     emoji: "💚",
@@ -1836,8 +1566,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f49a.png",
   },
   {
     emoji: "💙",
@@ -1847,8 +1575,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f499.png",
   },
   {
     emoji: "🩵",
@@ -1867,8 +1593,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f49c.png",
   },
   {
     emoji: "🤎",
@@ -1878,8 +1602,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f90e.png",
   },
   {
     emoji: "🖤",
@@ -1889,8 +1611,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 3,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f5a4.png",
   },
   {
     emoji: "🩶",
@@ -1909,8 +1629,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f90d.png",
   },
   {
     emoji: "💋",
@@ -1920,8 +1638,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f48b.png",
   },
   {
     emoji: "💯",
@@ -1931,8 +1647,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4af.png",
   },
   {
     emoji: "💢",
@@ -1942,8 +1656,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4a2.png",
   },
   {
     emoji: "💥",
@@ -1953,8 +1665,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4a5.png",
   },
   {
     emoji: "💫",
@@ -1964,8 +1674,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4ab.png",
   },
   {
     emoji: "💦",
@@ -1975,8 +1683,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4a6.png",
   },
   {
     emoji: "💨",
@@ -1986,8 +1692,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4a8.png",
   },
   {
     emoji: "🕳",
@@ -1997,8 +1701,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f573-fe0f.png",
   },
   {
     emoji: "💬",
@@ -2008,8 +1710,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4ac.png",
   },
   {
     emoji: "👁‍🗨️",
@@ -2019,8 +1719,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f441-fe0f-200d-1f5e8-fe0f.png",
   },
   {
     emoji: "🗨",
@@ -2030,8 +1728,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f5e8-fe0f.png",
   },
   {
     emoji: "🗯",
@@ -2041,8 +1737,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f5ef-fe0f.png",
   },
   {
     emoji: "💭",
@@ -2052,8 +1746,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4ad.png",
   },
   {
     emoji: "💤",
@@ -2063,8 +1755,6 @@ export const emojis: EmojiItem[] = [
     group: "",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4a4.png",
   },
   {
     emoji: "👋",
@@ -2074,8 +1764,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f44b.png",
   },
   {
     emoji: "🤚",
@@ -2085,8 +1773,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 3,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f91a.png",
   },
   {
     emoji: "🖐",
@@ -2096,8 +1782,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f590-fe0f.png",
   },
   {
     emoji: "✋",
@@ -2107,8 +1791,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/270b.png",
   },
   {
     emoji: "🖖",
@@ -2118,8 +1800,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f596.png",
   },
   {
     emoji: "🫱",
@@ -2183,8 +1863,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f44c.png",
   },
   {
     emoji: "🤌",
@@ -2194,8 +1872,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 13,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f90c.png",
   },
   {
     emoji: "🤏",
@@ -2205,8 +1881,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f90f.png",
   },
   {
     emoji: "✌",
@@ -2216,8 +1890,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/270c-fe0f.png",
   },
   {
     emoji: "🤞",
@@ -2227,8 +1899,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 3,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f91e.png",
   },
   {
     emoji: "🫰",
@@ -2247,8 +1917,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f91f.png",
   },
   {
     emoji: "🤘",
@@ -2258,8 +1926,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: ["\\m/", "\\M/"],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f918.png",
   },
   {
     emoji: "🤙",
@@ -2269,8 +1935,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 3,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f919.png",
   },
   {
     emoji: "👈",
@@ -2280,8 +1944,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f448.png",
   },
   {
     emoji: "👉",
@@ -2291,8 +1953,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f449.png",
   },
   {
     emoji: "👆",
@@ -2302,8 +1962,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f446.png",
   },
   {
     emoji: "🖕",
@@ -2313,8 +1971,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f595.png",
   },
   {
     emoji: "👇",
@@ -2324,8 +1980,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f447.png",
   },
   {
     emoji: "☝",
@@ -2335,8 +1989,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/261d-fe0f.png",
   },
   {
     emoji: "🫵",
@@ -2355,8 +2007,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f44d.png",
   },
   {
     emoji: "👎",
@@ -2366,8 +2016,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f44e.png",
   },
   {
     emoji: "✊",
@@ -2377,8 +2025,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/270a.png",
   },
   {
     emoji: "👊",
@@ -2388,8 +2034,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f44a.png",
   },
   {
     emoji: "🤛",
@@ -2399,8 +2043,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 3,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f91b.png",
   },
   {
     emoji: "🤜",
@@ -2410,8 +2052,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 3,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f91c.png",
   },
   {
     emoji: "👏",
@@ -2421,8 +2061,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f44f.png",
   },
   {
     emoji: "🙌",
@@ -2432,8 +2070,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f64c.png",
   },
   {
     emoji: "🫶",
@@ -2452,8 +2088,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f450.png",
   },
   {
     emoji: "🤲",
@@ -2463,8 +2097,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f932.png",
   },
   {
     emoji: "🤝",
@@ -2474,8 +2106,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 3,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f91d.png",
   },
   {
     emoji: "🙏",
@@ -2485,8 +2115,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f64f.png",
   },
   {
     emoji: "✍",
@@ -2496,8 +2124,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/270d-fe0f.png",
   },
   {
     emoji: "💅",
@@ -2507,8 +2133,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f485.png",
   },
   {
     emoji: "🤳",
@@ -2518,8 +2142,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 3,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f933.png",
   },
   {
     emoji: "💪",
@@ -2529,8 +2151,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4aa.png",
   },
   {
     emoji: "🦾",
@@ -2540,8 +2160,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9be.png",
   },
   {
     emoji: "🦿",
@@ -2551,8 +2169,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9bf.png",
   },
   {
     emoji: "🦵",
@@ -2562,8 +2178,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9b5.png",
   },
   {
     emoji: "🦶",
@@ -2573,8 +2187,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9b6.png",
   },
   {
     emoji: "👂",
@@ -2584,8 +2196,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f442.png",
   },
   {
     emoji: "🦻",
@@ -2595,8 +2205,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9bb.png",
   },
   {
     emoji: "👃",
@@ -2606,8 +2214,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f443.png",
   },
   {
     emoji: "🧠",
@@ -2617,8 +2223,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9e0.png",
   },
   {
     emoji: "🫀",
@@ -2628,8 +2232,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 13,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1fac0.png",
   },
   {
     emoji: "🫁",
@@ -2639,8 +2241,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 13,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1fac1.png",
   },
   {
     emoji: "🦷",
@@ -2650,8 +2250,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9b7.png",
   },
   {
     emoji: "🦴",
@@ -2661,8 +2259,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9b4.png",
   },
   {
     emoji: "👀",
@@ -2672,8 +2268,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f440.png",
   },
   {
     emoji: "👁",
@@ -2683,8 +2277,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f441-fe0f.png",
   },
   {
     emoji: "👅",
@@ -2694,8 +2286,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f445.png",
   },
   {
     emoji: "👄",
@@ -2705,8 +2295,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f444.png",
   },
   {
     emoji: "🫦",
@@ -2732,8 +2320,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f476.png",
   },
   {
     emoji: "🧒",
@@ -2743,8 +2329,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9d2.png",
   },
   {
     emoji: "👦",
@@ -2754,8 +2338,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f466.png",
   },
   {
     emoji: "👧",
@@ -2765,8 +2347,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f467.png",
   },
   {
     emoji: "🧑",
@@ -2776,8 +2356,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9d1.png",
   },
   {
     emoji: "👱",
@@ -2787,8 +2365,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f471.png",
   },
   {
     emoji: "👨",
@@ -2798,8 +2374,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f468.png",
   },
   {
     emoji: "🧔",
@@ -2809,8 +2383,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9d4.png",
   },
   {
     emoji: "🧔‍♂",
@@ -2820,8 +2392,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 13.1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9d4-200d-2642-fe0f.png",
   },
   {
     emoji: "🧔‍♀",
@@ -2831,8 +2401,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 13.1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9d4-200d-2640-fe0f.png",
   },
   {
     emoji: "👨‍🦰",
@@ -2842,8 +2410,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f468-200d-1f9b0.png",
   },
   {
     emoji: "👨‍🦱",
@@ -2853,8 +2419,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f468-200d-1f9b1.png",
   },
   {
     emoji: "👨‍🦳",
@@ -2864,8 +2428,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f468-200d-1f9b3.png",
   },
   {
     emoji: "👨‍🦲",
@@ -2875,8 +2437,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f468-200d-1f9b2.png",
   },
   {
     emoji: "👩",
@@ -2886,8 +2446,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f469.png",
   },
   {
     emoji: "👩‍🦰",
@@ -2897,8 +2455,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f469-200d-1f9b0.png",
   },
   {
     emoji: "🧑‍🦰",
@@ -2914,8 +2470,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 12.1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9d1-200d-1f9b0.png",
   },
   {
     emoji: "👩‍🦱",
@@ -2925,8 +2479,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f469-200d-1f9b1.png",
   },
   {
     emoji: "🧑‍🦱",
@@ -2942,8 +2494,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 12.1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9d1-200d-1f9b1.png",
   },
   {
     emoji: "👩‍🦳",
@@ -2953,8 +2503,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f469-200d-1f9b3.png",
   },
   {
     emoji: "🧑‍🦳",
@@ -2970,8 +2518,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 12.1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9d1-200d-1f9b3.png",
   },
   {
     emoji: "👩‍🦲",
@@ -2981,8 +2527,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f469-200d-1f9b2.png",
   },
   {
     emoji: "🧑‍🦲",
@@ -2992,8 +2536,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 12.1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9d1-200d-1f9b2.png",
   },
   {
     emoji: "👱‍♀",
@@ -3003,8 +2545,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f471-200d-2640-fe0f.png",
   },
   {
     emoji: "👱‍♂",
@@ -3014,8 +2554,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f471-200d-2642-fe0f.png",
   },
   {
     emoji: "🧓",
@@ -3025,8 +2563,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9d3.png",
   },
   {
     emoji: "👴",
@@ -3036,8 +2572,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f474.png",
   },
   {
     emoji: "👵",
@@ -3047,8 +2581,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f475.png",
   },
   {
     emoji: "🙍",
@@ -3058,8 +2590,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f64d.png",
   },
   {
     emoji: "🙍‍♂",
@@ -3069,8 +2599,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f64d-200d-2642-fe0f.png",
   },
   {
     emoji: "🙍‍♀",
@@ -3080,8 +2608,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f64d-200d-2640-fe0f.png",
   },
   {
     emoji: "🙎",
@@ -3091,8 +2617,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f64e.png",
   },
   {
     emoji: "🙎‍♂",
@@ -3102,8 +2626,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f64e-200d-2642-fe0f.png",
   },
   {
     emoji: "🙎‍♀",
@@ -3113,8 +2635,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f64e-200d-2640-fe0f.png",
   },
   {
     emoji: "🙅",
@@ -3124,8 +2644,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f645.png",
   },
   {
     emoji: "🙅‍♂",
@@ -3142,8 +2660,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f645-200d-2642-fe0f.png",
   },
   {
     emoji: "🙅‍♀",
@@ -3160,8 +2676,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f645-200d-2640-fe0f.png",
   },
   {
     emoji: "🙆",
@@ -3171,8 +2685,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f646.png",
   },
   {
     emoji: "🙆‍♂",
@@ -3182,8 +2694,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f646-200d-2642-fe0f.png",
   },
   {
     emoji: "🙆‍♀",
@@ -3193,8 +2703,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f646-200d-2640-fe0f.png",
   },
   {
     emoji: "💁",
@@ -3204,8 +2712,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f481.png",
   },
   {
     emoji: "💁‍♂",
@@ -3215,8 +2721,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f481-200d-2642-fe0f.png",
   },
   {
     emoji: "💁‍♀",
@@ -3226,8 +2730,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f481-200d-2640-fe0f.png",
   },
   {
     emoji: "🙋",
@@ -3237,8 +2739,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f64b.png",
   },
   {
     emoji: "🙋‍♂",
@@ -3248,8 +2748,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f64b-200d-2642-fe0f.png",
   },
   {
     emoji: "🙋‍♀",
@@ -3259,8 +2757,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f64b-200d-2640-fe0f.png",
   },
   {
     emoji: "🧏",
@@ -3270,8 +2766,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9cf.png",
   },
   {
     emoji: "🧏‍♂",
@@ -3281,8 +2775,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9cf-200d-2642-fe0f.png",
   },
   {
     emoji: "🧏‍♀",
@@ -3292,8 +2784,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9cf-200d-2640-fe0f.png",
   },
   {
     emoji: "🙇",
@@ -3303,8 +2793,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f647.png",
   },
   {
     emoji: "🙇‍♂",
@@ -3314,8 +2802,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f647-200d-2642-fe0f.png",
   },
   {
     emoji: "🙇‍♀",
@@ -3325,8 +2811,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f647-200d-2640-fe0f.png",
   },
   {
     emoji: "🤦",
@@ -3336,8 +2820,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 3,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f926.png",
   },
   {
     emoji: "🤦‍♂",
@@ -3347,8 +2829,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f926-200d-2642-fe0f.png",
   },
   {
     emoji: "🤦‍♀",
@@ -3358,8 +2838,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f926-200d-2640-fe0f.png",
   },
   {
     emoji: "🤷",
@@ -3369,8 +2847,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 3,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f937.png",
   },
   {
     emoji: "🤷‍♂",
@@ -3380,8 +2856,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f937-200d-2642-fe0f.png",
   },
   {
     emoji: "🤷‍♀",
@@ -3391,8 +2865,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f937-200d-2640-fe0f.png",
   },
   {
     emoji: "🧑‍⚕",
@@ -3402,8 +2874,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 12.1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9d1-200d-2695-fe0f.png",
   },
   {
     emoji: "👨‍⚕",
@@ -3413,8 +2883,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f468-200d-2695-fe0f.png",
   },
   {
     emoji: "👩‍⚕",
@@ -3424,8 +2892,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f469-200d-2695-fe0f.png",
   },
   {
     emoji: "🧑‍🎓",
@@ -3435,8 +2901,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 12.1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9d1-200d-1f393.png",
   },
   {
     emoji: "👨‍🎓",
@@ -3446,8 +2910,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f468-200d-1f393.png",
   },
   {
     emoji: "👩‍🎓",
@@ -3457,8 +2919,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f469-200d-1f393.png",
   },
   {
     emoji: "🧑‍🏫",
@@ -3468,8 +2928,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 12.1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9d1-200d-1f3eb.png",
   },
   {
     emoji: "👨‍🏫",
@@ -3479,8 +2937,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f468-200d-1f3eb.png",
   },
   {
     emoji: "👩‍🏫",
@@ -3490,8 +2946,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f469-200d-1f3eb.png",
   },
   {
     emoji: "🧑‍⚖",
@@ -3501,8 +2955,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 12.1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9d1-200d-2696-fe0f.png",
   },
   {
     emoji: "👨‍⚖",
@@ -3512,8 +2964,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f468-200d-2696-fe0f.png",
   },
   {
     emoji: "👩‍⚖",
@@ -3523,8 +2973,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f469-200d-2696-fe0f.png",
   },
   {
     emoji: "🧑‍🌾",
@@ -3534,8 +2982,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 12.1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9d1-200d-1f33e.png",
   },
   {
     emoji: "👨‍🌾",
@@ -3545,8 +2991,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f468-200d-1f33e.png",
   },
   {
     emoji: "👩‍🌾",
@@ -3556,8 +3000,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f469-200d-1f33e.png",
   },
   {
     emoji: "🧑‍🍳",
@@ -3567,8 +3009,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 12.1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9d1-200d-1f373.png",
   },
   {
     emoji: "👨‍🍳",
@@ -3578,8 +3018,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f468-200d-1f373.png",
   },
   {
     emoji: "👩‍🍳",
@@ -3589,8 +3027,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f469-200d-1f373.png",
   },
   {
     emoji: "🧑‍🔧",
@@ -3600,8 +3036,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 12.1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9d1-200d-1f527.png",
   },
   {
     emoji: "👨‍🔧",
@@ -3611,8 +3045,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f468-200d-1f527.png",
   },
   {
     emoji: "👩‍🔧",
@@ -3622,8 +3054,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f469-200d-1f527.png",
   },
   {
     emoji: "🧑‍🏭",
@@ -3633,8 +3063,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 12.1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9d1-200d-1f3ed.png",
   },
   {
     emoji: "👨‍🏭",
@@ -3644,8 +3072,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f468-200d-1f3ed.png",
   },
   {
     emoji: "👩‍🏭",
@@ -3655,8 +3081,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f469-200d-1f3ed.png",
   },
   {
     emoji: "🧑‍💼",
@@ -3666,8 +3090,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 12.1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9d1-200d-1f4bc.png",
   },
   {
     emoji: "👨‍💼",
@@ -3677,8 +3099,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f468-200d-1f4bc.png",
   },
   {
     emoji: "👩‍💼",
@@ -3688,8 +3108,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f469-200d-1f4bc.png",
   },
   {
     emoji: "🧑‍🔬",
@@ -3699,8 +3117,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 12.1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9d1-200d-1f52c.png",
   },
   {
     emoji: "👨‍🔬",
@@ -3710,8 +3126,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f468-200d-1f52c.png",
   },
   {
     emoji: "👩‍🔬",
@@ -3728,8 +3142,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f469-200d-1f52c.png",
   },
   {
     emoji: "🧑‍💻",
@@ -3739,8 +3151,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 12.1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9d1-200d-1f4bb.png",
   },
   {
     emoji: "👨‍💻",
@@ -3750,8 +3160,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f468-200d-1f4bb.png",
   },
   {
     emoji: "👩‍💻",
@@ -3768,8 +3176,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f469-200d-1f4bb.png",
   },
   {
     emoji: "🧑‍🎤",
@@ -3779,8 +3185,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 12.1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9d1-200d-1f3a4.png",
   },
   {
     emoji: "👨‍🎤",
@@ -3790,8 +3194,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f468-200d-1f3a4.png",
   },
   {
     emoji: "👩‍🎤",
@@ -3801,8 +3203,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f469-200d-1f3a4.png",
   },
   {
     emoji: "🧑‍🎨",
@@ -3812,8 +3212,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 12.1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9d1-200d-1f3a8.png",
   },
   {
     emoji: "👨‍🎨",
@@ -3823,8 +3221,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f468-200d-1f3a8.png",
   },
   {
     emoji: "👩‍🎨",
@@ -3834,8 +3230,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f469-200d-1f3a8.png",
   },
   {
     emoji: "🧑‍✈",
@@ -3845,8 +3239,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 12.1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9d1-200d-2708-fe0f.png",
   },
   {
     emoji: "👨‍✈",
@@ -3856,8 +3248,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f468-200d-2708-fe0f.png",
   },
   {
     emoji: "👩‍✈",
@@ -3867,8 +3257,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f469-200d-2708-fe0f.png",
   },
   {
     emoji: "🧑‍🚀",
@@ -3878,8 +3266,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 12.1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9d1-200d-1f680.png",
   },
   {
     emoji: "👨‍🚀",
@@ -3889,8 +3275,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f468-200d-1f680.png",
   },
   {
     emoji: "👩‍🚀",
@@ -3900,8 +3284,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f469-200d-1f680.png",
   },
   {
     emoji: "🧑‍🚒",
@@ -3911,8 +3293,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 12.1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9d1-200d-1f692.png",
   },
   {
     emoji: "👨‍🚒",
@@ -3922,8 +3302,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f468-200d-1f692.png",
   },
   {
     emoji: "👩‍🚒",
@@ -3933,8 +3311,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f469-200d-1f692.png",
   },
   {
     emoji: "👮",
@@ -3944,8 +3320,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f46e.png",
   },
   {
     emoji: "👮‍♂",
@@ -3955,8 +3329,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f46e-200d-2642-fe0f.png",
   },
   {
     emoji: "👮‍♀",
@@ -3966,8 +3338,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f46e-200d-2640-fe0f.png",
   },
   {
     emoji: "🕵",
@@ -3977,8 +3347,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f575-fe0f.png",
   },
   {
     emoji: "🕵‍♂️",
@@ -3988,8 +3356,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f575-fe0f-200d-2642-fe0f.png",
   },
   {
     emoji: "🕵‍♀️",
@@ -3999,8 +3365,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f575-fe0f-200d-2640-fe0f.png",
   },
   {
     emoji: "💂",
@@ -4010,8 +3374,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f482.png",
   },
   {
     emoji: "💂‍♂",
@@ -4021,8 +3383,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f482-200d-2642-fe0f.png",
   },
   {
     emoji: "💂‍♀",
@@ -4032,8 +3392,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f482-200d-2640-fe0f.png",
   },
   {
     emoji: "🥷",
@@ -4043,8 +3401,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 13,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f977.png",
   },
   {
     emoji: "👷",
@@ -4054,8 +3410,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f477.png",
   },
   {
     emoji: "👷‍♂",
@@ -4065,8 +3419,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f477-200d-2642-fe0f.png",
   },
   {
     emoji: "👷‍♀",
@@ -4076,8 +3428,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f477-200d-2640-fe0f.png",
   },
   {
     emoji: "🫅",
@@ -4096,8 +3446,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 3,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f934.png",
   },
   {
     emoji: "👸",
@@ -4107,8 +3455,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f478.png",
   },
   {
     emoji: "👳",
@@ -4118,8 +3464,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f473.png",
   },
   {
     emoji: "👳‍♂",
@@ -4129,8 +3473,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f473-200d-2642-fe0f.png",
   },
   {
     emoji: "👳‍♀",
@@ -4140,8 +3482,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f473-200d-2640-fe0f.png",
   },
   {
     emoji: "👲",
@@ -4151,8 +3491,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f472.png",
   },
   {
     emoji: "🧕",
@@ -4162,8 +3500,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9d5.png",
   },
   {
     emoji: "🤵",
@@ -4173,8 +3509,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 3,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f935.png",
   },
   {
     emoji: "🤵‍♂",
@@ -4184,8 +3518,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 13,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f935-200d-2642-fe0f.png",
   },
   {
     emoji: "🤵‍♀",
@@ -4195,8 +3527,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 13,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f935-200d-2640-fe0f.png",
   },
   {
     emoji: "👰",
@@ -4206,8 +3536,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f470.png",
   },
   {
     emoji: "👰‍♂",
@@ -4217,8 +3545,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 13,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f470-200d-2642-fe0f.png",
   },
   {
     emoji: "👰‍♀",
@@ -4228,8 +3554,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 13,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f470-200d-2640-fe0f.png",
   },
   {
     emoji: "🤰",
@@ -4239,8 +3563,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 3,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f930.png",
   },
   {
     emoji: "🫃",
@@ -4268,8 +3590,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f931.png",
   },
   {
     emoji: "👩‍🍼",
@@ -4279,8 +3599,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 13,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f469-200d-1f37c.png",
   },
   {
     emoji: "👨‍🍼",
@@ -4290,8 +3608,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 13,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f468-200d-1f37c.png",
   },
   {
     emoji: "🧑‍🍼",
@@ -4301,8 +3617,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 13,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9d1-200d-1f37c.png",
   },
   {
     emoji: "👼",
@@ -4312,8 +3626,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f47c.png",
   },
   {
     emoji: "🎅",
@@ -4323,8 +3635,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f385.png",
   },
   {
     emoji: "🤶",
@@ -4334,8 +3644,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 3,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f936.png",
   },
   {
     emoji: "🧑‍🎄",
@@ -4345,8 +3653,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 13,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9d1-200d-1f384.png",
   },
   {
     emoji: "🦸",
@@ -4356,8 +3662,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9b8.png",
   },
   {
     emoji: "🦸‍♂",
@@ -4367,8 +3671,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9b8-200d-2642-fe0f.png",
   },
   {
     emoji: "🦸‍♀",
@@ -4378,8 +3680,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9b8-200d-2640-fe0f.png",
   },
   {
     emoji: "🦹",
@@ -4389,8 +3689,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9b9.png",
   },
   {
     emoji: "🦹‍♂",
@@ -4400,8 +3698,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9b9-200d-2642-fe0f.png",
   },
   {
     emoji: "🦹‍♀",
@@ -4411,8 +3707,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9b9-200d-2640-fe0f.png",
   },
   {
     emoji: "🧙",
@@ -4422,8 +3716,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9d9.png",
   },
   {
     emoji: "🧙‍♂",
@@ -4433,8 +3725,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [":{>"],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9d9-200d-2642-fe0f.png",
   },
   {
     emoji: "🧙‍♀",
@@ -4444,8 +3734,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9d9-200d-2640-fe0f.png",
   },
   {
     emoji: "🧚",
@@ -4455,8 +3743,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9da.png",
   },
   {
     emoji: "🧚‍♂",
@@ -4466,8 +3752,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9da-200d-2642-fe0f.png",
   },
   {
     emoji: "🧚‍♀",
@@ -4477,8 +3761,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9da-200d-2640-fe0f.png",
   },
   {
     emoji: "🧛",
@@ -4488,8 +3770,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [":E"],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9db.png",
   },
   {
     emoji: "🧛‍♂",
@@ -4499,8 +3779,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9db-200d-2642-fe0f.png",
   },
   {
     emoji: "🧛‍♀",
@@ -4510,8 +3788,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9db-200d-2640-fe0f.png",
   },
   {
     emoji: "🧜",
@@ -4521,8 +3797,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9dc.png",
   },
   {
     emoji: "🧜‍♂",
@@ -4532,8 +3806,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9dc-200d-2642-fe0f.png",
   },
   {
     emoji: "🧜‍♀",
@@ -4543,8 +3815,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9dc-200d-2640-fe0f.png",
   },
   {
     emoji: "🧝",
@@ -4554,8 +3824,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9dd.png",
   },
   {
     emoji: "🧝‍♂",
@@ -4565,8 +3833,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9dd-200d-2642-fe0f.png",
   },
   {
     emoji: "🧝‍♀",
@@ -4576,8 +3842,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9dd-200d-2640-fe0f.png",
   },
   {
     emoji: "🧞",
@@ -4587,8 +3851,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9de.png",
   },
   {
     emoji: "🧞‍♂",
@@ -4598,8 +3860,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9de-200d-2642-fe0f.png",
   },
   {
     emoji: "🧞‍♀",
@@ -4609,8 +3869,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9de-200d-2640-fe0f.png",
   },
   {
     emoji: "🧟",
@@ -4620,8 +3878,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: ["8#"],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9df.png",
   },
   {
     emoji: "🧟‍♂",
@@ -4631,8 +3887,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9df-200d-2642-fe0f.png",
   },
   {
     emoji: "🧟‍♀",
@@ -4642,8 +3896,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9df-200d-2640-fe0f.png",
   },
   {
     emoji: "🧌",
@@ -4662,8 +3914,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f486.png",
   },
   {
     emoji: "💆‍♂",
@@ -4673,8 +3923,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f486-200d-2642-fe0f.png",
   },
   {
     emoji: "💆‍♀",
@@ -4684,8 +3932,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f486-200d-2640-fe0f.png",
   },
   {
     emoji: "💇",
@@ -4695,8 +3941,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f487.png",
   },
   {
     emoji: "💇‍♂",
@@ -4706,8 +3950,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f487-200d-2642-fe0f.png",
   },
   {
     emoji: "💇‍♀",
@@ -4717,8 +3959,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f487-200d-2640-fe0f.png",
   },
   {
     emoji: "🚶",
@@ -4728,8 +3968,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6b6.png",
   },
   {
     emoji: "🚶‍♂",
@@ -4739,8 +3977,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6b6-200d-2642-fe0f.png",
   },
   {
     emoji: "🚶‍♀",
@@ -4750,8 +3986,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6b6-200d-2640-fe0f.png",
   },
   {
     emoji: "🚶‍➡",
@@ -4788,8 +4022,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9cd.png",
   },
   {
     emoji: "🧍‍♂",
@@ -4799,8 +4031,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9cd-200d-2642-fe0f.png",
   },
   {
     emoji: "🧍‍♀",
@@ -4810,8 +4040,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9cd-200d-2640-fe0f.png",
   },
   {
     emoji: "🧎",
@@ -4821,8 +4049,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9ce.png",
   },
   {
     emoji: "🧎‍♂",
@@ -4832,8 +4058,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9ce-200d-2642-fe0f.png",
   },
   {
     emoji: "🧎‍♀",
@@ -4843,8 +4067,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9ce-200d-2640-fe0f.png",
   },
   {
     emoji: "🧎‍➡",
@@ -4881,8 +4103,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 12.1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9d1-200d-1f9af.png",
   },
   {
     emoji: "🧑‍🦯‍➡",
@@ -4901,8 +4121,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f468-200d-1f9af.png",
   },
   {
     emoji: "👨‍🦯‍➡",
@@ -4921,8 +4139,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f469-200d-1f9af.png",
   },
   {
     emoji: "👩‍🦯‍➡",
@@ -4941,8 +4157,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 12.1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9d1-200d-1f9bc.png",
   },
   {
     emoji: "🧑‍🦼‍➡",
@@ -4961,8 +4175,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f468-200d-1f9bc.png",
   },
   {
     emoji: "👨‍🦼‍➡",
@@ -4981,8 +4193,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f469-200d-1f9bc.png",
   },
   {
     emoji: "👩‍🦼‍➡",
@@ -5006,8 +4216,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 12.1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9d1-200d-1f9bd.png",
   },
   {
     emoji: "🧑‍🦽‍➡",
@@ -5026,8 +4234,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f468-200d-1f9bd.png",
   },
   {
     emoji: "👨‍🦽‍➡",
@@ -5046,8 +4252,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f469-200d-1f9bd.png",
   },
   {
     emoji: "👩‍🦽‍➡",
@@ -5071,8 +4275,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3c3.png",
   },
   {
     emoji: "🏃‍♂",
@@ -5082,8 +4284,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3c3-200d-2642-fe0f.png",
   },
   {
     emoji: "🏃‍♀",
@@ -5093,8 +4293,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3c3-200d-2640-fe0f.png",
   },
   {
     emoji: "🏃‍➡",
@@ -5131,8 +4329,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f483.png",
   },
   {
     emoji: "🕺",
@@ -5142,8 +4338,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 3,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f57a.png",
   },
   {
     emoji: "🕴",
@@ -5153,8 +4347,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f574-fe0f.png",
   },
   {
     emoji: "👯",
@@ -5164,8 +4356,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f46f.png",
   },
   {
     emoji: "👯‍♂",
@@ -5175,8 +4365,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f46f-200d-2642-fe0f.png",
   },
   {
     emoji: "👯‍♀",
@@ -5186,8 +4374,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f46f-200d-2640-fe0f.png",
   },
   {
     emoji: "🧖",
@@ -5197,8 +4383,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9d6.png",
   },
   {
     emoji: "🧖‍♂",
@@ -5208,8 +4392,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9d6-200d-2642-fe0f.png",
   },
   {
     emoji: "🧖‍♀",
@@ -5219,8 +4401,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9d6-200d-2640-fe0f.png",
   },
   {
     emoji: "🧗",
@@ -5230,8 +4410,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9d7.png",
   },
   {
     emoji: "🧗‍♂",
@@ -5241,8 +4419,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9d7-200d-2642-fe0f.png",
   },
   {
     emoji: "🧗‍♀",
@@ -5252,8 +4428,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9d7-200d-2640-fe0f.png",
   },
   {
     emoji: "🤺",
@@ -5263,8 +4437,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 3,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f93a.png",
   },
   {
     emoji: "🏇",
@@ -5274,8 +4446,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3c7.png",
   },
   {
     emoji: "⛷",
@@ -5285,8 +4455,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/26f7-fe0f.png",
   },
   {
     emoji: "🏂",
@@ -5296,8 +4464,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3c2.png",
   },
   {
     emoji: "🏌",
@@ -5307,8 +4473,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3cc-fe0f.png",
   },
   {
     emoji: "🏌‍♂️",
@@ -5318,8 +4482,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3cc-fe0f-200d-2642-fe0f.png",
   },
   {
     emoji: "🏌‍♀️",
@@ -5329,8 +4491,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3cc-fe0f-200d-2640-fe0f.png",
   },
   {
     emoji: "🏄",
@@ -5340,8 +4500,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3c4.png",
   },
   {
     emoji: "🏄‍♂",
@@ -5351,8 +4509,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3c4-200d-2642-fe0f.png",
   },
   {
     emoji: "🏄‍♀",
@@ -5362,8 +4518,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3c4-200d-2640-fe0f.png",
   },
   {
     emoji: "🚣",
@@ -5373,8 +4527,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6a3.png",
   },
   {
     emoji: "🚣‍♂",
@@ -5384,8 +4536,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6a3-200d-2642-fe0f.png",
   },
   {
     emoji: "🚣‍♀",
@@ -5395,8 +4545,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6a3-200d-2640-fe0f.png",
   },
   {
     emoji: "🏊",
@@ -5406,8 +4554,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3ca.png",
   },
   {
     emoji: "🏊‍♂",
@@ -5417,8 +4563,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3ca-200d-2642-fe0f.png",
   },
   {
     emoji: "🏊‍♀",
@@ -5428,8 +4572,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3ca-200d-2640-fe0f.png",
   },
   {
     emoji: "⛹",
@@ -5439,8 +4581,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/26f9-fe0f.png",
   },
   {
     emoji: "⛹‍♂️",
@@ -5450,8 +4590,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/26f9-fe0f-200d-2642-fe0f.png",
   },
   {
     emoji: "⛹‍♀️",
@@ -5461,8 +4599,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/26f9-fe0f-200d-2640-fe0f.png",
   },
   {
     emoji: "🏋",
@@ -5472,8 +4608,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3cb-fe0f.png",
   },
   {
     emoji: "🏋‍♂️",
@@ -5483,8 +4617,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3cb-fe0f-200d-2642-fe0f.png",
   },
   {
     emoji: "🏋‍♀️",
@@ -5494,8 +4626,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3cb-fe0f-200d-2640-fe0f.png",
   },
   {
     emoji: "🚴",
@@ -5505,8 +4635,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6b4.png",
   },
   {
     emoji: "🚴‍♂",
@@ -5516,8 +4644,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6b4-200d-2642-fe0f.png",
   },
   {
     emoji: "🚴‍♀",
@@ -5527,8 +4653,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6b4-200d-2640-fe0f.png",
   },
   {
     emoji: "🚵",
@@ -5542,8 +4666,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6b5.png",
   },
   {
     emoji: "🚵‍♂",
@@ -5553,8 +4675,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6b5-200d-2642-fe0f.png",
   },
   {
     emoji: "🚵‍♀",
@@ -5564,8 +4684,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6b5-200d-2640-fe0f.png",
   },
   {
     emoji: "🤸",
@@ -5575,8 +4693,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 3,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f938.png",
   },
   {
     emoji: "🤸‍♂",
@@ -5586,8 +4702,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f938-200d-2642-fe0f.png",
   },
   {
     emoji: "🤸‍♀",
@@ -5597,8 +4711,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f938-200d-2640-fe0f.png",
   },
   {
     emoji: "🤼",
@@ -5608,8 +4720,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 3,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f93c.png",
   },
   {
     emoji: "🤼‍♂",
@@ -5619,8 +4729,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f93c-200d-2642-fe0f.png",
   },
   {
     emoji: "🤼‍♀",
@@ -5630,8 +4738,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f93c-200d-2640-fe0f.png",
   },
   {
     emoji: "🤽",
@@ -5641,8 +4747,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 3,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f93d.png",
   },
   {
     emoji: "🤽‍♂",
@@ -5652,8 +4756,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f93d-200d-2642-fe0f.png",
   },
   {
     emoji: "🤽‍♀",
@@ -5663,8 +4765,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f93d-200d-2640-fe0f.png",
   },
   {
     emoji: "🤾",
@@ -5674,8 +4774,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 3,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f93e.png",
   },
   {
     emoji: "🤾‍♂",
@@ -5685,8 +4783,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f93e-200d-2642-fe0f.png",
   },
   {
     emoji: "🤾‍♀",
@@ -5696,8 +4792,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f93e-200d-2640-fe0f.png",
   },
   {
     emoji: "🤹",
@@ -5707,8 +4801,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 3,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f939.png",
   },
   {
     emoji: "🤹‍♂",
@@ -5718,8 +4810,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f939-200d-2642-fe0f.png",
   },
   {
     emoji: "🤹‍♀",
@@ -5729,8 +4819,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f939-200d-2640-fe0f.png",
   },
   {
     emoji: "🧘",
@@ -5740,8 +4828,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9d8.png",
   },
   {
     emoji: "🧘‍♂",
@@ -5751,8 +4837,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9d8-200d-2642-fe0f.png",
   },
   {
     emoji: "🧘‍♀",
@@ -5762,8 +4846,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9d8-200d-2640-fe0f.png",
   },
   {
     emoji: "🛀",
@@ -5773,8 +4855,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6c0.png",
   },
   {
     emoji: "🛌",
@@ -5784,8 +4864,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6cc.png",
   },
   {
     emoji: "🧑‍🤝‍🧑",
@@ -5795,8 +4873,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9d1-200d-1f91d-200d-1f9d1.png",
   },
   {
     emoji: "👭",
@@ -5806,8 +4882,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f46d.png",
   },
   {
     emoji: "👫",
@@ -5817,8 +4891,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f46b.png",
   },
   {
     emoji: "👬",
@@ -5836,8 +4908,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f46c.png",
   },
   {
     emoji: "💏",
@@ -5847,8 +4917,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f48f.png",
   },
   {
     emoji: "👩‍❤‍💋‍👨",
@@ -5858,8 +4926,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f469-200d-2764-fe0f-200d-1f48b-200d-1f468.png",
   },
   {
     emoji: "👨‍❤‍💋‍👨",
@@ -5869,8 +4935,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f468-200d-2764-fe0f-200d-1f48b-200d-1f468.png",
   },
   {
     emoji: "👩‍❤‍💋‍👩",
@@ -5880,8 +4944,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f469-200d-2764-fe0f-200d-1f48b-200d-1f469.png",
   },
   {
     emoji: "💑",
@@ -5891,8 +4953,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f491.png",
   },
   {
     emoji: "👩‍❤‍👨",
@@ -5902,8 +4962,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f469-200d-2764-fe0f-200d-1f468.png",
   },
   {
     emoji: "👨‍❤‍👨",
@@ -5913,8 +4971,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f468-200d-2764-fe0f-200d-1f468.png",
   },
   {
     emoji: "👩‍❤‍👩",
@@ -5924,8 +4980,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f469-200d-2764-fe0f-200d-1f469.png",
   },
   {
     emoji: "👨‍👩‍👦",
@@ -5935,8 +4989,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f468-200d-1f469-200d-1f466.png",
   },
   {
     emoji: "👨‍👩‍👧",
@@ -5946,8 +4998,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f468-200d-1f469-200d-1f467.png",
   },
   {
     emoji: "👨‍👩‍👧‍👦",
@@ -5957,8 +5007,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f468-200d-1f469-200d-1f467-200d-1f466.png",
   },
   {
     emoji: "👨‍👩‍👦‍👦",
@@ -5968,8 +5016,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f468-200d-1f469-200d-1f466-200d-1f466.png",
   },
   {
     emoji: "👨‍👩‍👧‍👧",
@@ -5979,8 +5025,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f468-200d-1f469-200d-1f467-200d-1f467.png",
   },
   {
     emoji: "👨‍👨‍👦",
@@ -5990,8 +5034,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f468-200d-1f468-200d-1f466.png",
   },
   {
     emoji: "👨‍👨‍👧",
@@ -6001,8 +5043,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f468-200d-1f468-200d-1f467.png",
   },
   {
     emoji: "👨‍👨‍👧‍👦",
@@ -6012,8 +5052,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f468-200d-1f468-200d-1f467-200d-1f466.png",
   },
   {
     emoji: "👨‍👨‍👦‍👦",
@@ -6023,8 +5061,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f468-200d-1f468-200d-1f466-200d-1f466.png",
   },
   {
     emoji: "👨‍👨‍👧‍👧",
@@ -6034,8 +5070,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f468-200d-1f468-200d-1f467-200d-1f467.png",
   },
   {
     emoji: "👩‍👩‍👦",
@@ -6045,8 +5079,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f469-200d-1f469-200d-1f466.png",
   },
   {
     emoji: "👩‍👩‍👧",
@@ -6056,8 +5088,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f469-200d-1f469-200d-1f467.png",
   },
   {
     emoji: "👩‍👩‍👧‍👦",
@@ -6067,8 +5097,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f469-200d-1f469-200d-1f467-200d-1f466.png",
   },
   {
     emoji: "👩‍👩‍👦‍👦",
@@ -6078,8 +5106,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f469-200d-1f469-200d-1f466-200d-1f466.png",
   },
   {
     emoji: "👩‍👩‍👧‍👧",
@@ -6089,8 +5115,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f469-200d-1f469-200d-1f467-200d-1f467.png",
   },
   {
     emoji: "👨‍👦",
@@ -6100,8 +5124,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f468-200d-1f466.png",
   },
   {
     emoji: "👨‍👦‍👦",
@@ -6111,8 +5133,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f468-200d-1f466-200d-1f466.png",
   },
   {
     emoji: "👨‍👧",
@@ -6122,8 +5142,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f468-200d-1f467.png",
   },
   {
     emoji: "👨‍👧‍👦",
@@ -6133,8 +5151,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f468-200d-1f467-200d-1f466.png",
   },
   {
     emoji: "👨‍👧‍👧",
@@ -6144,8 +5160,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f468-200d-1f467-200d-1f467.png",
   },
   {
     emoji: "👩‍👦",
@@ -6155,8 +5169,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f469-200d-1f466.png",
   },
   {
     emoji: "👩‍👦‍👦",
@@ -6166,8 +5178,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f469-200d-1f466-200d-1f466.png",
   },
   {
     emoji: "👩‍👧",
@@ -6177,8 +5187,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f469-200d-1f467.png",
   },
   {
     emoji: "👩‍👧‍👦",
@@ -6188,8 +5196,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f469-200d-1f467-200d-1f466.png",
   },
   {
     emoji: "👩‍👧‍👧",
@@ -6199,8 +5205,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f469-200d-1f467-200d-1f467.png",
   },
   {
     emoji: "🗣",
@@ -6210,8 +5214,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f5e3-fe0f.png",
   },
   {
     emoji: "👤",
@@ -6221,8 +5223,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f464.png",
   },
   {
     emoji: "👥",
@@ -6232,8 +5232,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f465.png",
   },
   {
     emoji: "🫂",
@@ -6243,8 +5241,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 13,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1fac2.png",
   },
   {
     emoji: "👪",
@@ -6254,8 +5250,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f46a.png",
   },
   {
     emoji: "🧑‍🧑‍🧒",
@@ -6301,8 +5295,6 @@ export const emojis: EmojiItem[] = [
     group: "people & body",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f463.png",
   },
   {
     emoji: "🏻",
@@ -6312,8 +5304,6 @@ export const emojis: EmojiItem[] = [
     group: "components",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3fb.png",
   },
   {
     emoji: "🏼",
@@ -6323,8 +5313,6 @@ export const emojis: EmojiItem[] = [
     group: "components",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3fc.png",
   },
   {
     emoji: "🏽",
@@ -6334,8 +5322,6 @@ export const emojis: EmojiItem[] = [
     group: "components",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3fd.png",
   },
   {
     emoji: "🏾",
@@ -6345,8 +5331,6 @@ export const emojis: EmojiItem[] = [
     group: "components",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3fe.png",
   },
   {
     emoji: "🏿",
@@ -6356,8 +5340,6 @@ export const emojis: EmojiItem[] = [
     group: "components",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3ff.png",
   },
   {
     emoji: "🦰",
@@ -6403,8 +5385,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f435.png",
   },
   {
     emoji: "🐒",
@@ -6414,8 +5394,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f412.png",
   },
   {
     emoji: "🦍",
@@ -6425,8 +5403,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 3,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f98d.png",
   },
   {
     emoji: "🦧",
@@ -6436,8 +5412,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9a7.png",
   },
   {
     emoji: "🐶",
@@ -6447,8 +5421,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f436.png",
   },
   {
     emoji: "🐕",
@@ -6458,8 +5430,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f415.png",
   },
   {
     emoji: "🦮",
@@ -6469,8 +5439,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9ae.png",
   },
   {
     emoji: "🐕‍🦺",
@@ -6480,8 +5448,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f415-200d-1f9ba.png",
   },
   {
     emoji: "🐩",
@@ -6491,8 +5457,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f429.png",
   },
   {
     emoji: "🐺",
@@ -6502,8 +5466,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f43a.png",
   },
   {
     emoji: "🦊",
@@ -6513,8 +5475,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 3,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f98a.png",
   },
   {
     emoji: "🦝",
@@ -6524,8 +5484,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f99d.png",
   },
   {
     emoji: "🐱",
@@ -6535,8 +5493,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f431.png",
   },
   {
     emoji: "🐈",
@@ -6546,8 +5502,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f408.png",
   },
   {
     emoji: "🐈‍⬛",
@@ -6557,8 +5511,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 13,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f408-200d-2b1b.png",
   },
   {
     emoji: "🦁",
@@ -6568,8 +5520,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f981.png",
   },
   {
     emoji: "🐯",
@@ -6579,8 +5529,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f42f.png",
   },
   {
     emoji: "🐅",
@@ -6590,8 +5538,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f405.png",
   },
   {
     emoji: "🐆",
@@ -6601,8 +5547,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f406.png",
   },
   {
     emoji: "🐴",
@@ -6612,8 +5556,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f434.png",
   },
   {
     emoji: "🫎",
@@ -6641,8 +5583,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f40e.png",
   },
   {
     emoji: "🦄",
@@ -6652,8 +5592,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f984.png",
   },
   {
     emoji: "🦓",
@@ -6663,8 +5601,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f993.png",
   },
   {
     emoji: "🦌",
@@ -6674,8 +5610,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 3,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f98c.png",
   },
   {
     emoji: "🦬",
@@ -6685,8 +5619,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 13,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9ac.png",
   },
   {
     emoji: "🐮",
@@ -6696,8 +5628,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f42e.png",
   },
   {
     emoji: "🐂",
@@ -6707,8 +5637,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f402.png",
   },
   {
     emoji: "🐃",
@@ -6718,8 +5646,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f403.png",
   },
   {
     emoji: "🐄",
@@ -6729,8 +5655,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f404.png",
   },
   {
     emoji: "🐷",
@@ -6740,8 +5664,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f437.png",
   },
   {
     emoji: "🐖",
@@ -6751,8 +5673,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f416.png",
   },
   {
     emoji: "🐗",
@@ -6762,8 +5682,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f417.png",
   },
   {
     emoji: "🐽",
@@ -6773,8 +5691,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f43d.png",
   },
   {
     emoji: "🐏",
@@ -6784,8 +5700,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f40f.png",
   },
   {
     emoji: "🐑",
@@ -6795,8 +5709,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f411.png",
   },
   {
     emoji: "🐐",
@@ -6806,8 +5718,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f410.png",
   },
   {
     emoji: "🐪",
@@ -6817,8 +5727,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f42a.png",
   },
   {
     emoji: "🐫",
@@ -6828,8 +5736,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f42b.png",
   },
   {
     emoji: "🦙",
@@ -6839,8 +5745,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f999.png",
   },
   {
     emoji: "🦒",
@@ -6850,8 +5754,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f992.png",
   },
   {
     emoji: "🐘",
@@ -6861,8 +5763,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f418.png",
   },
   {
     emoji: "🦣",
@@ -6872,8 +5772,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 13,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9a3.png",
   },
   {
     emoji: "🦏",
@@ -6883,8 +5781,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 3,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f98f.png",
   },
   {
     emoji: "🦛",
@@ -6894,8 +5790,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f99b.png",
   },
   {
     emoji: "🐭",
@@ -6905,8 +5799,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f42d.png",
   },
   {
     emoji: "🐁",
@@ -6916,8 +5808,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f401.png",
   },
   {
     emoji: "🐀",
@@ -6927,8 +5817,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f400.png",
   },
   {
     emoji: "🐹",
@@ -6938,8 +5826,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f439.png",
   },
   {
     emoji: "🐰",
@@ -6949,8 +5835,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f430.png",
   },
   {
     emoji: "🐇",
@@ -6960,8 +5844,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f407.png",
   },
   {
     emoji: "🐿",
@@ -6971,8 +5853,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f43f-fe0f.png",
   },
   {
     emoji: "🦫",
@@ -6982,8 +5862,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 13,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9ab.png",
   },
   {
     emoji: "🦔",
@@ -6993,8 +5871,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f994.png",
   },
   {
     emoji: "🦇",
@@ -7004,8 +5880,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 3,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f987.png",
   },
   {
     emoji: "🐻",
@@ -7015,8 +5889,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f43b.png",
   },
   {
     emoji: "🐻‍❄",
@@ -7026,8 +5898,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 13,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f43b-200d-2744-fe0f.png",
   },
   {
     emoji: "🐨",
@@ -7037,8 +5907,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f428.png",
   },
   {
     emoji: "🐼",
@@ -7048,8 +5916,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f43c.png",
   },
   {
     emoji: "🦥",
@@ -7059,8 +5925,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9a5.png",
   },
   {
     emoji: "🦦",
@@ -7070,8 +5934,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9a6.png",
   },
   {
     emoji: "🦨",
@@ -7081,8 +5943,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9a8.png",
   },
   {
     emoji: "🦘",
@@ -7092,8 +5952,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f998.png",
   },
   {
     emoji: "🦡",
@@ -7103,8 +5961,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9a1.png",
   },
   {
     emoji: "🐾",
@@ -7114,8 +5970,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f43e.png",
   },
   {
     emoji: "🦃",
@@ -7125,8 +5979,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f983.png",
   },
   {
     emoji: "🐔",
@@ -7136,8 +5988,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f414.png",
   },
   {
     emoji: "🐓",
@@ -7147,8 +5997,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f413.png",
   },
   {
     emoji: "🐣",
@@ -7158,8 +6006,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f423.png",
   },
   {
     emoji: "🐤",
@@ -7169,8 +6015,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f424.png",
   },
   {
     emoji: "🐥",
@@ -7180,8 +6024,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f425.png",
   },
   {
     emoji: "🐦",
@@ -7191,8 +6033,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f426.png",
   },
   {
     emoji: "🐧",
@@ -7202,8 +6042,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f427.png",
   },
   {
     emoji: "🕊",
@@ -7213,8 +6051,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f54a-fe0f.png",
   },
   {
     emoji: "🦅",
@@ -7224,8 +6060,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 3,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f985.png",
   },
   {
     emoji: "🦆",
@@ -7235,8 +6069,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 3,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f986.png",
   },
   {
     emoji: "🦢",
@@ -7246,8 +6078,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9a2.png",
   },
   {
     emoji: "🦉",
@@ -7257,8 +6087,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 3,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f989.png",
   },
   {
     emoji: "🦤",
@@ -7268,8 +6096,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 13,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9a4.png",
   },
   {
     emoji: "🪶",
@@ -7279,8 +6105,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 13,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1fab6.png",
   },
   {
     emoji: "🦩",
@@ -7290,8 +6114,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9a9.png",
   },
   {
     emoji: "🦚",
@@ -7301,8 +6123,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f99a.png",
   },
   {
     emoji: "🦜",
@@ -7312,8 +6132,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f99c.png",
   },
   {
     emoji: "🪽",
@@ -7359,8 +6177,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f438.png",
   },
   {
     emoji: "🐊",
@@ -7370,8 +6186,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f40a.png",
   },
   {
     emoji: "🐢",
@@ -7381,8 +6195,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f422.png",
   },
   {
     emoji: "🦎",
@@ -7392,8 +6204,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 3,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f98e.png",
   },
   {
     emoji: "🐍",
@@ -7403,8 +6213,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f40d.png",
   },
   {
     emoji: "🐲",
@@ -7414,8 +6222,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f432.png",
   },
   {
     emoji: "🐉",
@@ -7425,8 +6231,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f409.png",
   },
   {
     emoji: "🦕",
@@ -7436,8 +6240,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f995.png",
   },
   {
     emoji: "🦖",
@@ -7447,8 +6249,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f996.png",
   },
   {
     emoji: "🐳",
@@ -7458,8 +6258,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f433.png",
   },
   {
     emoji: "🐋",
@@ -7469,8 +6267,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f40b.png",
   },
   {
     emoji: "🐬",
@@ -7480,8 +6276,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f42c.png",
   },
   {
     emoji: "🦭",
@@ -7491,8 +6285,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 13,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9ad.png",
   },
   {
     emoji: "🐟",
@@ -7502,8 +6294,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f41f.png",
   },
   {
     emoji: "🐠",
@@ -7513,8 +6303,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f420.png",
   },
   {
     emoji: "🐡",
@@ -7524,8 +6312,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f421.png",
   },
   {
     emoji: "🦈",
@@ -7535,8 +6321,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 3,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f988.png",
   },
   {
     emoji: "🐙",
@@ -7546,8 +6330,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f419.png",
   },
   {
     emoji: "🐚",
@@ -7557,8 +6339,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f41a.png",
   },
   {
     emoji: "🪸",
@@ -7586,8 +6366,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f40c.png",
   },
   {
     emoji: "🦋",
@@ -7597,8 +6375,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 3,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f98b.png",
   },
   {
     emoji: "🐛",
@@ -7608,8 +6384,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f41b.png",
   },
   {
     emoji: "🐜",
@@ -7619,8 +6393,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f41c.png",
   },
   {
     emoji: "🐝",
@@ -7630,8 +6402,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f41d.png",
   },
   {
     emoji: "🪲",
@@ -7641,8 +6411,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 13,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1fab2.png",
   },
   {
     emoji: "🐞",
@@ -7652,8 +6420,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f41e.png",
   },
   {
     emoji: "🦗",
@@ -7663,8 +6429,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f997.png",
   },
   {
     emoji: "🪳",
@@ -7674,8 +6438,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 13,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1fab3.png",
   },
   {
     emoji: "🕷",
@@ -7685,8 +6447,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f577-fe0f.png",
   },
   {
     emoji: "🕸",
@@ -7696,8 +6456,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f578-fe0f.png",
   },
   {
     emoji: "🦂",
@@ -7707,8 +6465,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f982.png",
   },
   {
     emoji: "🦟",
@@ -7718,8 +6474,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f99f.png",
   },
   {
     emoji: "🪰",
@@ -7729,8 +6483,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 13,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1fab0.png",
   },
   {
     emoji: "🪱",
@@ -7740,8 +6492,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 13,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1fab1.png",
   },
   {
     emoji: "🦠",
@@ -7751,8 +6501,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9a0.png",
   },
   {
     emoji: "💐",
@@ -7762,8 +6510,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f490.png",
   },
   {
     emoji: "🌸",
@@ -7773,8 +6519,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f338.png",
   },
   {
     emoji: "💮",
@@ -7784,8 +6528,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4ae.png",
   },
   {
     emoji: "🪷",
@@ -7804,8 +6546,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3f5-fe0f.png",
   },
   {
     emoji: "🌹",
@@ -7815,8 +6555,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f339.png",
   },
   {
     emoji: "🥀",
@@ -7826,8 +6564,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 3,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f940.png",
   },
   {
     emoji: "🌺",
@@ -7837,8 +6573,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f33a.png",
   },
   {
     emoji: "🌻",
@@ -7848,8 +6582,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f33b.png",
   },
   {
     emoji: "🌼",
@@ -7859,8 +6591,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f33c.png",
   },
   {
     emoji: "🌷",
@@ -7870,8 +6600,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f337.png",
   },
   {
     emoji: "🪻",
@@ -7890,8 +6618,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f331.png",
   },
   {
     emoji: "🪴",
@@ -7901,8 +6627,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 13,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1fab4.png",
   },
   {
     emoji: "🌲",
@@ -7912,8 +6636,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f332.png",
   },
   {
     emoji: "🌳",
@@ -7923,8 +6645,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f333.png",
   },
   {
     emoji: "🌴",
@@ -7934,8 +6654,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f334.png",
   },
   {
     emoji: "🌵",
@@ -7945,8 +6663,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f335.png",
   },
   {
     emoji: "🌾",
@@ -7956,8 +6672,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f33e.png",
   },
   {
     emoji: "🌿",
@@ -7967,8 +6681,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f33f.png",
   },
   {
     emoji: "☘",
@@ -7978,8 +6690,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2618-fe0f.png",
   },
   {
     emoji: "🍀",
@@ -7989,8 +6699,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f340.png",
   },
   {
     emoji: "🍁",
@@ -8000,8 +6708,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f341.png",
   },
   {
     emoji: "🍂",
@@ -8011,8 +6717,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f342.png",
   },
   {
     emoji: "🍃",
@@ -8022,8 +6726,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f343.png",
   },
   {
     emoji: "🪹",
@@ -8051,8 +6753,6 @@ export const emojis: EmojiItem[] = [
     group: "animals & nature",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f344.png",
   },
   {
     emoji: "🍇",
@@ -8062,8 +6762,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f347.png",
   },
   {
     emoji: "🍈",
@@ -8073,8 +6771,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f348.png",
   },
   {
     emoji: "🍉",
@@ -8084,8 +6780,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f349.png",
   },
   {
     emoji: "🍊",
@@ -8095,8 +6789,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f34a.png",
   },
   {
     emoji: "🍋",
@@ -8106,8 +6798,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f34b.png",
   },
   {
     emoji: "🍋‍🟩",
@@ -8126,8 +6816,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f34c.png",
   },
   {
     emoji: "🍍",
@@ -8137,8 +6825,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f34d.png",
   },
   {
     emoji: "🥭",
@@ -8148,8 +6834,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f96d.png",
   },
   {
     emoji: "🍎",
@@ -8159,8 +6843,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f34e.png",
   },
   {
     emoji: "🍏",
@@ -8170,8 +6852,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f34f.png",
   },
   {
     emoji: "🍐",
@@ -8181,8 +6861,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f350.png",
   },
   {
     emoji: "🍑",
@@ -8192,8 +6870,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f351.png",
   },
   {
     emoji: "🍒",
@@ -8203,8 +6879,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f352.png",
   },
   {
     emoji: "🍓",
@@ -8214,8 +6888,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f353.png",
   },
   {
     emoji: "🫐",
@@ -8225,8 +6897,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 13,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1fad0.png",
   },
   {
     emoji: "🥝",
@@ -8236,8 +6906,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 3,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f95d.png",
   },
   {
     emoji: "🍅",
@@ -8247,8 +6915,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f345.png",
   },
   {
     emoji: "🫒",
@@ -8258,8 +6924,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 13,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1fad2.png",
   },
   {
     emoji: "🥥",
@@ -8269,8 +6933,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f965.png",
   },
   {
     emoji: "🥑",
@@ -8280,8 +6942,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 3,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f951.png",
   },
   {
     emoji: "🍆",
@@ -8291,8 +6951,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f346.png",
   },
   {
     emoji: "🥔",
@@ -8302,8 +6960,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 3,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f954.png",
   },
   {
     emoji: "🥕",
@@ -8313,8 +6969,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 3,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f955.png",
   },
   {
     emoji: "🌽",
@@ -8324,8 +6978,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f33d.png",
   },
   {
     emoji: "🌶",
@@ -8335,8 +6987,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f336-fe0f.png",
   },
   {
     emoji: "🫑",
@@ -8346,8 +6996,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 13,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1fad1.png",
   },
   {
     emoji: "🥒",
@@ -8357,8 +7005,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 3,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f952.png",
   },
   {
     emoji: "🥬",
@@ -8368,8 +7014,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f96c.png",
   },
   {
     emoji: "🥦",
@@ -8379,8 +7023,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f966.png",
   },
   {
     emoji: "🧄",
@@ -8390,8 +7032,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9c4.png",
   },
   {
     emoji: "🧅",
@@ -8401,8 +7041,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9c5.png",
   },
   {
     emoji: "🥜",
@@ -8412,8 +7050,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 3,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f95c.png",
   },
   {
     emoji: "🫘",
@@ -8432,8 +7068,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f330.png",
   },
   {
     emoji: "🫚",
@@ -8470,8 +7104,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f35e.png",
   },
   {
     emoji: "🥐",
@@ -8481,8 +7113,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 3,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f950.png",
   },
   {
     emoji: "🥖",
@@ -8492,8 +7122,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 3,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f956.png",
   },
   {
     emoji: "🫓",
@@ -8503,8 +7131,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 13,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1fad3.png",
   },
   {
     emoji: "🥨",
@@ -8514,8 +7140,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f968.png",
   },
   {
     emoji: "🥯",
@@ -8525,8 +7149,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f96f.png",
   },
   {
     emoji: "🥞",
@@ -8536,8 +7158,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 3,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f95e.png",
   },
   {
     emoji: "🧇",
@@ -8547,8 +7167,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9c7.png",
   },
   {
     emoji: "🧀",
@@ -8558,8 +7176,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9c0.png",
   },
   {
     emoji: "🍖",
@@ -8569,8 +7185,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f356.png",
   },
   {
     emoji: "🍗",
@@ -8580,8 +7194,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f357.png",
   },
   {
     emoji: "🥩",
@@ -8591,8 +7203,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f969.png",
   },
   {
     emoji: "🥓",
@@ -8602,8 +7212,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 3,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f953.png",
   },
   {
     emoji: "🍔",
@@ -8613,8 +7221,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f354.png",
   },
   {
     emoji: "🍟",
@@ -8624,8 +7230,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f35f.png",
   },
   {
     emoji: "🍕",
@@ -8635,8 +7239,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f355.png",
   },
   {
     emoji: "🌭",
@@ -8646,8 +7248,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f32d.png",
   },
   {
     emoji: "🥪",
@@ -8657,8 +7257,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f96a.png",
   },
   {
     emoji: "🌮",
@@ -8668,8 +7266,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f32e.png",
   },
   {
     emoji: "🌯",
@@ -8679,8 +7275,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f32f.png",
   },
   {
     emoji: "🫔",
@@ -8690,8 +7284,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 13,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1fad4.png",
   },
   {
     emoji: "🥙",
@@ -8701,8 +7293,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 3,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f959.png",
   },
   {
     emoji: "🧆",
@@ -8712,8 +7302,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9c6.png",
   },
   {
     emoji: "🥚",
@@ -8723,8 +7311,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 3,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f95a.png",
   },
   {
     emoji: "🍳",
@@ -8734,8 +7320,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f373.png",
   },
   {
     emoji: "🥘",
@@ -8745,8 +7329,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 3,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f958.png",
   },
   {
     emoji: "🍲",
@@ -8756,8 +7338,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f372.png",
   },
   {
     emoji: "🫕",
@@ -8767,8 +7347,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 13,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1fad5.png",
   },
   {
     emoji: "🥣",
@@ -8778,8 +7356,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f963.png",
   },
   {
     emoji: "🥗",
@@ -8789,8 +7365,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 3,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f957.png",
   },
   {
     emoji: "🍿",
@@ -8800,8 +7374,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f37f.png",
   },
   {
     emoji: "🧈",
@@ -8811,8 +7383,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9c8.png",
   },
   {
     emoji: "🧂",
@@ -8822,8 +7392,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9c2.png",
   },
   {
     emoji: "🥫",
@@ -8833,8 +7401,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f96b.png",
   },
   {
     emoji: "🍱",
@@ -8844,8 +7410,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f371.png",
   },
   {
     emoji: "🍘",
@@ -8855,8 +7419,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f358.png",
   },
   {
     emoji: "🍙",
@@ -8866,8 +7428,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f359.png",
   },
   {
     emoji: "🍚",
@@ -8877,8 +7437,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f35a.png",
   },
   {
     emoji: "🍛",
@@ -8888,8 +7446,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f35b.png",
   },
   {
     emoji: "🍜",
@@ -8899,8 +7455,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f35c.png",
   },
   {
     emoji: "🍝",
@@ -8910,8 +7464,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f35d.png",
   },
   {
     emoji: "🍠",
@@ -8921,8 +7473,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f360.png",
   },
   {
     emoji: "🍢",
@@ -8932,8 +7482,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f362.png",
   },
   {
     emoji: "🍣",
@@ -8943,8 +7491,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f363.png",
   },
   {
     emoji: "🍤",
@@ -8954,8 +7500,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f364.png",
   },
   {
     emoji: "🍥",
@@ -8965,8 +7509,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f365.png",
   },
   {
     emoji: "🥮",
@@ -8976,8 +7518,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f96e.png",
   },
   {
     emoji: "🍡",
@@ -8987,8 +7527,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f361.png",
   },
   {
     emoji: "🥟",
@@ -8998,8 +7536,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f95f.png",
   },
   {
     emoji: "🥠",
@@ -9009,8 +7545,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f960.png",
   },
   {
     emoji: "🥡",
@@ -9020,8 +7554,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f961.png",
   },
   {
     emoji: "🦀",
@@ -9031,8 +7563,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f980.png",
   },
   {
     emoji: "🦞",
@@ -9042,8 +7572,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f99e.png",
   },
   {
     emoji: "🦐",
@@ -9053,8 +7581,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 3,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f990.png",
   },
   {
     emoji: "🦑",
@@ -9064,8 +7590,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 3,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f991.png",
   },
   {
     emoji: "🦪",
@@ -9075,8 +7599,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9aa.png",
   },
   {
     emoji: "🍦",
@@ -9086,8 +7608,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f366.png",
   },
   {
     emoji: "🍧",
@@ -9097,8 +7617,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f367.png",
   },
   {
     emoji: "🍨",
@@ -9108,8 +7626,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f368.png",
   },
   {
     emoji: "🍩",
@@ -9119,8 +7635,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f369.png",
   },
   {
     emoji: "🍪",
@@ -9130,8 +7644,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f36a.png",
   },
   {
     emoji: "🎂",
@@ -9141,8 +7653,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f382.png",
   },
   {
     emoji: "🍰",
@@ -9152,8 +7662,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f370.png",
   },
   {
     emoji: "🧁",
@@ -9163,8 +7671,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9c1.png",
   },
   {
     emoji: "🥧",
@@ -9174,8 +7680,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f967.png",
   },
   {
     emoji: "🍫",
@@ -9185,8 +7689,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f36b.png",
   },
   {
     emoji: "🍬",
@@ -9196,8 +7698,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f36c.png",
   },
   {
     emoji: "🍭",
@@ -9207,8 +7707,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f36d.png",
   },
   {
     emoji: "🍮",
@@ -9218,8 +7716,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f36e.png",
   },
   {
     emoji: "🍯",
@@ -9229,8 +7725,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f36f.png",
   },
   {
     emoji: "🍼",
@@ -9240,8 +7734,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f37c.png",
   },
   {
     emoji: "🥛",
@@ -9251,8 +7743,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 3,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f95b.png",
   },
   {
     emoji: "☕",
@@ -9262,8 +7752,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2615.png",
   },
   {
     emoji: "🫖",
@@ -9273,8 +7761,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 13,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1fad6.png",
   },
   {
     emoji: "🍵",
@@ -9284,8 +7770,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f375.png",
   },
   {
     emoji: "🍶",
@@ -9295,8 +7779,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f376.png",
   },
   {
     emoji: "🍾",
@@ -9306,8 +7788,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f37e.png",
   },
   {
     emoji: "🍷",
@@ -9317,8 +7797,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f377.png",
   },
   {
     emoji: "🍸",
@@ -9328,8 +7806,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f378.png",
   },
   {
     emoji: "🍹",
@@ -9339,8 +7815,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f379.png",
   },
   {
     emoji: "🍺",
@@ -9350,8 +7824,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f37a.png",
   },
   {
     emoji: "🍻",
@@ -9361,8 +7833,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f37b.png",
   },
   {
     emoji: "🥂",
@@ -9372,8 +7842,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 3,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f942.png",
   },
   {
     emoji: "🥃",
@@ -9383,8 +7851,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 3,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f943.png",
   },
   {
     emoji: "🫗",
@@ -9403,8 +7869,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f964.png",
   },
   {
     emoji: "🧋",
@@ -9414,8 +7878,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 13,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9cb.png",
   },
   {
     emoji: "🧃",
@@ -9425,8 +7887,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9c3.png",
   },
   {
     emoji: "🧉",
@@ -9436,8 +7896,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9c9.png",
   },
   {
     emoji: "🧊",
@@ -9447,8 +7905,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9ca.png",
   },
   {
     emoji: "🥢",
@@ -9458,8 +7914,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f962.png",
   },
   {
     emoji: "🍽",
@@ -9469,8 +7923,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f37d-fe0f.png",
   },
   {
     emoji: "🍴",
@@ -9480,8 +7932,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f374.png",
   },
   {
     emoji: "🥄",
@@ -9491,8 +7941,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 3,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f944.png",
   },
   {
     emoji: "🔪",
@@ -9502,8 +7950,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f52a.png",
   },
   {
     emoji: "🫙",
@@ -9522,8 +7968,6 @@ export const emojis: EmojiItem[] = [
     group: "food & drink",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3fa.png",
   },
   {
     emoji: "🌍",
@@ -9540,8 +7984,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f30d.png",
   },
   {
     emoji: "🌎",
@@ -9551,8 +7993,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f30e.png",
   },
   {
     emoji: "🌏",
@@ -9569,8 +8009,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f30f.png",
   },
   {
     emoji: "🌐",
@@ -9580,8 +8018,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f310.png",
   },
   {
     emoji: "🗺",
@@ -9591,8 +8027,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f5fa-fe0f.png",
   },
   {
     emoji: "🗾",
@@ -9602,8 +8036,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f5fe.png",
   },
   {
     emoji: "🧭",
@@ -9613,8 +8045,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9ed.png",
   },
   {
     emoji: "🏔",
@@ -9624,8 +8054,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3d4-fe0f.png",
   },
   {
     emoji: "⛰",
@@ -9635,8 +8063,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/26f0-fe0f.png",
   },
   {
     emoji: "🌋",
@@ -9646,8 +8072,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f30b.png",
   },
   {
     emoji: "🗻",
@@ -9657,8 +8081,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f5fb.png",
   },
   {
     emoji: "🏕",
@@ -9668,8 +8090,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3d5-fe0f.png",
   },
   {
     emoji: "🏖",
@@ -9679,8 +8099,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3d6-fe0f.png",
   },
   {
     emoji: "🏜",
@@ -9690,8 +8108,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3dc-fe0f.png",
   },
   {
     emoji: "🏝",
@@ -9701,8 +8117,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3dd-fe0f.png",
   },
   {
     emoji: "🏞",
@@ -9712,8 +8126,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3de-fe0f.png",
   },
   {
     emoji: "🏟",
@@ -9723,8 +8135,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3df-fe0f.png",
   },
   {
     emoji: "🏛",
@@ -9734,8 +8144,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3db-fe0f.png",
   },
   {
     emoji: "🏗",
@@ -9745,8 +8153,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3d7-fe0f.png",
   },
   {
     emoji: "🧱",
@@ -9756,8 +8162,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9f1.png",
   },
   {
     emoji: "🪨",
@@ -9767,8 +8171,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 13,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1faa8.png",
   },
   {
     emoji: "🪵",
@@ -9778,8 +8180,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 13,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1fab5.png",
   },
   {
     emoji: "🛖",
@@ -9789,8 +8189,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 13,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6d6.png",
   },
   {
     emoji: "🏘",
@@ -9800,8 +8198,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3d8-fe0f.png",
   },
   {
     emoji: "🏚",
@@ -9811,8 +8207,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3da-fe0f.png",
   },
   {
     emoji: "🏠",
@@ -9822,8 +8216,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3e0.png",
   },
   {
     emoji: "🏡",
@@ -9833,8 +8225,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3e1.png",
   },
   {
     emoji: "🏢",
@@ -9844,8 +8234,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3e2.png",
   },
   {
     emoji: "🏣",
@@ -9855,8 +8243,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3e3.png",
   },
   {
     emoji: "🏤",
@@ -9866,8 +8252,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3e4.png",
   },
   {
     emoji: "🏥",
@@ -9877,8 +8261,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3e5.png",
   },
   {
     emoji: "🏦",
@@ -9888,8 +8270,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3e6.png",
   },
   {
     emoji: "🏨",
@@ -9899,8 +8279,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3e8.png",
   },
   {
     emoji: "🏩",
@@ -9910,8 +8288,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3e9.png",
   },
   {
     emoji: "🏪",
@@ -9921,8 +8297,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3ea.png",
   },
   {
     emoji: "🏫",
@@ -9932,8 +8306,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3eb.png",
   },
   {
     emoji: "🏬",
@@ -9943,8 +8315,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3ec.png",
   },
   {
     emoji: "🏭",
@@ -9954,8 +8324,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3ed.png",
   },
   {
     emoji: "🏯",
@@ -9965,8 +8333,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3ef.png",
   },
   {
     emoji: "🏰",
@@ -9976,8 +8342,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3f0.png",
   },
   {
     emoji: "💒",
@@ -9987,8 +8351,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f492.png",
   },
   {
     emoji: "🗼",
@@ -9998,8 +8360,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f5fc.png",
   },
   {
     emoji: "🗽",
@@ -10009,8 +8369,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f5fd.png",
   },
   {
     emoji: "⛪",
@@ -10020,8 +8378,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/26ea.png",
   },
   {
     emoji: "🕌",
@@ -10031,8 +8387,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f54c.png",
   },
   {
     emoji: "🛕",
@@ -10042,8 +8396,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6d5.png",
   },
   {
     emoji: "🕍",
@@ -10053,8 +8405,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f54d.png",
   },
   {
     emoji: "⛩",
@@ -10064,8 +8414,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/26e9-fe0f.png",
   },
   {
     emoji: "🕋",
@@ -10075,8 +8423,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f54b.png",
   },
   {
     emoji: "⛲",
@@ -10086,8 +8432,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/26f2.png",
   },
   {
     emoji: "⛺",
@@ -10097,8 +8441,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/26fa.png",
   },
   {
     emoji: "🌁",
@@ -10108,8 +8450,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f301.png",
   },
   {
     emoji: "🌃",
@@ -10119,8 +8459,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f303.png",
   },
   {
     emoji: "🏙",
@@ -10130,8 +8468,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3d9-fe0f.png",
   },
   {
     emoji: "🌄",
@@ -10141,8 +8477,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f304.png",
   },
   {
     emoji: "🌅",
@@ -10152,8 +8486,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f305.png",
   },
   {
     emoji: "🌆",
@@ -10163,8 +8495,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f306.png",
   },
   {
     emoji: "🌇",
@@ -10174,8 +8504,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f307.png",
   },
   {
     emoji: "🌉",
@@ -10185,8 +8513,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f309.png",
   },
   {
     emoji: "♨",
@@ -10196,8 +8522,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2668-fe0f.png",
   },
   {
     emoji: "🎠",
@@ -10207,8 +8531,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3a0.png",
   },
   {
     emoji: "🛝",
@@ -10227,8 +8549,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3a1.png",
   },
   {
     emoji: "🎢",
@@ -10238,8 +8558,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3a2.png",
   },
   {
     emoji: "💈",
@@ -10249,8 +8567,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f488.png",
   },
   {
     emoji: "🎪",
@@ -10260,8 +8576,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3aa.png",
   },
   {
     emoji: "🚂",
@@ -10271,8 +8585,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f682.png",
   },
   {
     emoji: "🚃",
@@ -10282,8 +8594,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f683.png",
   },
   {
     emoji: "🚄",
@@ -10293,8 +8603,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f684.png",
   },
   {
     emoji: "🚅",
@@ -10304,8 +8612,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f685.png",
   },
   {
     emoji: "🚆",
@@ -10315,8 +8621,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f686.png",
   },
   {
     emoji: "🚇",
@@ -10326,8 +8630,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f687.png",
   },
   {
     emoji: "🚈",
@@ -10337,8 +8639,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f688.png",
   },
   {
     emoji: "🚉",
@@ -10348,8 +8648,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f689.png",
   },
   {
     emoji: "🚊",
@@ -10359,8 +8657,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f68a.png",
   },
   {
     emoji: "🚝",
@@ -10370,8 +8666,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f69d.png",
   },
   {
     emoji: "🚞",
@@ -10381,8 +8675,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f69e.png",
   },
   {
     emoji: "🚋",
@@ -10392,8 +8684,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f68b.png",
   },
   {
     emoji: "🚌",
@@ -10403,8 +8693,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f68c.png",
   },
   {
     emoji: "🚍",
@@ -10414,8 +8702,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f68d.png",
   },
   {
     emoji: "🚎",
@@ -10425,8 +8711,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f68e.png",
   },
   {
     emoji: "🚐",
@@ -10436,8 +8720,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f690.png",
   },
   {
     emoji: "🚑",
@@ -10447,8 +8729,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f691.png",
   },
   {
     emoji: "🚒",
@@ -10458,8 +8738,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f692.png",
   },
   {
     emoji: "🚓",
@@ -10469,8 +8747,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f693.png",
   },
   {
     emoji: "🚔",
@@ -10480,8 +8756,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f694.png",
   },
   {
     emoji: "🚕",
@@ -10491,8 +8765,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f695.png",
   },
   {
     emoji: "🚖",
@@ -10502,8 +8774,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f696.png",
   },
   {
     emoji: "🚗",
@@ -10513,8 +8783,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f697.png",
   },
   {
     emoji: "🚘",
@@ -10524,8 +8792,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f698.png",
   },
   {
     emoji: "🚙",
@@ -10535,8 +8801,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f699.png",
   },
   {
     emoji: "🛻",
@@ -10546,8 +8810,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 13,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6fb.png",
   },
   {
     emoji: "🚚",
@@ -10557,8 +8819,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f69a.png",
   },
   {
     emoji: "🚛",
@@ -10568,8 +8828,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f69b.png",
   },
   {
     emoji: "🚜",
@@ -10579,8 +8837,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f69c.png",
   },
   {
     emoji: "🏎",
@@ -10590,8 +8846,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3ce-fe0f.png",
   },
   {
     emoji: "🏍",
@@ -10601,8 +8855,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3cd-fe0f.png",
   },
   {
     emoji: "🛵",
@@ -10612,8 +8864,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 3,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6f5.png",
   },
   {
     emoji: "🦽",
@@ -10623,8 +8873,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9bd.png",
   },
   {
     emoji: "🦼",
@@ -10634,8 +8882,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9bc.png",
   },
   {
     emoji: "🛺",
@@ -10645,8 +8891,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6fa.png",
   },
   {
     emoji: "🚲",
@@ -10656,8 +8900,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6b2.png",
   },
   {
     emoji: "🛴",
@@ -10667,8 +8909,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 3,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6f4.png",
   },
   {
     emoji: "🛹",
@@ -10678,8 +8918,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6f9.png",
   },
   {
     emoji: "🛼",
@@ -10689,8 +8927,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 13,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6fc.png",
   },
   {
     emoji: "🚏",
@@ -10700,8 +8936,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f68f.png",
   },
   {
     emoji: "🛣",
@@ -10711,8 +8945,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6e3-fe0f.png",
   },
   {
     emoji: "🛤",
@@ -10722,8 +8954,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6e4-fe0f.png",
   },
   {
     emoji: "🛢",
@@ -10733,8 +8963,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6e2-fe0f.png",
   },
   {
     emoji: "⛽",
@@ -10744,8 +8972,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/26fd.png",
   },
   {
     emoji: "🛞",
@@ -10764,8 +8990,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6a8.png",
   },
   {
     emoji: "🚥",
@@ -10775,8 +8999,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6a5.png",
   },
   {
     emoji: "🚦",
@@ -10786,8 +9008,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6a6.png",
   },
   {
     emoji: "🛑",
@@ -10797,8 +9017,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 3,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6d1.png",
   },
   {
     emoji: "🚧",
@@ -10808,8 +9026,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6a7.png",
   },
   {
     emoji: "⚓",
@@ -10819,8 +9035,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2693.png",
   },
   {
     emoji: "🛟",
@@ -10839,8 +9053,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/26f5.png",
   },
   {
     emoji: "🛶",
@@ -10850,8 +9062,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 3,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6f6.png",
   },
   {
     emoji: "🚤",
@@ -10861,8 +9071,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6a4.png",
   },
   {
     emoji: "🛳",
@@ -10872,8 +9080,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6f3-fe0f.png",
   },
   {
     emoji: "⛴",
@@ -10883,8 +9089,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/26f4-fe0f.png",
   },
   {
     emoji: "🛥",
@@ -10894,8 +9098,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6e5-fe0f.png",
   },
   {
     emoji: "🚢",
@@ -10905,8 +9107,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6a2.png",
   },
   {
     emoji: "✈",
@@ -10916,8 +9116,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2708-fe0f.png",
   },
   {
     emoji: "🛩",
@@ -10927,8 +9125,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6e9-fe0f.png",
   },
   {
     emoji: "🛫",
@@ -10938,8 +9134,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6eb.png",
   },
   {
     emoji: "🛬",
@@ -10949,8 +9143,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6ec.png",
   },
   {
     emoji: "🪂",
@@ -10960,8 +9152,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1fa82.png",
   },
   {
     emoji: "💺",
@@ -10971,8 +9161,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4ba.png",
   },
   {
     emoji: "🚁",
@@ -10982,8 +9170,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f681.png",
   },
   {
     emoji: "🚟",
@@ -10993,8 +9179,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f69f.png",
   },
   {
     emoji: "🚠",
@@ -11004,8 +9188,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6a0.png",
   },
   {
     emoji: "🚡",
@@ -11015,8 +9197,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6a1.png",
   },
   {
     emoji: "🛰",
@@ -11026,8 +9206,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6f0-fe0f.png",
   },
   {
     emoji: "🚀",
@@ -11037,8 +9215,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f680.png",
   },
   {
     emoji: "🛸",
@@ -11048,8 +9224,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6f8.png",
   },
   {
     emoji: "🛎",
@@ -11059,8 +9233,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6ce-fe0f.png",
   },
   {
     emoji: "🧳",
@@ -11070,8 +9242,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9f3.png",
   },
   {
     emoji: "⌛",
@@ -11081,8 +9251,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/231b.png",
   },
   {
     emoji: "⏳",
@@ -11092,8 +9260,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/23f3.png",
   },
   {
     emoji: "⌚",
@@ -11103,8 +9269,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/231a.png",
   },
   {
     emoji: "⏰",
@@ -11114,8 +9278,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/23f0.png",
   },
   {
     emoji: "⏱",
@@ -11125,8 +9287,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/23f1-fe0f.png",
   },
   {
     emoji: "⏲",
@@ -11136,8 +9296,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/23f2-fe0f.png",
   },
   {
     emoji: "🕰",
@@ -11147,8 +9305,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f570-fe0f.png",
   },
   {
     emoji: "🕛",
@@ -11158,8 +9314,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f55b.png",
   },
   {
     emoji: "🕧",
@@ -11169,8 +9323,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f567.png",
   },
   {
     emoji: "🕐",
@@ -11180,8 +9332,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f550.png",
   },
   {
     emoji: "🕜",
@@ -11191,8 +9341,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f55c.png",
   },
   {
     emoji: "🕑",
@@ -11202,8 +9350,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f551.png",
   },
   {
     emoji: "🕝",
@@ -11213,8 +9359,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f55d.png",
   },
   {
     emoji: "🕒",
@@ -11224,8 +9368,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f552.png",
   },
   {
     emoji: "🕞",
@@ -11235,8 +9377,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f55e.png",
   },
   {
     emoji: "🕓",
@@ -11246,8 +9386,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f553.png",
   },
   {
     emoji: "🕟",
@@ -11257,8 +9395,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f55f.png",
   },
   {
     emoji: "🕔",
@@ -11268,8 +9404,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f554.png",
   },
   {
     emoji: "🕠",
@@ -11279,8 +9413,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f560.png",
   },
   {
     emoji: "🕕",
@@ -11290,8 +9422,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f555.png",
   },
   {
     emoji: "🕡",
@@ -11301,8 +9431,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f561.png",
   },
   {
     emoji: "🕖",
@@ -11312,8 +9440,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f556.png",
   },
   {
     emoji: "🕢",
@@ -11323,8 +9449,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f562.png",
   },
   {
     emoji: "🕗",
@@ -11334,8 +9458,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f557.png",
   },
   {
     emoji: "🕣",
@@ -11345,8 +9467,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f563.png",
   },
   {
     emoji: "🕘",
@@ -11356,8 +9476,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f558.png",
   },
   {
     emoji: "🕤",
@@ -11367,8 +9485,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f564.png",
   },
   {
     emoji: "🕙",
@@ -11378,8 +9494,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f559.png",
   },
   {
     emoji: "🕥",
@@ -11389,8 +9503,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f565.png",
   },
   {
     emoji: "🕚",
@@ -11400,8 +9512,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f55a.png",
   },
   {
     emoji: "🕦",
@@ -11411,8 +9521,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f566.png",
   },
   {
     emoji: "🌑",
@@ -11422,8 +9530,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f311.png",
   },
   {
     emoji: "🌒",
@@ -11433,8 +9539,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f312.png",
   },
   {
     emoji: "🌓",
@@ -11444,8 +9548,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f313.png",
   },
   {
     emoji: "🌔",
@@ -11455,8 +9557,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f314.png",
   },
   {
     emoji: "🌕",
@@ -11466,8 +9566,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f315.png",
   },
   {
     emoji: "🌖",
@@ -11477,8 +9575,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f316.png",
   },
   {
     emoji: "🌗",
@@ -11488,8 +9584,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f317.png",
   },
   {
     emoji: "🌘",
@@ -11499,8 +9593,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f318.png",
   },
   {
     emoji: "🌙",
@@ -11510,8 +9602,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f319.png",
   },
   {
     emoji: "🌚",
@@ -11521,8 +9611,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f31a.png",
   },
   {
     emoji: "🌛",
@@ -11532,8 +9620,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f31b.png",
   },
   {
     emoji: "🌜",
@@ -11543,8 +9629,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f31c.png",
   },
   {
     emoji: "🌡",
@@ -11554,8 +9638,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f321-fe0f.png",
   },
   {
     emoji: "☀",
@@ -11565,8 +9647,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2600-fe0f.png",
   },
   {
     emoji: "🌝",
@@ -11576,8 +9656,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f31d.png",
   },
   {
     emoji: "🌞",
@@ -11587,8 +9665,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f31e.png",
   },
   {
     emoji: "🪐",
@@ -11598,8 +9674,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1fa90.png",
   },
   {
     emoji: "⭐",
@@ -11609,8 +9683,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2b50.png",
   },
   {
     emoji: "🌟",
@@ -11620,8 +9692,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f31f.png",
   },
   {
     emoji: "🌠",
@@ -11631,8 +9701,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f320.png",
   },
   {
     emoji: "🌌",
@@ -11642,8 +9710,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f30c.png",
   },
   {
     emoji: "☁",
@@ -11653,8 +9719,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2601-fe0f.png",
   },
   {
     emoji: "⛅",
@@ -11664,8 +9728,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/26c5.png",
   },
   {
     emoji: "⛈",
@@ -11675,8 +9737,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/26c8-fe0f.png",
   },
   {
     emoji: "🌤",
@@ -11686,8 +9746,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f324-fe0f.png",
   },
   {
     emoji: "🌥",
@@ -11697,8 +9755,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f325-fe0f.png",
   },
   {
     emoji: "🌦",
@@ -11708,8 +9764,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f326-fe0f.png",
   },
   {
     emoji: "🌧",
@@ -11719,8 +9773,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f327-fe0f.png",
   },
   {
     emoji: "🌨",
@@ -11730,8 +9782,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f328-fe0f.png",
   },
   {
     emoji: "🌩",
@@ -11741,8 +9791,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f329-fe0f.png",
   },
   {
     emoji: "🌪",
@@ -11752,8 +9800,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f32a-fe0f.png",
   },
   {
     emoji: "🌫",
@@ -11763,8 +9809,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f32b-fe0f.png",
   },
   {
     emoji: "🌬",
@@ -11774,8 +9818,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f32c-fe0f.png",
   },
   {
     emoji: "🌀",
@@ -11785,8 +9827,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f300.png",
   },
   {
     emoji: "🌈",
@@ -11796,8 +9836,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f308.png",
   },
   {
     emoji: "🌂",
@@ -11807,8 +9845,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f302.png",
   },
   {
     emoji: "☂",
@@ -11818,8 +9854,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2602-fe0f.png",
   },
   {
     emoji: "☔",
@@ -11829,8 +9863,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2614.png",
   },
   {
     emoji: "⛱",
@@ -11840,8 +9872,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/26f1-fe0f.png",
   },
   {
     emoji: "⚡",
@@ -11851,8 +9881,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/26a1.png",
   },
   {
     emoji: "❄",
@@ -11862,8 +9890,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2744-fe0f.png",
   },
   {
     emoji: "☃",
@@ -11873,8 +9899,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2603-fe0f.png",
   },
   {
     emoji: "⛄",
@@ -11884,8 +9908,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/26c4.png",
   },
   {
     emoji: "☄",
@@ -11895,8 +9917,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2604-fe0f.png",
   },
   {
     emoji: "🔥",
@@ -11906,8 +9926,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f525.png",
   },
   {
     emoji: "💧",
@@ -11917,8 +9935,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4a7.png",
   },
   {
     emoji: "🌊",
@@ -11928,8 +9944,6 @@ export const emojis: EmojiItem[] = [
     group: "travel & places",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f30a.png",
   },
   {
     emoji: "🎃",
@@ -11939,8 +9953,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f383.png",
   },
   {
     emoji: "🎄",
@@ -11950,8 +9962,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f384.png",
   },
   {
     emoji: "🎆",
@@ -11961,8 +9971,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f386.png",
   },
   {
     emoji: "🎇",
@@ -11972,8 +9980,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f387.png",
   },
   {
     emoji: "🧨",
@@ -11983,8 +9989,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9e8.png",
   },
   {
     emoji: "✨",
@@ -11994,8 +9998,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2728.png",
   },
   {
     emoji: "🎈",
@@ -12005,8 +10007,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f388.png",
   },
   {
     emoji: "🎉",
@@ -12016,8 +10016,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f389.png",
   },
   {
     emoji: "🎊",
@@ -12027,8 +10025,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f38a.png",
   },
   {
     emoji: "🎋",
@@ -12038,8 +10034,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f38b.png",
   },
   {
     emoji: "🎍",
@@ -12049,8 +10043,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f38d.png",
   },
   {
     emoji: "🎎",
@@ -12060,8 +10052,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f38e.png",
   },
   {
     emoji: "🎏",
@@ -12071,8 +10061,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f38f.png",
   },
   {
     emoji: "🎐",
@@ -12082,8 +10070,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f390.png",
   },
   {
     emoji: "🎑",
@@ -12093,8 +10079,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f391.png",
   },
   {
     emoji: "🧧",
@@ -12104,8 +10088,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9e7.png",
   },
   {
     emoji: "🎀",
@@ -12115,8 +10097,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f380.png",
   },
   {
     emoji: "🎁",
@@ -12126,8 +10106,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f381.png",
   },
   {
     emoji: "🎗",
@@ -12137,8 +10115,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f397-fe0f.png",
   },
   {
     emoji: "🎟",
@@ -12148,8 +10124,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f39f-fe0f.png",
   },
   {
     emoji: "🎫",
@@ -12159,8 +10133,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3ab.png",
   },
   {
     emoji: "🎖",
@@ -12170,8 +10142,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f396-fe0f.png",
   },
   {
     emoji: "🏆",
@@ -12181,8 +10151,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3c6.png",
   },
   {
     emoji: "🏅",
@@ -12192,8 +10160,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3c5.png",
   },
   {
     emoji: "🥇",
@@ -12203,8 +10169,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 3,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f947.png",
   },
   {
     emoji: "🥈",
@@ -12214,8 +10178,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 3,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f948.png",
   },
   {
     emoji: "🥉",
@@ -12225,8 +10187,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 3,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f949.png",
   },
   {
     emoji: "⚽",
@@ -12236,8 +10196,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/26bd.png",
   },
   {
     emoji: "⚾",
@@ -12247,8 +10205,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/26be.png",
   },
   {
     emoji: "🥎",
@@ -12258,8 +10214,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f94e.png",
   },
   {
     emoji: "🏀",
@@ -12269,8 +10223,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3c0.png",
   },
   {
     emoji: "🏐",
@@ -12280,8 +10232,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3d0.png",
   },
   {
     emoji: "🏈",
@@ -12291,8 +10241,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3c8.png",
   },
   {
     emoji: "🏉",
@@ -12302,8 +10250,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3c9.png",
   },
   {
     emoji: "🎾",
@@ -12313,8 +10259,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3be.png",
   },
   {
     emoji: "🥏",
@@ -12324,8 +10268,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f94f.png",
   },
   {
     emoji: "🎳",
@@ -12335,8 +10277,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3b3.png",
   },
   {
     emoji: "🏏",
@@ -12346,8 +10286,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3cf.png",
   },
   {
     emoji: "🏑",
@@ -12357,8 +10295,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3d1.png",
   },
   {
     emoji: "🏒",
@@ -12368,8 +10304,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3d2.png",
   },
   {
     emoji: "🥍",
@@ -12379,8 +10313,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f94d.png",
   },
   {
     emoji: "🏓",
@@ -12390,8 +10322,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3d3.png",
   },
   {
     emoji: "🏸",
@@ -12401,8 +10331,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3f8.png",
   },
   {
     emoji: "🥊",
@@ -12412,8 +10340,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 3,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f94a.png",
   },
   {
     emoji: "🥋",
@@ -12423,8 +10349,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 3,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f94b.png",
   },
   {
     emoji: "🥅",
@@ -12434,8 +10358,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 3,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f945.png",
   },
   {
     emoji: "⛳",
@@ -12445,8 +10367,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/26f3.png",
   },
   {
     emoji: "⛸",
@@ -12456,8 +10376,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/26f8-fe0f.png",
   },
   {
     emoji: "🎣",
@@ -12467,8 +10385,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3a3.png",
   },
   {
     emoji: "🤿",
@@ -12478,8 +10394,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f93f.png",
   },
   {
     emoji: "🎽",
@@ -12489,8 +10403,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3bd.png",
   },
   {
     emoji: "🎿",
@@ -12500,8 +10412,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3bf.png",
   },
   {
     emoji: "🛷",
@@ -12511,8 +10421,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6f7.png",
   },
   {
     emoji: "🥌",
@@ -12522,8 +10430,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f94c.png",
   },
   {
     emoji: "🎯",
@@ -12533,8 +10439,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3af.png",
   },
   {
     emoji: "🪀",
@@ -12544,8 +10448,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1fa80.png",
   },
   {
     emoji: "🪁",
@@ -12555,8 +10457,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1fa81.png",
   },
   {
     emoji: "🔫",
@@ -12566,8 +10466,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f52b.png",
   },
   {
     emoji: "🎱",
@@ -12577,8 +10475,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3b1.png",
   },
   {
     emoji: "🔮",
@@ -12588,8 +10484,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f52e.png",
   },
   {
     emoji: "🪄",
@@ -12599,8 +10493,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 13,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1fa84.png",
   },
   {
     emoji: "🎮",
@@ -12610,8 +10502,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3ae.png",
   },
   {
     emoji: "🕹",
@@ -12621,8 +10511,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f579-fe0f.png",
   },
   {
     emoji: "🎰",
@@ -12632,8 +10520,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3b0.png",
   },
   {
     emoji: "🎲",
@@ -12643,8 +10529,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3b2.png",
   },
   {
     emoji: "🧩",
@@ -12654,8 +10538,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9e9.png",
   },
   {
     emoji: "🧸",
@@ -12665,8 +10547,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9f8.png",
   },
   {
     emoji: "🪅",
@@ -12676,8 +10556,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 13,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1fa85.png",
   },
   {
     emoji: "🪩",
@@ -12696,8 +10574,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 13,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1fa86.png",
   },
   {
     emoji: "♠",
@@ -12707,8 +10583,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2660-fe0f.png",
   },
   {
     emoji: "♥",
@@ -12718,8 +10592,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2665-fe0f.png",
   },
   {
     emoji: "♦",
@@ -12729,8 +10601,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2666-fe0f.png",
   },
   {
     emoji: "♣",
@@ -12740,8 +10610,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2663-fe0f.png",
   },
   {
     emoji: "♟",
@@ -12751,8 +10619,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/265f-fe0f.png",
   },
   {
     emoji: "🃏",
@@ -12762,8 +10628,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f0cf.png",
   },
   {
     emoji: "🀄",
@@ -12773,8 +10637,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f004.png",
   },
   {
     emoji: "🎴",
@@ -12784,8 +10646,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3b4.png",
   },
   {
     emoji: "🎭",
@@ -12795,8 +10655,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3ad.png",
   },
   {
     emoji: "🖼",
@@ -12806,8 +10664,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f5bc-fe0f.png",
   },
   {
     emoji: "🎨",
@@ -12817,8 +10673,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3a8.png",
   },
   {
     emoji: "🧵",
@@ -12828,8 +10682,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9f5.png",
   },
   {
     emoji: "🪡",
@@ -12846,8 +10698,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 13,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1faa1.png",
   },
   {
     emoji: "🧶",
@@ -12857,8 +10707,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9f6.png",
   },
   {
     emoji: "🪢",
@@ -12868,8 +10716,6 @@ export const emojis: EmojiItem[] = [
     group: "activities",
     emoticons: [],
     version: 13,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1faa2.png",
   },
   {
     emoji: "👓",
@@ -12879,8 +10725,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f453.png",
   },
   {
     emoji: "🕶",
@@ -12890,8 +10734,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f576-fe0f.png",
   },
   {
     emoji: "🥽",
@@ -12901,8 +10743,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f97d.png",
   },
   {
     emoji: "🥼",
@@ -12912,8 +10752,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f97c.png",
   },
   {
     emoji: "🦺",
@@ -12923,8 +10761,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9ba.png",
   },
   {
     emoji: "👔",
@@ -12934,8 +10770,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f454.png",
   },
   {
     emoji: "👕",
@@ -12945,8 +10779,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f455.png",
   },
   {
     emoji: "👖",
@@ -12956,8 +10788,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f456.png",
   },
   {
     emoji: "🧣",
@@ -12967,8 +10797,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9e3.png",
   },
   {
     emoji: "🧤",
@@ -12978,8 +10806,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9e4.png",
   },
   {
     emoji: "🧥",
@@ -12989,8 +10815,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9e5.png",
   },
   {
     emoji: "🧦",
@@ -13000,8 +10824,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9e6.png",
   },
   {
     emoji: "👗",
@@ -13011,8 +10833,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f457.png",
   },
   {
     emoji: "👘",
@@ -13022,8 +10842,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f458.png",
   },
   {
     emoji: "🥻",
@@ -13033,8 +10851,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f97b.png",
   },
   {
     emoji: "🩱",
@@ -13044,8 +10860,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1fa71.png",
   },
   {
     emoji: "🩲",
@@ -13055,8 +10869,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1fa72.png",
   },
   {
     emoji: "🩳",
@@ -13066,8 +10878,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1fa73.png",
   },
   {
     emoji: "👙",
@@ -13077,8 +10887,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f459.png",
   },
   {
     emoji: "👚",
@@ -13088,8 +10896,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f45a.png",
   },
   {
     emoji: "🪭",
@@ -13108,8 +10914,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f45b.png",
   },
   {
     emoji: "👜",
@@ -13119,8 +10923,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f45c.png",
   },
   {
     emoji: "👝",
@@ -13130,8 +10932,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f45d.png",
   },
   {
     emoji: "🛍",
@@ -13141,8 +10941,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6cd-fe0f.png",
   },
   {
     emoji: "🎒",
@@ -13152,8 +10950,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f392.png",
   },
   {
     emoji: "🩴",
@@ -13163,8 +10959,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 13,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1fa74.png",
   },
   {
     emoji: "👞",
@@ -13174,8 +10968,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f45e.png",
   },
   {
     emoji: "👟",
@@ -13185,8 +10977,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f45f.png",
   },
   {
     emoji: "🥾",
@@ -13196,8 +10986,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f97e.png",
   },
   {
     emoji: "🥿",
@@ -13207,8 +10995,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f97f.png",
   },
   {
     emoji: "👠",
@@ -13218,8 +11004,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f460.png",
   },
   {
     emoji: "👡",
@@ -13229,8 +11013,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f461.png",
   },
   {
     emoji: "🩰",
@@ -13240,8 +11022,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1fa70.png",
   },
   {
     emoji: "👢",
@@ -13251,8 +11031,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f462.png",
   },
   {
     emoji: "🪮",
@@ -13271,8 +11049,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f451.png",
   },
   {
     emoji: "👒",
@@ -13282,8 +11058,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f452.png",
   },
   {
     emoji: "🎩",
@@ -13293,8 +11067,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3a9.png",
   },
   {
     emoji: "🎓",
@@ -13304,8 +11076,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f393.png",
   },
   {
     emoji: "🧢",
@@ -13315,8 +11085,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9e2.png",
   },
   {
     emoji: "🪖",
@@ -13326,8 +11094,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 13,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1fa96.png",
   },
   {
     emoji: "⛑",
@@ -13337,8 +11103,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/26d1-fe0f.png",
   },
   {
     emoji: "📿",
@@ -13348,8 +11112,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4ff.png",
   },
   {
     emoji: "💄",
@@ -13359,8 +11121,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f484.png",
   },
   {
     emoji: "💍",
@@ -13370,8 +11130,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f48d.png",
   },
   {
     emoji: "💎",
@@ -13381,8 +11139,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f48e.png",
   },
   {
     emoji: "🔇",
@@ -13392,8 +11148,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f507.png",
   },
   {
     emoji: "🔈",
@@ -13403,8 +11157,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f508.png",
   },
   {
     emoji: "🔉",
@@ -13414,8 +11166,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f509.png",
   },
   {
     emoji: "🔊",
@@ -13425,8 +11175,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f50a.png",
   },
   {
     emoji: "📢",
@@ -13436,8 +11184,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4e2.png",
   },
   {
     emoji: "📣",
@@ -13447,8 +11193,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4e3.png",
   },
   {
     emoji: "📯",
@@ -13458,8 +11202,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4ef.png",
   },
   {
     emoji: "🔔",
@@ -13469,8 +11211,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f514.png",
   },
   {
     emoji: "🔕",
@@ -13480,8 +11220,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f515.png",
   },
   {
     emoji: "🎼",
@@ -13491,8 +11229,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3bc.png",
   },
   {
     emoji: "🎵",
@@ -13502,8 +11238,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3b5.png",
   },
   {
     emoji: "🎶",
@@ -13513,8 +11247,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3b6.png",
   },
   {
     emoji: "🎙",
@@ -13524,8 +11256,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f399-fe0f.png",
   },
   {
     emoji: "🎚",
@@ -13535,8 +11265,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f39a-fe0f.png",
   },
   {
     emoji: "🎛",
@@ -13546,8 +11274,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f39b-fe0f.png",
   },
   {
     emoji: "🎤",
@@ -13557,8 +11283,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3a4.png",
   },
   {
     emoji: "🎧",
@@ -13568,8 +11292,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3a7.png",
   },
   {
     emoji: "📻",
@@ -13579,8 +11301,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4fb.png",
   },
   {
     emoji: "🎷",
@@ -13590,8 +11310,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3b7.png",
   },
   {
     emoji: "🪗",
@@ -13601,8 +11319,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 13,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1fa97.png",
   },
   {
     emoji: "🎸",
@@ -13612,8 +11328,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3b8.png",
   },
   {
     emoji: "🎹",
@@ -13623,8 +11337,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3b9.png",
   },
   {
     emoji: "🎺",
@@ -13634,8 +11346,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3ba.png",
   },
   {
     emoji: "🎻",
@@ -13645,8 +11355,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3bb.png",
   },
   {
     emoji: "🪕",
@@ -13656,8 +11364,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1fa95.png",
   },
   {
     emoji: "🥁",
@@ -13667,8 +11373,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 3,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f941.png",
   },
   {
     emoji: "🪘",
@@ -13678,8 +11382,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 13,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1fa98.png",
   },
   {
     emoji: "🪇",
@@ -13707,8 +11409,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4f1.png",
   },
   {
     emoji: "📲",
@@ -13718,8 +11418,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4f2.png",
   },
   {
     emoji: "☎",
@@ -13729,8 +11427,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/260e-fe0f.png",
   },
   {
     emoji: "📞",
@@ -13740,8 +11436,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4de.png",
   },
   {
     emoji: "📟",
@@ -13751,8 +11445,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4df.png",
   },
   {
     emoji: "📠",
@@ -13762,8 +11454,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4e0.png",
   },
   {
     emoji: "🔋",
@@ -13773,8 +11463,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f50b.png",
   },
   {
     emoji: "🪫",
@@ -13793,8 +11481,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f50c.png",
   },
   {
     emoji: "💻",
@@ -13804,8 +11490,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4bb.png",
   },
   {
     emoji: "🖥",
@@ -13815,8 +11499,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f5a5-fe0f.png",
   },
   {
     emoji: "🖨",
@@ -13826,8 +11508,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f5a8-fe0f.png",
   },
   {
     emoji: "⌨",
@@ -13837,8 +11517,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2328-fe0f.png",
   },
   {
     emoji: "🖱",
@@ -13848,8 +11526,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f5b1-fe0f.png",
   },
   {
     emoji: "🖲",
@@ -13859,8 +11535,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f5b2-fe0f.png",
   },
   {
     emoji: "💽",
@@ -13870,8 +11544,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4bd.png",
   },
   {
     emoji: "💾",
@@ -13881,8 +11553,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4be.png",
   },
   {
     emoji: "💿",
@@ -13892,8 +11562,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4bf.png",
   },
   {
     emoji: "📀",
@@ -13903,8 +11571,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4c0.png",
   },
   {
     emoji: "🧮",
@@ -13914,8 +11580,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9ee.png",
   },
   {
     emoji: "🎥",
@@ -13925,8 +11589,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3a5.png",
   },
   {
     emoji: "🎞",
@@ -13936,8 +11598,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f39e-fe0f.png",
   },
   {
     emoji: "📽",
@@ -13947,8 +11607,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4fd-fe0f.png",
   },
   {
     emoji: "🎬",
@@ -13958,8 +11616,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3ac.png",
   },
   {
     emoji: "📺",
@@ -13969,8 +11625,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4fa.png",
   },
   {
     emoji: "📷",
@@ -13980,8 +11634,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4f7.png",
   },
   {
     emoji: "📸",
@@ -13991,8 +11643,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4f8.png",
   },
   {
     emoji: "📹",
@@ -14002,8 +11652,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4f9.png",
   },
   {
     emoji: "📼",
@@ -14013,8 +11661,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4fc.png",
   },
   {
     emoji: "🔍",
@@ -14024,8 +11670,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f50d.png",
   },
   {
     emoji: "🔎",
@@ -14035,8 +11679,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f50e.png",
   },
   {
     emoji: "🕯",
@@ -14046,8 +11688,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f56f-fe0f.png",
   },
   {
     emoji: "💡",
@@ -14057,8 +11697,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4a1.png",
   },
   {
     emoji: "🔦",
@@ -14068,8 +11706,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f526.png",
   },
   {
     emoji: "🏮",
@@ -14079,8 +11715,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3ee.png",
   },
   {
     emoji: "🪔",
@@ -14090,8 +11724,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1fa94.png",
   },
   {
     emoji: "📔",
@@ -14101,8 +11733,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4d4.png",
   },
   {
     emoji: "📕",
@@ -14112,8 +11742,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4d5.png",
   },
   {
     emoji: "📖",
@@ -14123,8 +11751,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4d6.png",
   },
   {
     emoji: "📗",
@@ -14134,8 +11760,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4d7.png",
   },
   {
     emoji: "📘",
@@ -14145,8 +11769,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4d8.png",
   },
   {
     emoji: "📙",
@@ -14156,8 +11778,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4d9.png",
   },
   {
     emoji: "📚",
@@ -14167,8 +11787,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4da.png",
   },
   {
     emoji: "📓",
@@ -14178,8 +11796,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4d3.png",
   },
   {
     emoji: "📒",
@@ -14189,8 +11805,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4d2.png",
   },
   {
     emoji: "📃",
@@ -14200,8 +11814,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4c3.png",
   },
   {
     emoji: "📜",
@@ -14211,8 +11823,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4dc.png",
   },
   {
     emoji: "📄",
@@ -14222,8 +11832,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4c4.png",
   },
   {
     emoji: "📰",
@@ -14233,8 +11841,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4f0.png",
   },
   {
     emoji: "🗞",
@@ -14244,8 +11850,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f5de-fe0f.png",
   },
   {
     emoji: "📑",
@@ -14255,8 +11859,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4d1.png",
   },
   {
     emoji: "🔖",
@@ -14266,8 +11868,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f516.png",
   },
   {
     emoji: "🏷",
@@ -14277,8 +11877,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3f7-fe0f.png",
   },
   {
     emoji: "💰",
@@ -14288,8 +11886,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4b0.png",
   },
   {
     emoji: "🪙",
@@ -14299,8 +11895,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 13,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1fa99.png",
   },
   {
     emoji: "💴",
@@ -14310,8 +11904,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4b4.png",
   },
   {
     emoji: "💵",
@@ -14321,8 +11913,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4b5.png",
   },
   {
     emoji: "💶",
@@ -14332,8 +11922,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4b6.png",
   },
   {
     emoji: "💷",
@@ -14343,8 +11931,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4b7.png",
   },
   {
     emoji: "💸",
@@ -14354,8 +11940,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4b8.png",
   },
   {
     emoji: "💳",
@@ -14365,8 +11949,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4b3.png",
   },
   {
     emoji: "🧾",
@@ -14376,8 +11958,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9fe.png",
   },
   {
     emoji: "💹",
@@ -14387,8 +11967,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4b9.png",
   },
   {
     emoji: "✉",
@@ -14398,8 +11976,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2709-fe0f.png",
   },
   {
     emoji: "📧",
@@ -14409,8 +11985,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4e7.png",
   },
   {
     emoji: "📨",
@@ -14420,8 +11994,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4e8.png",
   },
   {
     emoji: "📩",
@@ -14431,8 +12003,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4e9.png",
   },
   {
     emoji: "📤",
@@ -14442,8 +12012,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4e4.png",
   },
   {
     emoji: "📥",
@@ -14453,8 +12021,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4e5.png",
   },
   {
     emoji: "📦",
@@ -14464,8 +12030,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4e6.png",
   },
   {
     emoji: "📫",
@@ -14475,8 +12039,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4eb.png",
   },
   {
     emoji: "📪",
@@ -14486,8 +12048,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4ea.png",
   },
   {
     emoji: "📬",
@@ -14497,8 +12057,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4ec.png",
   },
   {
     emoji: "📭",
@@ -14508,8 +12066,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4ed.png",
   },
   {
     emoji: "📮",
@@ -14519,8 +12075,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4ee.png",
   },
   {
     emoji: "🗳",
@@ -14530,8 +12084,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f5f3-fe0f.png",
   },
   {
     emoji: "✏",
@@ -14541,8 +12093,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/270f-fe0f.png",
   },
   {
     emoji: "✒",
@@ -14552,8 +12102,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2712-fe0f.png",
   },
   {
     emoji: "🖋",
@@ -14563,8 +12111,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f58b-fe0f.png",
   },
   {
     emoji: "🖊",
@@ -14574,8 +12120,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f58a-fe0f.png",
   },
   {
     emoji: "🖌",
@@ -14585,8 +12129,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f58c-fe0f.png",
   },
   {
     emoji: "🖍",
@@ -14596,8 +12138,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f58d-fe0f.png",
   },
   {
     emoji: "📝",
@@ -14607,8 +12147,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4dd.png",
   },
   {
     emoji: "💼",
@@ -14618,8 +12156,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4bc.png",
   },
   {
     emoji: "📁",
@@ -14629,8 +12165,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4c1.png",
   },
   {
     emoji: "📂",
@@ -14640,8 +12174,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4c2.png",
   },
   {
     emoji: "🗂",
@@ -14651,8 +12183,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f5c2-fe0f.png",
   },
   {
     emoji: "📅",
@@ -14662,8 +12192,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4c5.png",
   },
   {
     emoji: "📆",
@@ -14673,8 +12201,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4c6.png",
   },
   {
     emoji: "🗒",
@@ -14684,8 +12210,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f5d2-fe0f.png",
   },
   {
     emoji: "🗓",
@@ -14695,8 +12219,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f5d3-fe0f.png",
   },
   {
     emoji: "📇",
@@ -14706,8 +12228,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4c7.png",
   },
   {
     emoji: "📈",
@@ -14717,8 +12237,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4c8.png",
   },
   {
     emoji: "📉",
@@ -14728,8 +12246,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4c9.png",
   },
   {
     emoji: "📊",
@@ -14739,8 +12255,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4ca.png",
   },
   {
     emoji: "📋",
@@ -14750,8 +12264,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4cb.png",
   },
   {
     emoji: "📌",
@@ -14761,8 +12273,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4cc.png",
   },
   {
     emoji: "📍",
@@ -14772,8 +12282,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4cd.png",
   },
   {
     emoji: "📎",
@@ -14783,8 +12291,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4ce.png",
   },
   {
     emoji: "🖇",
@@ -14794,8 +12300,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f587-fe0f.png",
   },
   {
     emoji: "📏",
@@ -14805,8 +12309,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4cf.png",
   },
   {
     emoji: "📐",
@@ -14816,8 +12318,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4d0.png",
   },
   {
     emoji: "✂",
@@ -14827,8 +12327,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2702-fe0f.png",
   },
   {
     emoji: "🗃",
@@ -14838,8 +12336,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f5c3-fe0f.png",
   },
   {
     emoji: "🗄",
@@ -14849,8 +12345,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f5c4-fe0f.png",
   },
   {
     emoji: "🗑",
@@ -14860,8 +12354,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f5d1-fe0f.png",
   },
   {
     emoji: "🔒",
@@ -14871,8 +12363,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f512.png",
   },
   {
     emoji: "🔓",
@@ -14882,8 +12372,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f513.png",
   },
   {
     emoji: "🔏",
@@ -14893,8 +12381,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f50f.png",
   },
   {
     emoji: "🔐",
@@ -14904,8 +12390,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f510.png",
   },
   {
     emoji: "🔑",
@@ -14915,8 +12399,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f511.png",
   },
   {
     emoji: "🗝",
@@ -14926,8 +12408,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f5dd-fe0f.png",
   },
   {
     emoji: "🔨",
@@ -14937,8 +12417,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f528.png",
   },
   {
     emoji: "🪓",
@@ -14948,8 +12426,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1fa93.png",
   },
   {
     emoji: "⛏",
@@ -14959,8 +12435,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/26cf-fe0f.png",
   },
   {
     emoji: "⚒",
@@ -14970,8 +12444,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2692-fe0f.png",
   },
   {
     emoji: "🛠",
@@ -14981,8 +12453,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6e0-fe0f.png",
   },
   {
     emoji: "🗡",
@@ -14992,8 +12462,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f5e1-fe0f.png",
   },
   {
     emoji: "⚔",
@@ -15003,8 +12471,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2694-fe0f.png",
   },
   {
     emoji: "💣",
@@ -15014,8 +12480,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4a3.png",
   },
   {
     emoji: "🪃",
@@ -15025,8 +12489,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 13,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1fa83.png",
   },
   {
     emoji: "🏹",
@@ -15036,8 +12498,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3f9.png",
   },
   {
     emoji: "🛡",
@@ -15047,8 +12507,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6e1-fe0f.png",
   },
   {
     emoji: "🪚",
@@ -15058,8 +12516,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 13,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1fa9a.png",
   },
   {
     emoji: "🔧",
@@ -15069,8 +12525,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f527.png",
   },
   {
     emoji: "🪛",
@@ -15080,8 +12534,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 13,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1fa9b.png",
   },
   {
     emoji: "🔩",
@@ -15091,8 +12543,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f529.png",
   },
   {
     emoji: "⚙",
@@ -15102,8 +12552,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2699-fe0f.png",
   },
   {
     emoji: "🗜",
@@ -15113,8 +12561,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f5dc-fe0f.png",
   },
   {
     emoji: "⚖",
@@ -15124,8 +12570,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2696-fe0f.png",
   },
   {
     emoji: "🦯",
@@ -15135,8 +12579,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9af.png",
   },
   {
     emoji: "🔗",
@@ -15146,8 +12588,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f517.png",
   },
   {
     emoji: "⛓‍💥",
@@ -15166,8 +12606,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/26d3-fe0f.png",
   },
   {
     emoji: "🪝",
@@ -15177,8 +12615,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 13,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1fa9d.png",
   },
   {
     emoji: "🧰",
@@ -15188,8 +12624,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9f0.png",
   },
   {
     emoji: "🧲",
@@ -15199,8 +12633,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9f2.png",
   },
   {
     emoji: "🪜",
@@ -15210,8 +12642,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 13,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1fa9c.png",
   },
   {
     emoji: "⚗",
@@ -15221,8 +12651,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2697-fe0f.png",
   },
   {
     emoji: "🧪",
@@ -15232,8 +12660,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9ea.png",
   },
   {
     emoji: "🧫",
@@ -15243,8 +12669,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9eb.png",
   },
   {
     emoji: "🧬",
@@ -15254,8 +12678,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9ec.png",
   },
   {
     emoji: "🔬",
@@ -15265,8 +12687,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f52c.png",
   },
   {
     emoji: "🔭",
@@ -15276,8 +12696,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f52d.png",
   },
   {
     emoji: "📡",
@@ -15287,8 +12705,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4e1.png",
   },
   {
     emoji: "💉",
@@ -15298,8 +12714,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f489.png",
   },
   {
     emoji: "🩸",
@@ -15309,8 +12723,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1fa78.png",
   },
   {
     emoji: "💊",
@@ -15320,8 +12732,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f48a.png",
   },
   {
     emoji: "🩹",
@@ -15331,8 +12741,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1fa79.png",
   },
   {
     emoji: "🩼",
@@ -15351,8 +12759,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1fa7a.png",
   },
   {
     emoji: "🩻",
@@ -15371,8 +12777,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6aa.png",
   },
   {
     emoji: "🛗",
@@ -15382,8 +12786,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 13,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6d7.png",
   },
   {
     emoji: "🪞",
@@ -15393,8 +12795,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 13,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1fa9e.png",
   },
   {
     emoji: "🪟",
@@ -15404,8 +12804,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 13,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1fa9f.png",
   },
   {
     emoji: "🛏",
@@ -15415,8 +12813,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6cf-fe0f.png",
   },
   {
     emoji: "🛋",
@@ -15426,8 +12822,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6cb-fe0f.png",
   },
   {
     emoji: "🪑",
@@ -15437,8 +12831,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1fa91.png",
   },
   {
     emoji: "🚽",
@@ -15448,8 +12840,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6bd.png",
   },
   {
     emoji: "🪠",
@@ -15459,8 +12849,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 13,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1faa0.png",
   },
   {
     emoji: "🚿",
@@ -15470,8 +12858,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6bf.png",
   },
   {
     emoji: "🛁",
@@ -15481,8 +12867,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6c1.png",
   },
   {
     emoji: "🪤",
@@ -15492,8 +12876,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 13,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1faa4.png",
   },
   {
     emoji: "🪒",
@@ -15503,8 +12885,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1fa92.png",
   },
   {
     emoji: "🧴",
@@ -15514,8 +12894,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9f4.png",
   },
   {
     emoji: "🧷",
@@ -15525,8 +12903,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9f7.png",
   },
   {
     emoji: "🧹",
@@ -15536,8 +12912,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9f9.png",
   },
   {
     emoji: "🧺",
@@ -15547,8 +12921,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9fa.png",
   },
   {
     emoji: "🧻",
@@ -15558,8 +12930,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9fb.png",
   },
   {
     emoji: "🪣",
@@ -15569,8 +12939,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 13,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1faa3.png",
   },
   {
     emoji: "🧼",
@@ -15580,8 +12948,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9fc.png",
   },
   {
     emoji: "🫧",
@@ -15600,8 +12966,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 13,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1faa5.png",
   },
   {
     emoji: "🧽",
@@ -15611,8 +12975,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9fd.png",
   },
   {
     emoji: "🧯",
@@ -15622,8 +12984,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9ef.png",
   },
   {
     emoji: "🛒",
@@ -15633,8 +12993,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 3,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6d2.png",
   },
   {
     emoji: "🚬",
@@ -15644,8 +13002,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6ac.png",
   },
   {
     emoji: "⚰",
@@ -15655,8 +13011,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/26b0-fe0f.png",
   },
   {
     emoji: "🪦",
@@ -15666,8 +13020,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 13,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1faa6.png",
   },
   {
     emoji: "⚱",
@@ -15677,8 +13029,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/26b1-fe0f.png",
   },
   {
     emoji: "🧿",
@@ -15688,8 +13038,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f9ff.png",
   },
   {
     emoji: "🪬",
@@ -15708,8 +13056,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f5ff.png",
   },
   {
     emoji: "🪧",
@@ -15719,8 +13065,6 @@ export const emojis: EmojiItem[] = [
     group: "objects",
     emoticons: [],
     version: 13,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1faa7.png",
   },
   {
     emoji: "🪪",
@@ -15739,8 +13083,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3e7.png",
   },
   {
     emoji: "🚮",
@@ -15750,8 +13092,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6ae.png",
   },
   {
     emoji: "🚰",
@@ -15761,8 +13101,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6b0.png",
   },
   {
     emoji: "♿",
@@ -15772,8 +13110,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/267f.png",
   },
   {
     emoji: "🚹",
@@ -15783,8 +13119,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6b9.png",
   },
   {
     emoji: "🚺",
@@ -15794,8 +13128,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6ba.png",
   },
   {
     emoji: "🚻",
@@ -15805,8 +13137,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6bb.png",
   },
   {
     emoji: "🚼",
@@ -15816,8 +13146,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6bc.png",
   },
   {
     emoji: "🚾",
@@ -15835,8 +13163,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6be.png",
   },
   {
     emoji: "🛂",
@@ -15846,8 +13172,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6c2.png",
   },
   {
     emoji: "🛃",
@@ -15857,8 +13181,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6c3.png",
   },
   {
     emoji: "🛄",
@@ -15868,8 +13190,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6c4.png",
   },
   {
     emoji: "🛅",
@@ -15879,8 +13199,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6c5.png",
   },
   {
     emoji: "⚠",
@@ -15890,8 +13208,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/26a0-fe0f.png",
   },
   {
     emoji: "🚸",
@@ -15901,8 +13217,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6b8.png",
   },
   {
     emoji: "⛔",
@@ -15912,8 +13226,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/26d4.png",
   },
   {
     emoji: "🚫",
@@ -15923,8 +13235,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6ab.png",
   },
   {
     emoji: "🚳",
@@ -15934,8 +13244,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6b3.png",
   },
   {
     emoji: "🚭",
@@ -15945,8 +13253,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6ad.png",
   },
   {
     emoji: "🚯",
@@ -15956,8 +13262,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6af.png",
   },
   {
     emoji: "🚱",
@@ -15967,8 +13271,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6b1.png",
   },
   {
     emoji: "🚷",
@@ -15978,8 +13280,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6b7.png",
   },
   {
     emoji: "📵",
@@ -15989,8 +13289,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4f5.png",
   },
   {
     emoji: "🔞",
@@ -16000,8 +13298,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f51e.png",
   },
   {
     emoji: "☢",
@@ -16011,8 +13307,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2622-fe0f.png",
   },
   {
     emoji: "☣",
@@ -16022,8 +13316,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2623-fe0f.png",
   },
   {
     emoji: "⬆",
@@ -16033,8 +13325,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2b06-fe0f.png",
   },
   {
     emoji: "↗",
@@ -16044,8 +13334,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2197-fe0f.png",
   },
   {
     emoji: "➡",
@@ -16055,8 +13343,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/27a1-fe0f.png",
   },
   {
     emoji: "↘",
@@ -16066,8 +13352,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2198-fe0f.png",
   },
   {
     emoji: "⬇",
@@ -16077,8 +13361,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2b07-fe0f.png",
   },
   {
     emoji: "↙",
@@ -16088,8 +13370,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2199-fe0f.png",
   },
   {
     emoji: "⬅",
@@ -16099,8 +13379,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2b05-fe0f.png",
   },
   {
     emoji: "↖",
@@ -16110,8 +13388,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2196-fe0f.png",
   },
   {
     emoji: "↕",
@@ -16121,8 +13397,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2195-fe0f.png",
   },
   {
     emoji: "↔",
@@ -16132,8 +13406,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2194-fe0f.png",
   },
   {
     emoji: "↩",
@@ -16143,8 +13415,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/21a9-fe0f.png",
   },
   {
     emoji: "↪",
@@ -16154,8 +13424,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/21aa-fe0f.png",
   },
   {
     emoji: "⤴",
@@ -16165,8 +13433,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2934-fe0f.png",
   },
   {
     emoji: "⤵",
@@ -16176,8 +13442,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2935-fe0f.png",
   },
   {
     emoji: "🔃",
@@ -16187,8 +13451,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f503.png",
   },
   {
     emoji: "🔄",
@@ -16198,8 +13460,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f504.png",
   },
   {
     emoji: "🔙",
@@ -16209,8 +13469,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f519.png",
   },
   {
     emoji: "🔚",
@@ -16220,8 +13478,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f51a.png",
   },
   {
     emoji: "🔛",
@@ -16231,8 +13487,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f51b.png",
   },
   {
     emoji: "🔜",
@@ -16242,8 +13496,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f51c.png",
   },
   {
     emoji: "🔝",
@@ -16253,8 +13505,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f51d.png",
   },
   {
     emoji: "🛐",
@@ -16264,8 +13514,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6d0.png",
   },
   {
     emoji: "⚛",
@@ -16275,8 +13523,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/269b-fe0f.png",
   },
   {
     emoji: "🕉",
@@ -16286,8 +13532,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f549-fe0f.png",
   },
   {
     emoji: "✡",
@@ -16297,8 +13541,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2721-fe0f.png",
   },
   {
     emoji: "☸",
@@ -16308,8 +13550,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2638-fe0f.png",
   },
   {
     emoji: "☯",
@@ -16319,8 +13559,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/262f-fe0f.png",
   },
   {
     emoji: "✝",
@@ -16330,8 +13568,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/271d-fe0f.png",
   },
   {
     emoji: "☦",
@@ -16341,8 +13577,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2626-fe0f.png",
   },
   {
     emoji: "☪",
@@ -16352,8 +13586,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/262a-fe0f.png",
   },
   {
     emoji: "☮",
@@ -16363,8 +13595,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/262e-fe0f.png",
   },
   {
     emoji: "🕎",
@@ -16374,8 +13604,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f54e.png",
   },
   {
     emoji: "🔯",
@@ -16385,8 +13613,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f52f.png",
   },
   {
     emoji: "🪯",
@@ -16405,8 +13631,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2648.png",
   },
   {
     emoji: "♉",
@@ -16416,8 +13640,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2649.png",
   },
   {
     emoji: "♊",
@@ -16427,8 +13649,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/264a.png",
   },
   {
     emoji: "♋",
@@ -16438,8 +13658,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/264b.png",
   },
   {
     emoji: "♌",
@@ -16449,8 +13667,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/264c.png",
   },
   {
     emoji: "♍",
@@ -16460,8 +13676,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/264d.png",
   },
   {
     emoji: "♎",
@@ -16471,8 +13685,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/264e.png",
   },
   {
     emoji: "♏",
@@ -16482,8 +13694,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/264f.png",
   },
   {
     emoji: "♐",
@@ -16493,8 +13703,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2650.png",
   },
   {
     emoji: "♑",
@@ -16504,8 +13712,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2651.png",
   },
   {
     emoji: "♒",
@@ -16515,8 +13721,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2652.png",
   },
   {
     emoji: "♓",
@@ -16526,8 +13730,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2653.png",
   },
   {
     emoji: "⛎",
@@ -16537,8 +13739,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/26ce.png",
   },
   {
     emoji: "🔀",
@@ -16548,8 +13748,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f500.png",
   },
   {
     emoji: "🔁",
@@ -16559,8 +13757,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f501.png",
   },
   {
     emoji: "🔂",
@@ -16570,8 +13766,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f502.png",
   },
   {
     emoji: "▶",
@@ -16581,8 +13775,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/25b6-fe0f.png",
   },
   {
     emoji: "⏩",
@@ -16592,8 +13784,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/23e9.png",
   },
   {
     emoji: "⏭",
@@ -16603,8 +13793,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/23ed-fe0f.png",
   },
   {
     emoji: "⏯",
@@ -16614,8 +13802,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/23ef-fe0f.png",
   },
   {
     emoji: "◀",
@@ -16625,8 +13811,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/25c0-fe0f.png",
   },
   {
     emoji: "⏪",
@@ -16636,8 +13820,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/23ea.png",
   },
   {
     emoji: "⏮",
@@ -16647,8 +13829,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/23ee-fe0f.png",
   },
   {
     emoji: "🔼",
@@ -16658,8 +13838,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f53c.png",
   },
   {
     emoji: "⏫",
@@ -16669,8 +13847,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/23eb.png",
   },
   {
     emoji: "🔽",
@@ -16680,8 +13856,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f53d.png",
   },
   {
     emoji: "⏬",
@@ -16691,8 +13865,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/23ec.png",
   },
   {
     emoji: "⏸",
@@ -16702,8 +13874,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/23f8-fe0f.png",
   },
   {
     emoji: "⏹",
@@ -16713,8 +13883,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/23f9-fe0f.png",
   },
   {
     emoji: "⏺",
@@ -16724,8 +13892,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/23fa-fe0f.png",
   },
   {
     emoji: "⏏",
@@ -16735,8 +13901,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/23cf-fe0f.png",
   },
   {
     emoji: "🎦",
@@ -16746,8 +13910,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3a6.png",
   },
   {
     emoji: "🔅",
@@ -16757,8 +13919,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f505.png",
   },
   {
     emoji: "🔆",
@@ -16768,8 +13928,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f506.png",
   },
   {
     emoji: "📶",
@@ -16779,8 +13937,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4f6.png",
   },
   {
     emoji: "🛜",
@@ -16799,8 +13955,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4f3.png",
   },
   {
     emoji: "📴",
@@ -16810,8 +13964,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4f4.png",
   },
   {
     emoji: "♀",
@@ -16839,8 +13991,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 13,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/26a7-fe0f.png",
   },
   {
     emoji: "✖",
@@ -16850,8 +14000,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2716-fe0f.png",
   },
   {
     emoji: "➕",
@@ -16861,8 +14009,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2795.png",
   },
   {
     emoji: "➖",
@@ -16872,8 +14018,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2796.png",
   },
   {
     emoji: "➗",
@@ -16883,8 +14027,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2797.png",
   },
   {
     emoji: "🟰",
@@ -16903,8 +14045,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/267e-fe0f.png",
   },
   {
     emoji: "‼",
@@ -16914,8 +14054,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/203c-fe0f.png",
   },
   {
     emoji: "⁉",
@@ -16934,8 +14072,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2049-fe0f.png",
   },
   {
     emoji: "❓",
@@ -16945,8 +14081,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2753.png",
   },
   {
     emoji: "❔",
@@ -16956,8 +14090,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2754.png",
   },
   {
     emoji: "❕",
@@ -16967,8 +14099,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2755.png",
   },
   {
     emoji: "❗",
@@ -16978,8 +14108,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2757.png",
   },
   {
     emoji: "〰",
@@ -16989,8 +14117,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/3030-fe0f.png",
   },
   {
     emoji: "💱",
@@ -17000,8 +14126,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4b1.png",
   },
   {
     emoji: "💲",
@@ -17011,8 +14135,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4b2.png",
   },
   {
     emoji: "⚕",
@@ -17031,8 +14153,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/267b-fe0f.png",
   },
   {
     emoji: "⚜",
@@ -17042,8 +14162,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/269c-fe0f.png",
   },
   {
     emoji: "🔱",
@@ -17053,8 +14171,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f531.png",
   },
   {
     emoji: "📛",
@@ -17064,8 +14180,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4db.png",
   },
   {
     emoji: "🔰",
@@ -17081,8 +14195,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f530.png",
   },
   {
     emoji: "⭕",
@@ -17092,8 +14204,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2b55.png",
   },
   {
     emoji: "✅",
@@ -17103,8 +14213,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2705.png",
   },
   {
     emoji: "☑",
@@ -17114,8 +14222,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2611-fe0f.png",
   },
   {
     emoji: "✔",
@@ -17125,8 +14231,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2714-fe0f.png",
   },
   {
     emoji: "❌",
@@ -17136,8 +14240,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/274c.png",
   },
   {
     emoji: "❎",
@@ -17147,8 +14249,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/274e.png",
   },
   {
     emoji: "➰",
@@ -17158,8 +14258,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/27b0.png",
   },
   {
     emoji: "➿",
@@ -17169,8 +14267,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/27bf.png",
   },
   {
     emoji: "〽",
@@ -17180,8 +14276,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/303d-fe0f.png",
   },
   {
     emoji: "✳",
@@ -17191,8 +14285,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2733-fe0f.png",
   },
   {
     emoji: "✴",
@@ -17202,8 +14294,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2734-fe0f.png",
   },
   {
     emoji: "❇",
@@ -17213,8 +14303,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2747-fe0f.png",
   },
   {
     emoji: "©",
@@ -17224,8 +14312,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/00a9-fe0f.png",
   },
   {
     emoji: "®",
@@ -17235,8 +14321,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/00ae-fe0f.png",
   },
   {
     emoji: "™",
@@ -17246,8 +14330,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2122-fe0f.png",
   },
   {
     emoji: "#⃣",
@@ -17257,8 +14339,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/0023-fe0f-20e3.png",
   },
   {
     emoji: "*⃣",
@@ -17268,8 +14348,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/002a-fe0f-20e3.png",
   },
   {
     emoji: "0⃣",
@@ -17279,8 +14357,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/0030-fe0f-20e3.png",
   },
   {
     emoji: "1⃣",
@@ -17290,8 +14366,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/0031-fe0f-20e3.png",
   },
   {
     emoji: "2⃣",
@@ -17301,8 +14375,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/0032-fe0f-20e3.png",
   },
   {
     emoji: "3⃣",
@@ -17312,8 +14384,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/0033-fe0f-20e3.png",
   },
   {
     emoji: "4⃣",
@@ -17323,8 +14393,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/0034-fe0f-20e3.png",
   },
   {
     emoji: "5⃣",
@@ -17334,8 +14402,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/0035-fe0f-20e3.png",
   },
   {
     emoji: "6⃣",
@@ -17345,8 +14411,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/0036-fe0f-20e3.png",
   },
   {
     emoji: "7⃣",
@@ -17356,8 +14420,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/0037-fe0f-20e3.png",
   },
   {
     emoji: "8⃣",
@@ -17367,8 +14429,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/0038-fe0f-20e3.png",
   },
   {
     emoji: "9⃣",
@@ -17378,8 +14438,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/0039-fe0f-20e3.png",
   },
   {
     emoji: "🔟",
@@ -17389,8 +14447,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f51f.png",
   },
   {
     emoji: "🔠",
@@ -17400,8 +14456,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f520.png",
   },
   {
     emoji: "🔡",
@@ -17411,8 +14465,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f521.png",
   },
   {
     emoji: "🔢",
@@ -17422,8 +14474,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f522.png",
   },
   {
     emoji: "🔣",
@@ -17433,8 +14483,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f523.png",
   },
   {
     emoji: "🔤",
@@ -17444,8 +14492,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f524.png",
   },
   {
     emoji: "🅰",
@@ -17455,8 +14501,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f170-fe0f.png",
   },
   {
     emoji: "🆎",
@@ -17466,8 +14510,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f18e.png",
   },
   {
     emoji: "🅱",
@@ -17477,8 +14519,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f171-fe0f.png",
   },
   {
     emoji: "🆑",
@@ -17488,8 +14528,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f191.png",
   },
   {
     emoji: "🆒",
@@ -17499,8 +14537,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f192.png",
   },
   {
     emoji: "🆓",
@@ -17510,8 +14546,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f193.png",
   },
   {
     emoji: "ℹ",
@@ -17521,8 +14555,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2139-fe0f.png",
   },
   {
     emoji: "🆔",
@@ -17532,8 +14564,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f194.png",
   },
   {
     emoji: "Ⓜ",
@@ -17543,8 +14573,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/24c2-fe0f.png",
   },
   {
     emoji: "🆕",
@@ -17554,8 +14582,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f195.png",
   },
   {
     emoji: "🆖",
@@ -17565,8 +14591,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f196.png",
   },
   {
     emoji: "🅾",
@@ -17576,8 +14600,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f17e-fe0f.png",
   },
   {
     emoji: "🆗",
@@ -17587,8 +14609,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f197.png",
   },
   {
     emoji: "🅿",
@@ -17598,8 +14618,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f17f-fe0f.png",
   },
   {
     emoji: "🆘",
@@ -17609,8 +14627,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f198.png",
   },
   {
     emoji: "🆙",
@@ -17620,8 +14636,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f199.png",
   },
   {
     emoji: "🆚",
@@ -17631,8 +14645,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f19a.png",
   },
   {
     emoji: "🈁",
@@ -17642,8 +14654,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f201.png",
   },
   {
     emoji: "🈂",
@@ -17659,8 +14669,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f202-fe0f.png",
   },
   {
     emoji: "🈷",
@@ -17676,8 +14684,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f237-fe0f.png",
   },
   {
     emoji: "🈶",
@@ -17693,8 +14699,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f236.png",
   },
   {
     emoji: "🈯",
@@ -17710,8 +14714,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f22f.png",
   },
   {
     emoji: "🉐",
@@ -17727,8 +14729,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f250.png",
   },
   {
     emoji: "🈹",
@@ -17744,8 +14744,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f239.png",
   },
   {
     emoji: "🈚",
@@ -17761,8 +14759,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f21a.png",
   },
   {
     emoji: "🈲",
@@ -17778,8 +14774,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f232.png",
   },
   {
     emoji: "🉑",
@@ -17795,8 +14789,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f251.png",
   },
   {
     emoji: "🈸",
@@ -17812,8 +14804,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f238.png",
   },
   {
     emoji: "🈴",
@@ -17829,8 +14819,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f234.png",
   },
   {
     emoji: "🈳",
@@ -17846,8 +14834,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f233.png",
   },
   {
     emoji: "㊗",
@@ -17863,8 +14849,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/3297-fe0f.png",
   },
   {
     emoji: "㊙",
@@ -17880,8 +14864,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/3299-fe0f.png",
   },
   {
     emoji: "🈺",
@@ -17897,8 +14879,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f23a.png",
   },
   {
     emoji: "🈵",
@@ -17914,8 +14894,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f235.png",
   },
   {
     emoji: "🔴",
@@ -17925,8 +14903,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f534.png",
   },
   {
     emoji: "🟠",
@@ -17936,8 +14912,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f7e0.png",
   },
   {
     emoji: "🟡",
@@ -17947,8 +14921,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f7e1.png",
   },
   {
     emoji: "🟢",
@@ -17958,8 +14930,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f7e2.png",
   },
   {
     emoji: "🔵",
@@ -17969,8 +14939,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f535.png",
   },
   {
     emoji: "🟣",
@@ -17980,8 +14948,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f7e3.png",
   },
   {
     emoji: "🟤",
@@ -17991,8 +14957,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f7e4.png",
   },
   {
     emoji: "⚫",
@@ -18002,8 +14966,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/26ab.png",
   },
   {
     emoji: "⚪",
@@ -18013,8 +14975,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/26aa.png",
   },
   {
     emoji: "🟥",
@@ -18024,8 +14984,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f7e5.png",
   },
   {
     emoji: "🟧",
@@ -18035,8 +14993,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f7e7.png",
   },
   {
     emoji: "🟨",
@@ -18046,8 +15002,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f7e8.png",
   },
   {
     emoji: "🟩",
@@ -18057,8 +15011,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f7e9.png",
   },
   {
     emoji: "🟦",
@@ -18068,8 +15020,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f7e6.png",
   },
   {
     emoji: "🟪",
@@ -18079,8 +15029,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f7ea.png",
   },
   {
     emoji: "🟫",
@@ -18090,8 +15038,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 12,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f7eb.png",
   },
   {
     emoji: "⬛",
@@ -18101,8 +15047,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2b1b.png",
   },
   {
     emoji: "⬜",
@@ -18112,8 +15056,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/2b1c.png",
   },
   {
     emoji: "◼",
@@ -18123,8 +15065,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/25fc-fe0f.png",
   },
   {
     emoji: "◻",
@@ -18134,8 +15074,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/25fb-fe0f.png",
   },
   {
     emoji: "◾",
@@ -18145,8 +15083,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/25fe.png",
   },
   {
     emoji: "◽",
@@ -18156,8 +15092,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/25fd.png",
   },
   {
     emoji: "▪",
@@ -18167,8 +15101,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/25aa-fe0f.png",
   },
   {
     emoji: "▫",
@@ -18178,8 +15110,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/25ab-fe0f.png",
   },
   {
     emoji: "🔶",
@@ -18189,8 +15119,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f536.png",
   },
   {
     emoji: "🔷",
@@ -18200,8 +15128,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f537.png",
   },
   {
     emoji: "🔸",
@@ -18211,8 +15137,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f538.png",
   },
   {
     emoji: "🔹",
@@ -18222,8 +15146,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f539.png",
   },
   {
     emoji: "🔺",
@@ -18233,8 +15155,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f53a.png",
   },
   {
     emoji: "🔻",
@@ -18244,8 +15164,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f53b.png",
   },
   {
     emoji: "💠",
@@ -18255,8 +15173,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4a0.png",
   },
   {
     emoji: "🔘",
@@ -18266,8 +15182,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f518.png",
   },
   {
     emoji: "🔳",
@@ -18277,8 +15191,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f533.png",
   },
   {
     emoji: "🔲",
@@ -18288,8 +15200,6 @@ export const emojis: EmojiItem[] = [
     group: "symbols",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f532.png",
   },
   {
     emoji: "🏁",
@@ -18299,8 +15209,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3c1.png",
   },
   {
     emoji: "🚩",
@@ -18310,8 +15218,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f6a9.png",
   },
   {
     emoji: "🎌",
@@ -18321,8 +15227,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f38c.png",
   },
   {
     emoji: "🏴",
@@ -18332,8 +15236,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 1,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3f4.png",
   },
   {
     emoji: "🏳",
@@ -18343,8 +15245,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 0.7,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3f3-fe0f.png",
   },
   {
     emoji: "🏳‍🌈",
@@ -18354,8 +15254,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3f3-fe0f-200d-1f308.png",
   },
   {
     emoji: "🏳‍⚧️",
@@ -18365,8 +15263,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 13,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3f3-fe0f-200d-26a7-fe0f.png",
   },
   {
     emoji: "🏴‍☠",
@@ -18376,8 +15272,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 11,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3f4-200d-2620-fe0f.png",
   },
   {
     emoji: "🇦🇨",
@@ -18387,8 +15281,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1e6-1f1e8.png",
   },
   {
     emoji: "🇦🇩",
@@ -18398,8 +15290,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1e6-1f1e9.png",
   },
   {
     emoji: "🇦🇪",
@@ -18409,8 +15299,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1e6-1f1ea.png",
   },
   {
     emoji: "🇦🇫",
@@ -18420,8 +15308,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1e6-1f1eb.png",
   },
   {
     emoji: "🇦🇬",
@@ -18431,8 +15317,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1e6-1f1ec.png",
   },
   {
     emoji: "🇦🇮",
@@ -18442,8 +15326,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1e6-1f1ee.png",
   },
   {
     emoji: "🇦🇱",
@@ -18453,8 +15335,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1e6-1f1f1.png",
   },
   {
     emoji: "🇦🇲",
@@ -18464,8 +15344,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1e6-1f1f2.png",
   },
   {
     emoji: "🇦🇴",
@@ -18475,8 +15353,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1e6-1f1f4.png",
   },
   {
     emoji: "🇦🇶",
@@ -18486,8 +15362,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1e6-1f1f6.png",
   },
   {
     emoji: "🇦🇷",
@@ -18497,8 +15371,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1e6-1f1f7.png",
   },
   {
     emoji: "🇦🇸",
@@ -18508,8 +15380,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1e6-1f1f8.png",
   },
   {
     emoji: "🇦🇹",
@@ -18519,8 +15389,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1e6-1f1f9.png",
   },
   {
     emoji: "🇦🇺",
@@ -18530,8 +15398,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1e6-1f1fa.png",
   },
   {
     emoji: "🇦🇼",
@@ -18541,8 +15407,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1e6-1f1fc.png",
   },
   {
     emoji: "🇦🇽",
@@ -18552,8 +15416,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1e6-1f1fd.png",
   },
   {
     emoji: "🇦🇿",
@@ -18563,8 +15425,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1e6-1f1ff.png",
   },
   {
     emoji: "🇧🇦",
@@ -18574,8 +15434,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1e7-1f1e6.png",
   },
   {
     emoji: "🇧🇧",
@@ -18585,8 +15443,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1e7-1f1e7.png",
   },
   {
     emoji: "🇧🇩",
@@ -18596,8 +15452,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1e7-1f1e9.png",
   },
   {
     emoji: "🇧🇪",
@@ -18607,8 +15461,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1e7-1f1ea.png",
   },
   {
     emoji: "🇧🇫",
@@ -18618,8 +15470,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1e7-1f1eb.png",
   },
   {
     emoji: "🇧🇬",
@@ -18629,8 +15479,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1e7-1f1ec.png",
   },
   {
     emoji: "🇧🇭",
@@ -18640,8 +15488,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1e7-1f1ed.png",
   },
   {
     emoji: "🇧🇮",
@@ -18651,8 +15497,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1e7-1f1ee.png",
   },
   {
     emoji: "🇧🇯",
@@ -18662,8 +15506,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1e7-1f1ef.png",
   },
   {
     emoji: "🇧🇱",
@@ -18673,8 +15515,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1e7-1f1f1.png",
   },
   {
     emoji: "🇧🇲",
@@ -18684,8 +15524,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1e7-1f1f2.png",
   },
   {
     emoji: "🇧🇳",
@@ -18695,8 +15533,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1e7-1f1f3.png",
   },
   {
     emoji: "🇧🇴",
@@ -18706,8 +15542,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1e7-1f1f4.png",
   },
   {
     emoji: "🇧🇶",
@@ -18717,8 +15551,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1e7-1f1f6.png",
   },
   {
     emoji: "🇧🇷",
@@ -18728,8 +15560,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1e7-1f1f7.png",
   },
   {
     emoji: "🇧🇸",
@@ -18739,8 +15569,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1e7-1f1f8.png",
   },
   {
     emoji: "🇧🇹",
@@ -18750,8 +15578,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1e7-1f1f9.png",
   },
   {
     emoji: "🇧🇻",
@@ -18761,8 +15587,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1e7-1f1fb.png",
   },
   {
     emoji: "🇧🇼",
@@ -18772,8 +15596,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1e7-1f1fc.png",
   },
   {
     emoji: "🇧🇾",
@@ -18783,8 +15605,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1e7-1f1fe.png",
   },
   {
     emoji: "🇧🇿",
@@ -18794,8 +15614,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1e7-1f1ff.png",
   },
   {
     emoji: "🇨🇦",
@@ -18805,8 +15623,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1e8-1f1e6.png",
   },
   {
     emoji: "🇨🇨",
@@ -18816,8 +15632,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1e8-1f1e8.png",
   },
   {
     emoji: "🇨🇩",
@@ -18827,8 +15641,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1e8-1f1e9.png",
   },
   {
     emoji: "🇨🇫",
@@ -18838,8 +15650,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1e8-1f1eb.png",
   },
   {
     emoji: "🇨🇬",
@@ -18849,8 +15659,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1e8-1f1ec.png",
   },
   {
     emoji: "🇨🇭",
@@ -18860,8 +15668,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1e8-1f1ed.png",
   },
   {
     emoji: "🇨🇮",
@@ -18871,8 +15677,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1e8-1f1ee.png",
   },
   {
     emoji: "🇨🇰",
@@ -18882,8 +15686,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1e8-1f1f0.png",
   },
   {
     emoji: "🇨🇱",
@@ -18893,8 +15695,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1e8-1f1f1.png",
   },
   {
     emoji: "🇨🇲",
@@ -18904,8 +15704,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1e8-1f1f2.png",
   },
   {
     emoji: "🇨🇳",
@@ -18915,8 +15713,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1e8-1f1f3.png",
   },
   {
     emoji: "🇨🇴",
@@ -18926,8 +15722,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1e8-1f1f4.png",
   },
   {
     emoji: "🇨🇵",
@@ -18937,8 +15731,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1e8-1f1f5.png",
   },
   {
     emoji: "🇨🇷",
@@ -18948,8 +15740,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1e8-1f1f7.png",
   },
   {
     emoji: "🇨🇺",
@@ -18959,8 +15749,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1e8-1f1fa.png",
   },
   {
     emoji: "🇨🇻",
@@ -18970,8 +15758,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1e8-1f1fb.png",
   },
   {
     emoji: "🇨🇼",
@@ -18981,8 +15767,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1e8-1f1fc.png",
   },
   {
     emoji: "🇨🇽",
@@ -18992,8 +15776,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1e8-1f1fd.png",
   },
   {
     emoji: "🇨🇾",
@@ -19003,8 +15785,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1e8-1f1fe.png",
   },
   {
     emoji: "🇨🇿",
@@ -19014,8 +15794,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1e8-1f1ff.png",
   },
   {
     emoji: "🇩🇪",
@@ -19025,8 +15803,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1e9-1f1ea.png",
   },
   {
     emoji: "🇩🇬",
@@ -19036,8 +15812,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1e9-1f1ec.png",
   },
   {
     emoji: "🇩🇯",
@@ -19047,8 +15821,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1e9-1f1ef.png",
   },
   {
     emoji: "🇩🇰",
@@ -19058,8 +15830,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1e9-1f1f0.png",
   },
   {
     emoji: "🇩🇲",
@@ -19069,8 +15839,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1e9-1f1f2.png",
   },
   {
     emoji: "🇩🇴",
@@ -19080,8 +15848,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1e9-1f1f4.png",
   },
   {
     emoji: "🇩🇿",
@@ -19091,8 +15857,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1e9-1f1ff.png",
   },
   {
     emoji: "🇪🇦",
@@ -19102,8 +15866,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1ea-1f1e6.png",
   },
   {
     emoji: "🇪🇨",
@@ -19113,8 +15875,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1ea-1f1e8.png",
   },
   {
     emoji: "🇪🇪",
@@ -19124,8 +15884,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1ea-1f1ea.png",
   },
   {
     emoji: "🇪🇬",
@@ -19135,8 +15893,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1ea-1f1ec.png",
   },
   {
     emoji: "🇪🇭",
@@ -19146,8 +15902,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1ea-1f1ed.png",
   },
   {
     emoji: "🇪🇷",
@@ -19157,8 +15911,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1ea-1f1f7.png",
   },
   {
     emoji: "🇪🇸",
@@ -19168,8 +15920,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1ea-1f1f8.png",
   },
   {
     emoji: "🇪🇹",
@@ -19179,8 +15929,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1ea-1f1f9.png",
   },
   {
     emoji: "🇪🇺",
@@ -19190,8 +15938,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1ea-1f1fa.png",
   },
   {
     emoji: "🇫🇮",
@@ -19201,8 +15947,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1eb-1f1ee.png",
   },
   {
     emoji: "🇫🇯",
@@ -19212,8 +15956,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1eb-1f1ef.png",
   },
   {
     emoji: "🇫🇰",
@@ -19223,8 +15965,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1eb-1f1f0.png",
   },
   {
     emoji: "🇫🇲",
@@ -19234,8 +15974,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1eb-1f1f2.png",
   },
   {
     emoji: "🇫🇴",
@@ -19245,8 +15983,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1eb-1f1f4.png",
   },
   {
     emoji: "🇫🇷",
@@ -19256,8 +15992,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1eb-1f1f7.png",
   },
   {
     emoji: "🇬🇦",
@@ -19267,8 +16001,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1ec-1f1e6.png",
   },
   {
     emoji: "🇬🇧",
@@ -19278,8 +16010,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1ec-1f1e7.png",
   },
   {
     emoji: "🇬🇩",
@@ -19289,8 +16019,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1ec-1f1e9.png",
   },
   {
     emoji: "🇬🇪",
@@ -19300,8 +16028,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1ec-1f1ea.png",
   },
   {
     emoji: "🇬🇫",
@@ -19311,8 +16037,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1ec-1f1eb.png",
   },
   {
     emoji: "🇬🇬",
@@ -19322,8 +16046,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1ec-1f1ec.png",
   },
   {
     emoji: "🇬🇭",
@@ -19333,8 +16055,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1ec-1f1ed.png",
   },
   {
     emoji: "🇬🇮",
@@ -19344,8 +16064,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1ec-1f1ee.png",
   },
   {
     emoji: "🇬🇱",
@@ -19355,8 +16073,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1ec-1f1f1.png",
   },
   {
     emoji: "🇬🇲",
@@ -19366,8 +16082,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1ec-1f1f2.png",
   },
   {
     emoji: "🇬🇳",
@@ -19377,8 +16091,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1ec-1f1f3.png",
   },
   {
     emoji: "🇬🇵",
@@ -19388,8 +16100,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1ec-1f1f5.png",
   },
   {
     emoji: "🇬🇶",
@@ -19399,8 +16109,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1ec-1f1f6.png",
   },
   {
     emoji: "🇬🇷",
@@ -19410,8 +16118,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1ec-1f1f7.png",
   },
   {
     emoji: "🇬🇸",
@@ -19421,8 +16127,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1ec-1f1f8.png",
   },
   {
     emoji: "🇬🇹",
@@ -19432,8 +16136,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1ec-1f1f9.png",
   },
   {
     emoji: "🇬🇺",
@@ -19443,8 +16145,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1ec-1f1fa.png",
   },
   {
     emoji: "🇬🇼",
@@ -19454,8 +16154,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1ec-1f1fc.png",
   },
   {
     emoji: "🇬🇾",
@@ -19465,8 +16163,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1ec-1f1fe.png",
   },
   {
     emoji: "🇭🇰",
@@ -19476,8 +16172,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1ed-1f1f0.png",
   },
   {
     emoji: "🇭🇲",
@@ -19487,8 +16181,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1ed-1f1f2.png",
   },
   {
     emoji: "🇭🇳",
@@ -19498,8 +16190,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1ed-1f1f3.png",
   },
   {
     emoji: "🇭🇷",
@@ -19509,8 +16199,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1ed-1f1f7.png",
   },
   {
     emoji: "🇭🇹",
@@ -19520,8 +16208,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1ed-1f1f9.png",
   },
   {
     emoji: "🇭🇺",
@@ -19531,8 +16217,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1ed-1f1fa.png",
   },
   {
     emoji: "🇮🇨",
@@ -19542,8 +16226,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1ee-1f1e8.png",
   },
   {
     emoji: "🇮🇩",
@@ -19553,8 +16235,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1ee-1f1e9.png",
   },
   {
     emoji: "🇮🇪",
@@ -19564,8 +16244,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1ee-1f1ea.png",
   },
   {
     emoji: "🇮🇱",
@@ -19575,8 +16253,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1ee-1f1f1.png",
   },
   {
     emoji: "🇮🇲",
@@ -19586,8 +16262,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1ee-1f1f2.png",
   },
   {
     emoji: "🇮🇳",
@@ -19597,8 +16271,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1ee-1f1f3.png",
   },
   {
     emoji: "🇮🇴",
@@ -19608,8 +16280,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1ee-1f1f4.png",
   },
   {
     emoji: "🇮🇶",
@@ -19619,8 +16289,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1ee-1f1f6.png",
   },
   {
     emoji: "🇮🇷",
@@ -19630,8 +16298,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1ee-1f1f7.png",
   },
   {
     emoji: "🇮🇸",
@@ -19641,8 +16307,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1ee-1f1f8.png",
   },
   {
     emoji: "🇮🇹",
@@ -19652,8 +16316,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1ee-1f1f9.png",
   },
   {
     emoji: "🇯🇪",
@@ -19663,8 +16325,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1ef-1f1ea.png",
   },
   {
     emoji: "🇯🇲",
@@ -19674,8 +16334,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1ef-1f1f2.png",
   },
   {
     emoji: "🇯🇴",
@@ -19685,8 +16343,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1ef-1f1f4.png",
   },
   {
     emoji: "🇯🇵",
@@ -19696,8 +16352,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1ef-1f1f5.png",
   },
   {
     emoji: "🇰🇪",
@@ -19707,8 +16361,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f0-1f1ea.png",
   },
   {
     emoji: "🇰🇬",
@@ -19718,8 +16370,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f0-1f1ec.png",
   },
   {
     emoji: "🇰🇭",
@@ -19729,8 +16379,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f0-1f1ed.png",
   },
   {
     emoji: "🇰🇮",
@@ -19740,8 +16388,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f0-1f1ee.png",
   },
   {
     emoji: "🇰🇲",
@@ -19751,8 +16397,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f0-1f1f2.png",
   },
   {
     emoji: "🇰🇳",
@@ -19762,8 +16406,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f0-1f1f3.png",
   },
   {
     emoji: "🇰🇵",
@@ -19773,8 +16415,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f0-1f1f5.png",
   },
   {
     emoji: "🇰🇷",
@@ -19784,8 +16424,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f0-1f1f7.png",
   },
   {
     emoji: "🇰🇼",
@@ -19795,8 +16433,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f0-1f1fc.png",
   },
   {
     emoji: "🇰🇾",
@@ -19806,8 +16442,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f0-1f1fe.png",
   },
   {
     emoji: "🇰🇿",
@@ -19817,8 +16451,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f0-1f1ff.png",
   },
   {
     emoji: "🇱🇦",
@@ -19828,8 +16460,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f1-1f1e6.png",
   },
   {
     emoji: "🇱🇧",
@@ -19839,8 +16469,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f1-1f1e7.png",
   },
   {
     emoji: "🇱🇨",
@@ -19850,8 +16478,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f1-1f1e8.png",
   },
   {
     emoji: "🇱🇮",
@@ -19861,8 +16487,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f1-1f1ee.png",
   },
   {
     emoji: "🇱🇰",
@@ -19872,8 +16496,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f1-1f1f0.png",
   },
   {
     emoji: "🇱🇷",
@@ -19883,8 +16505,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f1-1f1f7.png",
   },
   {
     emoji: "🇱🇸",
@@ -19894,8 +16514,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f1-1f1f8.png",
   },
   {
     emoji: "🇱🇹",
@@ -19905,8 +16523,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f1-1f1f9.png",
   },
   {
     emoji: "🇱🇺",
@@ -19916,8 +16532,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f1-1f1fa.png",
   },
   {
     emoji: "🇱🇻",
@@ -19927,8 +16541,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f1-1f1fb.png",
   },
   {
     emoji: "🇱🇾",
@@ -19938,8 +16550,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f1-1f1fe.png",
   },
   {
     emoji: "🇲🇦",
@@ -19949,8 +16559,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f2-1f1e6.png",
   },
   {
     emoji: "🇲🇨",
@@ -19960,8 +16568,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f2-1f1e8.png",
   },
   {
     emoji: "🇲🇩",
@@ -19971,8 +16577,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f2-1f1e9.png",
   },
   {
     emoji: "🇲🇪",
@@ -19982,8 +16586,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f2-1f1ea.png",
   },
   {
     emoji: "🇲🇫",
@@ -19993,8 +16595,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f2-1f1eb.png",
   },
   {
     emoji: "🇲🇬",
@@ -20004,8 +16604,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f2-1f1ec.png",
   },
   {
     emoji: "🇲🇭",
@@ -20015,8 +16613,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f2-1f1ed.png",
   },
   {
     emoji: "🇲🇰",
@@ -20026,8 +16622,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f2-1f1f0.png",
   },
   {
     emoji: "🇲🇱",
@@ -20037,8 +16631,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f2-1f1f1.png",
   },
   {
     emoji: "🇲🇲",
@@ -20048,8 +16640,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f2-1f1f2.png",
   },
   {
     emoji: "🇲🇳",
@@ -20059,8 +16649,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f2-1f1f3.png",
   },
   {
     emoji: "🇲🇴",
@@ -20070,8 +16658,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f2-1f1f4.png",
   },
   {
     emoji: "🇲🇵",
@@ -20081,8 +16667,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f2-1f1f5.png",
   },
   {
     emoji: "🇲🇶",
@@ -20092,8 +16676,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f2-1f1f6.png",
   },
   {
     emoji: "🇲🇷",
@@ -20103,8 +16685,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f2-1f1f7.png",
   },
   {
     emoji: "🇲🇸",
@@ -20114,8 +16694,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f2-1f1f8.png",
   },
   {
     emoji: "🇲🇹",
@@ -20125,8 +16703,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f2-1f1f9.png",
   },
   {
     emoji: "🇲🇺",
@@ -20136,8 +16712,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f2-1f1fa.png",
   },
   {
     emoji: "🇲🇻",
@@ -20147,8 +16721,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f2-1f1fb.png",
   },
   {
     emoji: "🇲🇼",
@@ -20158,8 +16730,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f2-1f1fc.png",
   },
   {
     emoji: "🇲🇽",
@@ -20169,8 +16739,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f2-1f1fd.png",
   },
   {
     emoji: "🇲🇾",
@@ -20180,8 +16748,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f2-1f1fe.png",
   },
   {
     emoji: "🇲🇿",
@@ -20191,8 +16757,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f2-1f1ff.png",
   },
   {
     emoji: "🇳🇦",
@@ -20202,8 +16766,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f3-1f1e6.png",
   },
   {
     emoji: "🇳🇨",
@@ -20213,8 +16775,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f3-1f1e8.png",
   },
   {
     emoji: "🇳🇪",
@@ -20224,8 +16784,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f3-1f1ea.png",
   },
   {
     emoji: "🇳🇫",
@@ -20235,8 +16793,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f3-1f1eb.png",
   },
   {
     emoji: "🇳🇬",
@@ -20246,8 +16802,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f3-1f1ec.png",
   },
   {
     emoji: "🇳🇮",
@@ -20257,8 +16811,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f3-1f1ee.png",
   },
   {
     emoji: "🇳🇱",
@@ -20268,8 +16820,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f3-1f1f1.png",
   },
   {
     emoji: "🇳🇴",
@@ -20279,8 +16829,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f3-1f1f4.png",
   },
   {
     emoji: "🇳🇵",
@@ -20290,8 +16838,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f3-1f1f5.png",
   },
   {
     emoji: "🇳🇷",
@@ -20301,8 +16847,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f3-1f1f7.png",
   },
   {
     emoji: "🇳🇺",
@@ -20312,8 +16856,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f3-1f1fa.png",
   },
   {
     emoji: "🇳🇿",
@@ -20323,8 +16865,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f3-1f1ff.png",
   },
   {
     emoji: "🇴🇲",
@@ -20334,8 +16874,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f4-1f1f2.png",
   },
   {
     emoji: "🇵🇦",
@@ -20345,8 +16883,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f5-1f1e6.png",
   },
   {
     emoji: "🇵🇪",
@@ -20356,8 +16892,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f5-1f1ea.png",
   },
   {
     emoji: "🇵🇫",
@@ -20367,8 +16901,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f5-1f1eb.png",
   },
   {
     emoji: "🇵🇬",
@@ -20378,8 +16910,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f5-1f1ec.png",
   },
   {
     emoji: "🇵🇭",
@@ -20389,8 +16919,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f5-1f1ed.png",
   },
   {
     emoji: "🇵🇰",
@@ -20400,8 +16928,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f5-1f1f0.png",
   },
   {
     emoji: "🇵🇱",
@@ -20411,8 +16937,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f5-1f1f1.png",
   },
   {
     emoji: "🇵🇲",
@@ -20422,8 +16946,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f5-1f1f2.png",
   },
   {
     emoji: "🇵🇳",
@@ -20433,8 +16955,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f5-1f1f3.png",
   },
   {
     emoji: "🇵🇷",
@@ -20444,8 +16964,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f5-1f1f7.png",
   },
   {
     emoji: "🇵🇸",
@@ -20455,8 +16973,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f5-1f1f8.png",
   },
   {
     emoji: "🇵🇹",
@@ -20466,8 +16982,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f5-1f1f9.png",
   },
   {
     emoji: "🇵🇼",
@@ -20477,8 +16991,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f5-1f1fc.png",
   },
   {
     emoji: "🇵🇾",
@@ -20488,8 +17000,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f5-1f1fe.png",
   },
   {
     emoji: "🇶🇦",
@@ -20499,8 +17009,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f6-1f1e6.png",
   },
   {
     emoji: "🇷🇪",
@@ -20510,8 +17018,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f7-1f1ea.png",
   },
   {
     emoji: "🇷🇴",
@@ -20521,8 +17027,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f7-1f1f4.png",
   },
   {
     emoji: "🇷🇸",
@@ -20532,8 +17036,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f7-1f1f8.png",
   },
   {
     emoji: "🇷🇺",
@@ -20543,8 +17045,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f7-1f1fa.png",
   },
   {
     emoji: "🇷🇼",
@@ -20554,8 +17054,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f7-1f1fc.png",
   },
   {
     emoji: "🇸🇦",
@@ -20565,8 +17063,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f8-1f1e6.png",
   },
   {
     emoji: "🇸🇧",
@@ -20576,8 +17072,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f8-1f1e7.png",
   },
   {
     emoji: "🇸🇨",
@@ -20587,8 +17081,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f8-1f1e8.png",
   },
   {
     emoji: "🇸🇩",
@@ -20598,8 +17090,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f8-1f1e9.png",
   },
   {
     emoji: "🇸🇪",
@@ -20609,8 +17099,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f8-1f1ea.png",
   },
   {
     emoji: "🇸🇬",
@@ -20620,8 +17108,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f8-1f1ec.png",
   },
   {
     emoji: "🇸🇭",
@@ -20631,8 +17117,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f8-1f1ed.png",
   },
   {
     emoji: "🇸🇮",
@@ -20642,8 +17126,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f8-1f1ee.png",
   },
   {
     emoji: "🇸🇯",
@@ -20653,8 +17135,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f8-1f1ef.png",
   },
   {
     emoji: "🇸🇰",
@@ -20664,8 +17144,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f8-1f1f0.png",
   },
   {
     emoji: "🇸🇱",
@@ -20675,8 +17153,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f8-1f1f1.png",
   },
   {
     emoji: "🇸🇲",
@@ -20686,8 +17162,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f8-1f1f2.png",
   },
   {
     emoji: "🇸🇳",
@@ -20697,8 +17171,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f8-1f1f3.png",
   },
   {
     emoji: "🇸🇴",
@@ -20708,8 +17180,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f8-1f1f4.png",
   },
   {
     emoji: "🇸🇷",
@@ -20719,8 +17189,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f8-1f1f7.png",
   },
   {
     emoji: "🇸🇸",
@@ -20730,8 +17198,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f8-1f1f8.png",
   },
   {
     emoji: "🇸🇹",
@@ -20741,8 +17207,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f8-1f1f9.png",
   },
   {
     emoji: "🇸🇻",
@@ -20752,8 +17216,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f8-1f1fb.png",
   },
   {
     emoji: "🇸🇽",
@@ -20763,8 +17225,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f8-1f1fd.png",
   },
   {
     emoji: "🇸🇾",
@@ -20774,8 +17234,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f8-1f1fe.png",
   },
   {
     emoji: "🇸🇿",
@@ -20785,8 +17243,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f8-1f1ff.png",
   },
   {
     emoji: "🇹🇦",
@@ -20796,8 +17252,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f9-1f1e6.png",
   },
   {
     emoji: "🇹🇨",
@@ -20807,8 +17261,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f9-1f1e8.png",
   },
   {
     emoji: "🇹🇩",
@@ -20818,8 +17270,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f9-1f1e9.png",
   },
   {
     emoji: "🇹🇫",
@@ -20829,8 +17279,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f9-1f1eb.png",
   },
   {
     emoji: "🇹🇬",
@@ -20840,8 +17288,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f9-1f1ec.png",
   },
   {
     emoji: "🇹🇭",
@@ -20851,8 +17297,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f9-1f1ed.png",
   },
   {
     emoji: "🇹🇯",
@@ -20862,8 +17306,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f9-1f1ef.png",
   },
   {
     emoji: "🇹🇰",
@@ -20873,8 +17315,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f9-1f1f0.png",
   },
   {
     emoji: "🇹🇱",
@@ -20884,8 +17324,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f9-1f1f1.png",
   },
   {
     emoji: "🇹🇲",
@@ -20895,8 +17333,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f9-1f1f2.png",
   },
   {
     emoji: "🇹🇳",
@@ -20906,8 +17342,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f9-1f1f3.png",
   },
   {
     emoji: "🇹🇴",
@@ -20917,8 +17351,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f9-1f1f4.png",
   },
   {
     emoji: "🇹🇷",
@@ -20928,8 +17360,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f9-1f1f7.png",
   },
   {
     emoji: "🇹🇹",
@@ -20939,8 +17369,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f9-1f1f9.png",
   },
   {
     emoji: "🇹🇻",
@@ -20950,8 +17378,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f9-1f1fb.png",
   },
   {
     emoji: "🇹🇼",
@@ -20961,8 +17387,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f9-1f1fc.png",
   },
   {
     emoji: "🇹🇿",
@@ -20972,8 +17396,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1f9-1f1ff.png",
   },
   {
     emoji: "🇺🇦",
@@ -20983,8 +17405,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1fa-1f1e6.png",
   },
   {
     emoji: "🇺🇬",
@@ -20994,8 +17414,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1fa-1f1ec.png",
   },
   {
     emoji: "🇺🇲",
@@ -21005,8 +17423,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1fa-1f1f2.png",
   },
   {
     emoji: "🇺🇳",
@@ -21016,8 +17432,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 4,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1fa-1f1f3.png",
   },
   {
     emoji: "🇺🇸",
@@ -21027,8 +17441,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 0.6,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1fa-1f1f8.png",
   },
   {
     emoji: "🇺🇾",
@@ -21038,8 +17450,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1fa-1f1fe.png",
   },
   {
     emoji: "🇺🇿",
@@ -21049,8 +17459,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1fa-1f1ff.png",
   },
   {
     emoji: "🇻🇦",
@@ -21060,8 +17468,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1fb-1f1e6.png",
   },
   {
     emoji: "🇻🇨",
@@ -21071,8 +17477,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1fb-1f1e8.png",
   },
   {
     emoji: "🇻🇪",
@@ -21082,8 +17486,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1fb-1f1ea.png",
   },
   {
     emoji: "🇻🇬",
@@ -21093,8 +17495,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1fb-1f1ec.png",
   },
   {
     emoji: "🇻🇮",
@@ -21104,8 +17504,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1fb-1f1ee.png",
   },
   {
     emoji: "🇻🇳",
@@ -21115,8 +17513,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1fb-1f1f3.png",
   },
   {
     emoji: "🇻🇺",
@@ -21126,8 +17522,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1fb-1f1fa.png",
   },
   {
     emoji: "🇼🇫",
@@ -21137,8 +17531,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1fc-1f1eb.png",
   },
   {
     emoji: "🇼🇸",
@@ -21148,8 +17540,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1fc-1f1f8.png",
   },
   {
     emoji: "🇽🇰",
@@ -21159,8 +17549,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1fd-1f1f0.png",
   },
   {
     emoji: "🇾🇪",
@@ -21170,8 +17558,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1fe-1f1ea.png",
   },
   {
     emoji: "🇾🇹",
@@ -21181,8 +17567,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1fe-1f1f9.png",
   },
   {
     emoji: "🇿🇦",
@@ -21192,8 +17576,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1ff-1f1e6.png",
   },
   {
     emoji: "🇿🇲",
@@ -21203,8 +17585,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1ff-1f1f2.png",
   },
   {
     emoji: "🇿🇼",
@@ -21214,8 +17594,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 2,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f1ff-1f1fc.png",
   },
   {
     emoji: "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
@@ -21225,8 +17603,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3f4-e0067-e0062-e0065-e006e-e0067-e007f.png",
   },
   {
     emoji: "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
@@ -21236,8 +17612,6 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3f4-e0067-e0062-e0073-e0063-e0074-e007f.png",
   },
   {
     emoji: "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
@@ -21247,163 +17621,63 @@ export const emojis: EmojiItem[] = [
     group: "flags",
     emoticons: [],
     version: 5,
-    fallbackImage:
-      "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f3f4-e0067-e0062-e0077-e006c-e0073-e007f.png",
   },
 ];
 
 export const gitHubCustomEmojis: EmojiItem[] = [
   {
-    name: "atom",
-    shortcodes: ["atom"],
-    tags: [],
-    group: "GitHub",
-    fallbackImage:
-      "https://github.githubassets.com/images/icons/emoji/atom.png",
-  },
-  {
-    name: "basecamp",
-    shortcodes: ["basecamp"],
-    tags: [],
-    group: "GitHub",
-    fallbackImage:
-      "https://github.githubassets.com/images/icons/emoji/basecamp.png",
-  },
-  {
-    name: "basecampy",
-    shortcodes: ["basecampy"],
-    tags: [],
-    group: "GitHub",
-    fallbackImage:
-      "https://github.githubassets.com/images/icons/emoji/basecampy.png",
-  },
-  {
     name: "bowtie",
     shortcodes: ["bowtie"],
     tags: [],
     group: "GitHub",
-    fallbackImage:
-      "https://github.githubassets.com/images/icons/emoji/bowtie.png",
-  },
-  {
-    name: "electron",
-    shortcodes: ["electron"],
-    tags: [],
-    group: "GitHub",
-    fallbackImage:
-      "https://github.githubassets.com/images/icons/emoji/electron.png",
   },
   {
     name: "feelsgood",
     shortcodes: ["feelsgood"],
     tags: [],
     group: "GitHub",
-    fallbackImage:
-      "https://github.githubassets.com/images/icons/emoji/feelsgood.png",
-  },
-  {
-    name: "finnadie",
-    shortcodes: ["finnadie"],
-    tags: [],
-    group: "GitHub",
-    fallbackImage:
-      "https://github.githubassets.com/images/icons/emoji/finnadie.png",
-  },
-  {
-    name: "goberserk",
-    shortcodes: ["goberserk"],
-    tags: [],
-    group: "GitHub",
-    fallbackImage:
-      "https://github.githubassets.com/images/icons/emoji/goberserk.png",
-  },
-  {
-    name: "godmode",
-    shortcodes: ["godmode"],
-    tags: [],
-    group: "GitHub",
-    fallbackImage:
-      "https://github.githubassets.com/images/icons/emoji/godmode.png",
-  },
-  {
-    name: "hurtrealbad",
-    shortcodes: ["hurtrealbad"],
-    tags: [],
-    group: "GitHub",
-    fallbackImage:
-      "https://github.githubassets.com/images/icons/emoji/hurtrealbad.png",
-  },
-  {
-    name: "neckbeard",
-    shortcodes: ["neckbeard"],
-    tags: [],
-    group: "GitHub",
-    fallbackImage:
-      "https://github.githubassets.com/images/icons/emoji/neckbeard.png",
-  },
-  {
-    name: "octocat",
-    shortcodes: ["octocat"],
-    tags: [],
-    group: "GitHub",
-    fallbackImage:
-      "https://github.githubassets.com/images/icons/emoji/octocat.png",
   },
   {
     name: "rage1",
     shortcodes: ["rage1"],
     tags: [],
     group: "GitHub",
-    fallbackImage:
-      "https://github.githubassets.com/images/icons/emoji/rage1.png",
   },
   {
     name: "rage2",
     shortcodes: ["rage2"],
     tags: [],
     group: "GitHub",
-    fallbackImage:
-      "https://github.githubassets.com/images/icons/emoji/rage2.png",
   },
   {
     name: "rage3",
     shortcodes: ["rage3"],
     tags: [],
     group: "GitHub",
-    fallbackImage:
-      "https://github.githubassets.com/images/icons/emoji/rage3.png",
   },
   {
     name: "rage4",
     shortcodes: ["rage4"],
     tags: [],
     group: "GitHub",
-    fallbackImage:
-      "https://github.githubassets.com/images/icons/emoji/rage4.png",
   },
   {
     name: "shipit",
     shortcodes: ["shipit"],
     tags: [],
     group: "GitHub",
-    fallbackImage:
-      "https://github.githubassets.com/images/icons/emoji/shipit.png",
   },
   {
     name: "suspect",
     shortcodes: ["suspect"],
     tags: [],
     group: "GitHub",
-    fallbackImage:
-      "https://github.githubassets.com/images/icons/emoji/suspect.png",
   },
   {
     name: "trollface",
     shortcodes: ["trollface"],
     tags: [],
     group: "GitHub",
-    fallbackImage:
-      "https://github.githubassets.com/images/icons/emoji/trollface.png",
   },
 ];
 
