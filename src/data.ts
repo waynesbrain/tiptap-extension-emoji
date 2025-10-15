@@ -8,8 +8,6 @@ export const emojis: EmojiItem[] = [
     name: "grinning",
     shortcodes: ["grinning", "grinning_face"],
     tags: ["face", "grin"],
-    group: "",
-    emoticons: [],
     version: 1,
   },
   {
@@ -17,8 +15,6 @@ export const emojis: EmojiItem[] = [
     name: "smiley",
     shortcodes: ["grinning_face_with_big_eyes", "smiley"],
     tags: ["face", "mouth", "open", "smile"],
-    group: "",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -26,7 +22,6 @@ export const emojis: EmojiItem[] = [
     name: "smile",
     shortcodes: ["grinning_face_with_closed_eyes", "smile"],
     tags: ["eye", "face", "mouth", "open", "smile"],
-    group: "",
     emoticons: [":D"],
     version: 0.6,
   },
@@ -35,8 +30,6 @@ export const emojis: EmojiItem[] = [
     name: "grin",
     shortcodes: ["beaming_face", "grin"],
     tags: ["eye", "face", "grin", "smile"],
-    group: "",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -44,7 +37,6 @@ export const emojis: EmojiItem[] = [
     name: "laughing",
     shortcodes: ["laughing", "lol", "satisfied", "squinting_face"],
     tags: ["face", "laugh", "mouth", "satisfied", "smile"],
-    group: "",
     emoticons: ["xD", "XD"],
     version: 0.6,
   },
@@ -53,8 +45,6 @@ export const emojis: EmojiItem[] = [
     name: "sweat_smile",
     shortcodes: ["grinning_face_with_sweat", "sweat_smile"],
     tags: ["cold", "face", "open", "smile", "sweat"],
-    group: "",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -62,7 +52,6 @@ export const emojis: EmojiItem[] = [
     name: "rofl",
     shortcodes: ["rofl"],
     tags: ["face", "floor", "laugh", "rofl", "rolling", "rotfl"],
-    group: "",
     emoticons: [":'D"],
     version: 3,
   },
@@ -71,7 +60,6 @@ export const emojis: EmojiItem[] = [
     name: "joy",
     shortcodes: ["joy", "lmao", "tears_of_joy"],
     tags: ["face", "joy", "laugh", "tear"],
-    group: "",
     emoticons: [":')"],
     version: 0.6,
   },
@@ -80,7 +68,6 @@ export const emojis: EmojiItem[] = [
     name: "slightly_smiling_face",
     shortcodes: ["slightly_smiling_face"],
     tags: ["face", "smile"],
-    group: "",
     emoticons: [":)"],
     version: 1,
   },
@@ -89,8 +76,6 @@ export const emojis: EmojiItem[] = [
     name: "upside_down_face",
     shortcodes: ["upside_down_face"],
     tags: ["face", "upside-down"],
-    group: "",
-    emoticons: [],
     version: 1,
   },
   {
@@ -98,7 +83,6 @@ export const emojis: EmojiItem[] = [
     name: "wink",
     shortcodes: ["wink", "winking_face"],
     tags: ["face", "wink"],
-    group: "",
     emoticons: [";)"],
     version: 0.6,
   },
@@ -107,7 +91,6 @@ export const emojis: EmojiItem[] = [
     name: "blush",
     shortcodes: ["blush", "smiling_face_with_closed_eyes"],
     tags: ["blush", "eye", "face", "smile"],
-    group: "",
     emoticons: [":>"],
     version: 0.6,
   },
@@ -116,7 +99,6 @@ export const emojis: EmojiItem[] = [
     name: "innocent",
     shortcodes: ["halo", "innocent"],
     tags: ["angel", "face", "fantasy", "halo", "innocent"],
-    group: "",
     emoticons: ["o:)", "O:)"],
     version: 1,
   },
@@ -125,8 +107,6 @@ export const emojis: EmojiItem[] = [
     name: "smiling_face_with_three_hearts",
     shortcodes: ["smiling_face_with_3_hearts"],
     tags: ["adore", "crush", "hearts", "in love"],
-    group: "",
-    emoticons: [],
     version: 11,
   },
   {
@@ -134,8 +114,6 @@ export const emojis: EmojiItem[] = [
     name: "heart_eyes",
     shortcodes: ["heart_eyes", "smiling_face_with_heart_eyes"],
     tags: ["eye", "face", "love", "smile"],
-    group: "",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -143,8 +121,6 @@ export const emojis: EmojiItem[] = [
     name: "star_struck",
     shortcodes: ["star_struck"],
     tags: ["eyes", "face", "grinning", "star"],
-    group: "",
-    emoticons: [],
     version: 5,
   },
   {
@@ -152,7 +128,6 @@ export const emojis: EmojiItem[] = [
     name: "kissing_heart",
     shortcodes: ["blowing_a_kiss", "kissing_heart"],
     tags: ["face", "kiss"],
-    group: "",
     emoticons: [":x", ":X"],
     version: 0.6,
   },
@@ -161,8 +136,6 @@ export const emojis: EmojiItem[] = [
     name: "kissing",
     shortcodes: ["kissing", "kissing_face"],
     tags: ["face", "kiss"],
-    group: "",
-    emoticons: [],
     version: 1,
   },
   {
@@ -170,8 +143,6 @@ export const emojis: EmojiItem[] = [
     name: "relaxed",
     shortcodes: ["relaxed", "smiling_face"],
     tags: ["face", "outlined", "relaxed", "smile"],
-    group: "",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -179,7 +150,6 @@ export const emojis: EmojiItem[] = [
     name: "kissing_closed_eyes",
     shortcodes: ["kissing_closed_eyes", "kissing_face_with_closed_eyes"],
     tags: ["closed", "eye", "face", "kiss"],
-    group: "",
     emoticons: [":*"],
     version: 0.6,
   },
@@ -188,8 +158,6 @@ export const emojis: EmojiItem[] = [
     name: "kissing_smiling_eyes",
     shortcodes: ["kissing_face_with_smiling_eyes", "kissing_smiling_eyes"],
     tags: ["eye", "face", "kiss", "smile"],
-    group: "",
-    emoticons: [],
     version: 1,
   },
   {
@@ -197,8 +165,6 @@ export const emojis: EmojiItem[] = [
     name: "smiling_face_with_tear",
     shortcodes: ["smiling_face_with_tear"],
     tags: ["grateful", "proud", "relieved", "smiling", "tear", "touched"],
-    group: "",
-    emoticons: [],
     version: 13,
   },
   {
@@ -206,8 +172,6 @@ export const emojis: EmojiItem[] = [
     name: "yum",
     shortcodes: ["savoring_food", "yum"],
     tags: ["delicious", "face", "savouring", "smile", "yum"],
-    group: "",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -215,7 +179,6 @@ export const emojis: EmojiItem[] = [
     name: "stuck_out_tongue",
     shortcodes: ["face_with_tongue", "stuck_out_tongue"],
     tags: ["face", "tongue"],
-    group: "",
     emoticons: [":p", ":P"],
     version: 1,
   },
@@ -224,7 +187,6 @@ export const emojis: EmojiItem[] = [
     name: "stuck_out_tongue_winking_eye",
     shortcodes: ["stuck_out_tongue_winking_eye"],
     tags: ["eye", "face", "joke", "tongue", "wink"],
-    group: "",
     emoticons: [";p", ";P"],
     version: 0.6,
   },
@@ -233,8 +195,6 @@ export const emojis: EmojiItem[] = [
     name: "zany_face",
     shortcodes: ["zany", "zany_face"],
     tags: ["eye", "goofy", "large", "small"],
-    group: "",
-    emoticons: [],
     version: 5,
   },
   {
@@ -242,7 +202,6 @@ export const emojis: EmojiItem[] = [
     name: "stuck_out_tongue_closed_eyes",
     shortcodes: ["stuck_out_tongue_closed_eyes"],
     tags: ["eye", "face", "horrible", "taste", "tongue"],
-    group: "",
     emoticons: ["xp", "xP", "XP"],
     version: 0.6,
   },
@@ -251,8 +210,6 @@ export const emojis: EmojiItem[] = [
     name: "money_mouth_face",
     shortcodes: ["money_mouth_face"],
     tags: ["face", "money", "mouth"],
-    group: "",
-    emoticons: [],
     version: 1,
   },
   {
@@ -260,8 +217,6 @@ export const emojis: EmojiItem[] = [
     name: "hugs",
     shortcodes: ["hug", "hugging", "hugging_face"],
     tags: ["face", "hug", "hugging", "open hands", "smiling face"],
-    group: "",
-    emoticons: [],
     version: 1,
   },
   {
@@ -269,8 +224,6 @@ export const emojis: EmojiItem[] = [
     name: "hand_over_mouth",
     shortcodes: ["face_with_hand_over_mouth", "hand_over_mouth"],
     tags: ["whoops"],
-    group: "",
-    emoticons: [],
     version: 5,
   },
   {
@@ -278,8 +231,6 @@ export const emojis: EmojiItem[] = [
     name: "shushing_face",
     shortcodes: ["shush", "shushing_face"],
     tags: ["quiet", "shush"],
-    group: "",
-    emoticons: [],
     version: 5,
   },
   {
@@ -287,7 +238,6 @@ export const emojis: EmojiItem[] = [
     name: "thinking",
     shortcodes: ["thinking", "thinking_face", "wtf"],
     tags: ["face", "thinking"],
-    group: "",
     emoticons: [":l", ":L"],
     version: 1,
   },
@@ -296,7 +246,6 @@ export const emojis: EmojiItem[] = [
     name: "zipper_mouth_face",
     shortcodes: ["zipper_mouth", "zipper_mouth_face"],
     tags: ["face", "mouth", "zip", "zipper"],
-    group: "",
     emoticons: [":z", ":Z"],
     version: 1,
   },
@@ -305,8 +254,6 @@ export const emojis: EmojiItem[] = [
     name: "raised_eyebrow",
     shortcodes: ["face_with_raised_eyebrow", "raised_eyebrow"],
     tags: ["distrust", "skeptic"],
-    group: "",
-    emoticons: [],
     version: 5,
   },
   {
@@ -314,7 +261,6 @@ export const emojis: EmojiItem[] = [
     name: "neutral_face",
     shortcodes: ["neutral", "neutral_face"],
     tags: ["deadpan", "face", "meh", "neutral"],
-    group: "",
     emoticons: [":|"],
     version: 0.7,
   },
@@ -323,8 +269,6 @@ export const emojis: EmojiItem[] = [
     name: "expressionless",
     shortcodes: ["expressionless", "expressionless_face"],
     tags: ["expressionless", "face", "inexpressive", "meh", "unexpressive"],
-    group: "",
-    emoticons: [],
     version: 1,
   },
   {
@@ -332,7 +276,6 @@ export const emojis: EmojiItem[] = [
     name: "no_mouth",
     shortcodes: ["no_mouth"],
     tags: ["face", "mouth", "quiet", "silent"],
-    group: "",
     emoticons: [":#"],
     version: 1,
   },
@@ -341,8 +284,6 @@ export const emojis: EmojiItem[] = [
     name: "face_in_clouds",
     shortcodes: ["in_clouds"],
     tags: ["absentminded", "face in the fog", "head in clouds"],
-    group: "",
-    emoticons: [],
     version: 13.1,
   },
   {
@@ -350,7 +291,6 @@ export const emojis: EmojiItem[] = [
     name: "smirk",
     shortcodes: ["smirk", "smirking", "smirking_face"],
     tags: ["face", "smirk"],
-    group: "",
     emoticons: [":j"],
     version: 0.6,
   },
@@ -359,7 +299,6 @@ export const emojis: EmojiItem[] = [
     name: "unamused",
     shortcodes: ["unamused", "unamused_face"],
     tags: ["face", "unamused", "unhappy"],
-    group: "",
     emoticons: [":?"],
     version: 0.6,
   },
@@ -368,8 +307,6 @@ export const emojis: EmojiItem[] = [
     name: "roll_eyes",
     shortcodes: ["rolling_eyes"],
     tags: ["eyeroll", "eyes", "face", "rolling"],
-    group: "",
-    emoticons: [],
     version: 1,
   },
   {
@@ -377,7 +314,6 @@ export const emojis: EmojiItem[] = [
     name: "grimacing",
     shortcodes: ["grimacing", "grimacing_face"],
     tags: ["face", "grimace"],
-    group: "",
     emoticons: ["8D"],
     version: 1,
   },
@@ -386,8 +322,6 @@ export const emojis: EmojiItem[] = [
     name: "face_exhaling",
     shortcodes: ["exhale", "exhaling"],
     tags: ["exhale", "gasp", "groan", "relief", "whisper", "whistle"],
-    group: "",
-    emoticons: [],
     version: 13.1,
   },
   {
@@ -395,8 +329,6 @@ export const emojis: EmojiItem[] = [
     name: "lying_face",
     shortcodes: ["lying", "lying_face"],
     tags: ["face", "lie", "pinocchio"],
-    group: "",
-    emoticons: [],
     version: 3,
   },
   {
@@ -404,8 +336,6 @@ export const emojis: EmojiItem[] = [
     name: "relieved",
     shortcodes: ["relieved", "relieved_face"],
     tags: ["face", "relieved"],
-    group: "",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -413,8 +343,6 @@ export const emojis: EmojiItem[] = [
     name: "pensive",
     shortcodes: ["pensive", "pensive_face"],
     tags: ["dejected", "face", "pensive"],
-    group: "",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -422,8 +350,6 @@ export const emojis: EmojiItem[] = [
     name: "sleepy",
     shortcodes: ["sleepy", "sleepy_face"],
     tags: ["face", "good night", "sleep"],
-    group: "",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -431,8 +357,6 @@ export const emojis: EmojiItem[] = [
     name: "drooling_face",
     shortcodes: ["drooling", "drooling_face"],
     tags: ["drooling", "face"],
-    group: "",
-    emoticons: [],
     version: 3,
   },
   {
@@ -440,8 +364,6 @@ export const emojis: EmojiItem[] = [
     name: "sleeping",
     shortcodes: ["sleeping", "sleeping_face"],
     tags: ["face", "good night", "sleep", "zzz"],
-    group: "",
-    emoticons: [],
     version: 1,
   },
   {
@@ -449,8 +371,6 @@ export const emojis: EmojiItem[] = [
     name: "mask",
     shortcodes: ["mask", "medical_mask"],
     tags: ["cold", "doctor", "face", "mask", "sick"],
-    group: "",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -458,8 +378,6 @@ export const emojis: EmojiItem[] = [
     name: "face_with_thermometer",
     shortcodes: ["face_with_thermometer"],
     tags: ["face", "ill", "sick", "thermometer"],
-    group: "",
-    emoticons: [],
     version: 1,
   },
   {
@@ -467,8 +385,6 @@ export const emojis: EmojiItem[] = [
     name: "face_with_head_bandage",
     shortcodes: ["face_with_head_bandage"],
     tags: ["bandage", "face", "hurt", "injury"],
-    group: "",
-    emoticons: [],
     version: 1,
   },
   {
@@ -476,7 +392,6 @@ export const emojis: EmojiItem[] = [
     name: "nauseated_face",
     shortcodes: ["nauseated", "nauseated_face"],
     tags: ["face", "nauseated", "vomit"],
-    group: "",
     emoticons: ["%("],
     version: 3,
   },
@@ -485,8 +400,6 @@ export const emojis: EmojiItem[] = [
     name: "vomiting_face",
     shortcodes: ["face_vomiting", "vomiting"],
     tags: ["puke", "sick", "vomit"],
-    group: "",
-    emoticons: [],
     version: 5,
   },
   {
@@ -494,8 +407,6 @@ export const emojis: EmojiItem[] = [
     name: "sneezing_face",
     shortcodes: ["sneezing", "sneezing_face"],
     tags: ["face", "gesundheit", "sneeze"],
-    group: "",
-    emoticons: [],
     version: 3,
   },
   {
@@ -503,8 +414,6 @@ export const emojis: EmojiItem[] = [
     name: "hot_face",
     shortcodes: ["hot", "hot_face"],
     tags: ["feverish", "heat stroke", "hot", "red-faced", "sweating"],
-    group: "",
-    emoticons: [],
     version: 11,
   },
   {
@@ -512,8 +421,6 @@ export const emojis: EmojiItem[] = [
     name: "cold_face",
     shortcodes: ["cold", "cold_face"],
     tags: ["blue-faced", "cold", "freezing", "frostbite", "icicles"],
-    group: "",
-    emoticons: [],
     version: 11,
   },
   {
@@ -521,7 +428,6 @@ export const emojis: EmojiItem[] = [
     name: "woozy_face",
     shortcodes: ["woozy", "woozy_face"],
     tags: ["dizzy", "intoxicated", "tipsy", "uneven eyes", "wavy mouth"],
-    group: "",
     emoticons: [":&"],
     version: 11,
   },
@@ -530,7 +436,6 @@ export const emojis: EmojiItem[] = [
     name: "dizzy_face",
     shortcodes: ["dizzy_face", "knocked_out"],
     tags: ["crossed-out eyes", "dead", "face", "knocked out"],
-    group: "",
     emoticons: ["xo", "XO"],
     version: 0.6,
   },
@@ -539,8 +444,6 @@ export const emojis: EmojiItem[] = [
     name: "face_with_spiral_eyes",
     shortcodes: ["dizzy_eyes"],
     tags: ["dizzy", "hypnotized", "spiral", "trouble", "whoa"],
-    group: "",
-    emoticons: [],
     version: 13.1,
   },
   {
@@ -548,8 +451,6 @@ export const emojis: EmojiItem[] = [
     name: "exploding_head",
     shortcodes: ["exploding_head"],
     tags: ["mind blown", "shocked"],
-    group: "",
-    emoticons: [],
     version: 5,
   },
   {
@@ -557,8 +458,6 @@ export const emojis: EmojiItem[] = [
     name: "cowboy_hat_face",
     shortcodes: ["cowboy", "cowboy_face"],
     tags: ["cowboy", "cowgirl", "face", "hat"],
-    group: "",
-    emoticons: [],
     version: 3,
   },
   {
@@ -566,8 +465,6 @@ export const emojis: EmojiItem[] = [
     name: "partying_face",
     shortcodes: ["hooray", "partying", "partying_face"],
     tags: ["celebration", "hat", "horn", "party"],
-    group: "",
-    emoticons: [],
     version: 11,
   },
   {
@@ -575,8 +472,6 @@ export const emojis: EmojiItem[] = [
     name: "disguised_face",
     shortcodes: ["disguised", "disguised_face"],
     tags: ["disguise", "face", "glasses", "incognito", "nose"],
-    group: "",
-    emoticons: [],
     version: 13,
   },
   {
@@ -584,7 +479,6 @@ export const emojis: EmojiItem[] = [
     name: "sunglasses",
     shortcodes: ["smiling_face_with_sunglasses", "sunglasses_cool", "too_cool"],
     tags: ["bright", "cool", "face", "sun", "sunglasses"],
-    group: "",
     emoticons: ["8)"],
     version: 1,
   },
@@ -593,7 +487,6 @@ export const emojis: EmojiItem[] = [
     name: "nerd_face",
     shortcodes: ["nerd", "nerd_face"],
     tags: ["face", "geek", "nerd"],
-    group: "",
     emoticons: [":B"],
     version: 1,
   },
@@ -602,8 +495,6 @@ export const emojis: EmojiItem[] = [
     name: "monocle_face",
     shortcodes: ["face_with_monocle"],
     tags: ["face", "monocle", "stuffy"],
-    group: "",
-    emoticons: [],
     version: 5,
   },
   {
@@ -611,7 +502,6 @@ export const emojis: EmojiItem[] = [
     name: "confused",
     shortcodes: ["confused", "confused_face"],
     tags: ["confused", "face", "meh"],
-    group: "",
     emoticons: [":/"],
     version: 1,
   },
@@ -620,8 +510,6 @@ export const emojis: EmojiItem[] = [
     name: "worried",
     shortcodes: ["worried", "worried_face"],
     tags: ["face", "worried"],
-    group: "",
-    emoticons: [],
     version: 1,
   },
   {
@@ -629,8 +517,6 @@ export const emojis: EmojiItem[] = [
     name: "slightly_frowning_face",
     shortcodes: ["slightly_frowning_face"],
     tags: ["face", "frown"],
-    group: "",
-    emoticons: [],
     version: 1,
   },
   {
@@ -638,7 +524,6 @@ export const emojis: EmojiItem[] = [
     name: "frowning_face",
     shortcodes: ["white_frowning_face"],
     tags: ["face", "frown"],
-    group: "",
     emoticons: [":("],
     version: 0.7,
   },
@@ -647,8 +532,6 @@ export const emojis: EmojiItem[] = [
     name: "open_mouth",
     shortcodes: ["face_with_open_mouth", "open_mouth"],
     tags: ["face", "mouth", "open", "sympathy"],
-    group: "",
-    emoticons: [],
     version: 1,
   },
   {
@@ -656,8 +539,6 @@ export const emojis: EmojiItem[] = [
     name: "hushed",
     shortcodes: ["hushed", "hushed_face"],
     tags: ["face", "hushed", "stunned", "surprised"],
-    group: "",
-    emoticons: [],
     version: 1,
   },
   {
@@ -665,7 +546,6 @@ export const emojis: EmojiItem[] = [
     name: "astonished",
     shortcodes: ["astonished", "astonished_face"],
     tags: ["astonished", "face", "shocked", "totally"],
-    group: "",
     emoticons: [":o", ":O"],
     version: 0.6,
   },
@@ -674,7 +554,6 @@ export const emojis: EmojiItem[] = [
     name: "flushed",
     shortcodes: ["flushed", "flushed_face"],
     tags: ["dazed", "face", "flushed"],
-    group: "",
     emoticons: [":$"],
     version: 0.6,
   },
@@ -683,8 +562,6 @@ export const emojis: EmojiItem[] = [
     name: "pleading_face",
     shortcodes: ["pleading", "pleading_face"],
     tags: ["begging", "mercy", "puppy eyes"],
-    group: "",
-    emoticons: [],
     version: 11,
   },
   {
@@ -692,8 +569,6 @@ export const emojis: EmojiItem[] = [
     name: "frowning",
     shortcodes: ["frowning", "frowning_face"],
     tags: ["face", "frown", "mouth", "open"],
-    group: "",
-    emoticons: [],
     version: 1,
   },
   {
@@ -701,7 +576,6 @@ export const emojis: EmojiItem[] = [
     name: "anguished",
     shortcodes: ["anguished", "anguished_face"],
     tags: ["anguished", "face"],
-    group: "",
     emoticons: [":s", ":S"],
     version: 1,
   },
@@ -710,8 +584,6 @@ export const emojis: EmojiItem[] = [
     name: "fearful",
     shortcodes: ["fearful", "fearful_face"],
     tags: ["face", "fear", "fearful", "scared"],
-    group: "",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -719,8 +591,6 @@ export const emojis: EmojiItem[] = [
     name: "cold_sweat",
     shortcodes: ["anxious", "anxious_face", "cold_sweat"],
     tags: ["blue", "cold", "face", "rushed", "sweat"],
-    group: "",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -728,8 +598,6 @@ export const emojis: EmojiItem[] = [
     name: "disappointed_relieved",
     shortcodes: ["disappointed_relieved", "sad_relieved_face"],
     tags: ["disappointed", "face", "relieved", "whew"],
-    group: "",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -737,7 +605,6 @@ export const emojis: EmojiItem[] = [
     name: "cry",
     shortcodes: ["cry", "crying_face"],
     tags: ["cry", "face", "sad", "tear"],
-    group: "",
     emoticons: [":'("],
     version: 0.6,
   },
@@ -746,7 +613,6 @@ export const emojis: EmojiItem[] = [
     name: "sob",
     shortcodes: ["loudly_crying_face", "sob"],
     tags: ["cry", "face", "sad", "sob", "tear"],
-    group: "",
     emoticons: [":'o"],
     version: 0.6,
   },
@@ -755,7 +621,6 @@ export const emojis: EmojiItem[] = [
     name: "scream",
     shortcodes: ["scream", "screaming_in_fear"],
     tags: ["face", "fear", "munch", "scared", "scream"],
-    group: "",
     emoticons: ["Dx"],
     version: 0.6,
   },
@@ -764,7 +629,6 @@ export const emojis: EmojiItem[] = [
     name: "confounded",
     shortcodes: ["confounded", "confounded_face"],
     tags: ["confounded", "face"],
-    group: "",
     emoticons: ["x(", "X("],
     version: 0.6,
   },
@@ -773,8 +637,6 @@ export const emojis: EmojiItem[] = [
     name: "persevere",
     shortcodes: ["persevere", "persevering_face"],
     tags: ["face", "persevere"],
-    group: "",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -782,8 +644,6 @@ export const emojis: EmojiItem[] = [
     name: "disappointed",
     shortcodes: ["disappointed", "disappointed_face"],
     tags: ["disappointed", "face"],
-    group: "",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -791,7 +651,6 @@ export const emojis: EmojiItem[] = [
     name: "sweat",
     shortcodes: ["downcast_face", "sweat"],
     tags: ["cold", "face", "sweat"],
-    group: "",
     emoticons: [":<"],
     version: 0.6,
   },
@@ -800,7 +659,6 @@ export const emojis: EmojiItem[] = [
     name: "weary",
     shortcodes: ["weary", "weary_face"],
     tags: ["face", "tired", "weary"],
-    group: "",
     emoticons: ["D:"],
     version: 0.6,
   },
@@ -809,7 +667,6 @@ export const emojis: EmojiItem[] = [
     name: "tired_face",
     shortcodes: ["tired", "tired_face"],
     tags: ["face", "tired"],
-    group: "",
     emoticons: [":c", ":C"],
     version: 0.6,
   },
@@ -818,8 +675,6 @@ export const emojis: EmojiItem[] = [
     name: "yawning_face",
     shortcodes: ["yawn", "yawning", "yawning_face"],
     tags: ["bored", "tired", "yawn"],
-    group: "",
-    emoticons: [],
     version: 12,
   },
   {
@@ -827,8 +682,6 @@ export const emojis: EmojiItem[] = [
     name: "triumph",
     shortcodes: ["nose_steam", "triumph"],
     tags: ["face", "triumph", "won"],
-    group: "",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -836,7 +689,6 @@ export const emojis: EmojiItem[] = [
     name: "pout",
     shortcodes: ["pout", "pouting_face", "rage"],
     tags: ["angry", "enraged", "face", "mad", "pouting", "rage", "red"],
-    group: "",
     emoticons: [">:/"],
     version: 0.6,
   },
@@ -845,8 +697,6 @@ export const emojis: EmojiItem[] = [
     name: "angry",
     shortcodes: ["angry", "angry_face"],
     tags: ["anger", "angry", "face", "mad"],
-    group: "",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -854,7 +704,6 @@ export const emojis: EmojiItem[] = [
     name: "cursing_face",
     shortcodes: ["censored", "face_with_symbols_on_mouth"],
     tags: ["swearing"],
-    group: "",
     emoticons: [":@"],
     version: 5,
   },
@@ -863,7 +712,6 @@ export const emojis: EmojiItem[] = [
     name: "smiling_imp",
     shortcodes: ["smiling_imp"],
     tags: ["face", "fairy tale", "fantasy", "horns", "smile"],
-    group: "",
     emoticons: [">:)"],
     version: 1,
   },
@@ -872,7 +720,6 @@ export const emojis: EmojiItem[] = [
     name: "imp",
     shortcodes: ["angry_imp", "imp"],
     tags: ["demon", "devil", "face", "fantasy", "imp"],
-    group: "",
     emoticons: [">:("],
     version: 0.6,
   },
@@ -881,8 +728,6 @@ export const emojis: EmojiItem[] = [
     name: "skull",
     shortcodes: ["skull"],
     tags: ["death", "face", "fairy tale", "monster"],
-    group: "",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -890,8 +735,6 @@ export const emojis: EmojiItem[] = [
     name: "skull_and_crossbones",
     shortcodes: ["skull_and_crossbones"],
     tags: ["crossbones", "death", "face", "monster", "skull"],
-    group: "",
-    emoticons: [],
     version: 1,
   },
   {
@@ -899,8 +742,6 @@ export const emojis: EmojiItem[] = [
     name: "hankey",
     shortcodes: ["poop", "shit"],
     tags: ["dung", "face", "monster", "poo", "poop"],
-    group: "",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -908,8 +749,6 @@ export const emojis: EmojiItem[] = [
     name: "clown_face",
     shortcodes: ["clown", "clown_face"],
     tags: ["clown", "face"],
-    group: "",
-    emoticons: [],
     version: 3,
   },
   {
@@ -917,7 +756,6 @@ export const emojis: EmojiItem[] = [
     name: "japanese_ogre",
     shortcodes: ["japanese_ogre", "ogre"],
     tags: ["creature", "face", "fairy tale", "fantasy", "monster"],
-    group: "",
     emoticons: [">0)"],
     version: 0.6,
   },
@@ -926,8 +764,6 @@ export const emojis: EmojiItem[] = [
     name: "japanese_goblin",
     shortcodes: ["goblin", "japanese_goblin"],
     tags: ["creature", "face", "fairy tale", "fantasy", "monster"],
-    group: "",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -935,8 +771,6 @@ export const emojis: EmojiItem[] = [
     name: "ghost",
     shortcodes: ["ghost"],
     tags: ["creature", "face", "fairy tale", "fantasy", "monster"],
-    group: "",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -944,8 +778,6 @@ export const emojis: EmojiItem[] = [
     name: "alien",
     shortcodes: ["alien"],
     tags: ["creature", "extraterrestrial", "face", "fantasy", "ufo"],
-    group: "",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -953,8 +785,6 @@ export const emojis: EmojiItem[] = [
     name: "space_invader",
     shortcodes: ["alien_monster", "space_invader"],
     tags: ["alien", "creature", "extraterrestrial", "face", "monster", "ufo"],
-    group: "",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -962,8 +792,6 @@ export const emojis: EmojiItem[] = [
     name: "robot",
     shortcodes: ["robot", "robot_face"],
     tags: ["face", "monster"],
-    group: "",
-    emoticons: [],
     version: 1,
   },
   {
@@ -971,8 +799,6 @@ export const emojis: EmojiItem[] = [
     name: "smiley_cat",
     shortcodes: ["grinning_cat", "smiley_cat"],
     tags: ["cat", "face", "grinning", "mouth", "open", "smile"],
-    group: "",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -980,8 +806,6 @@ export const emojis: EmojiItem[] = [
     name: "smile_cat",
     shortcodes: ["grinning_cat_with_closed_eyes", "smile_cat"],
     tags: ["cat", "eye", "face", "grin", "smile"],
-    group: "",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -989,8 +813,6 @@ export const emojis: EmojiItem[] = [
     name: "joy_cat",
     shortcodes: ["joy_cat", "tears_of_joy_cat"],
     tags: ["cat", "face", "joy", "tear"],
-    group: "",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -998,8 +820,6 @@ export const emojis: EmojiItem[] = [
     name: "heart_eyes_cat",
     shortcodes: ["heart_eyes_cat", "smiling_cat_with_heart_eyes"],
     tags: ["cat", "eye", "face", "heart", "love", "smile"],
-    group: "",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -1007,8 +827,6 @@ export const emojis: EmojiItem[] = [
     name: "smirk_cat",
     shortcodes: ["smirk_cat", "wry_smile_cat"],
     tags: ["cat", "face", "ironic", "smile", "wry"],
-    group: "",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -1016,7 +834,6 @@ export const emojis: EmojiItem[] = [
     name: "kissing_cat",
     shortcodes: ["kissing_cat"],
     tags: ["cat", "eye", "face", "kiss"],
-    group: "",
     emoticons: [":3"],
     version: 0.6,
   },
@@ -1025,8 +842,6 @@ export const emojis: EmojiItem[] = [
     name: "scream_cat",
     shortcodes: ["scream_cat", "weary_cat"],
     tags: ["cat", "face", "oh", "surprised", "weary"],
-    group: "",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -1034,8 +849,6 @@ export const emojis: EmojiItem[] = [
     name: "crying_cat_face",
     shortcodes: ["crying_cat"],
     tags: ["cat", "cry", "face", "sad", "tear"],
-    group: "",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -1043,8 +856,6 @@ export const emojis: EmojiItem[] = [
     name: "pouting_cat",
     shortcodes: ["pouting_cat"],
     tags: ["cat", "face", "pouting"],
-    group: "",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -1052,8 +863,6 @@ export const emojis: EmojiItem[] = [
     name: "see_no_evil",
     shortcodes: ["see_no_evil"],
     tags: ["evil", "face", "forbidden", "monkey", "see"],
-    group: "",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -1061,8 +870,6 @@ export const emojis: EmojiItem[] = [
     name: "hear_no_evil",
     shortcodes: ["hear_no_evil"],
     tags: ["evil", "face", "forbidden", "hear", "monkey"],
-    group: "",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -1070,8 +877,6 @@ export const emojis: EmojiItem[] = [
     name: "speak_no_evil",
     shortcodes: ["speak_no_evil"],
     tags: ["evil", "face", "forbidden", "monkey", "speak"],
-    group: "",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -1079,8 +884,6 @@ export const emojis: EmojiItem[] = [
     name: "love_letter",
     shortcodes: ["love_letter"],
     tags: ["heart", "letter", "love", "mail"],
-    group: "",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -1088,8 +891,6 @@ export const emojis: EmojiItem[] = [
     name: "cupid",
     shortcodes: ["cupid", "heart_with_arrow"],
     tags: ["arrow", "cupid"],
-    group: "",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -1097,8 +898,6 @@ export const emojis: EmojiItem[] = [
     name: "gift_heart",
     shortcodes: ["gift_heart", "heart_with_ribbon"],
     tags: ["ribbon", "valentine"],
-    group: "",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -1106,8 +905,6 @@ export const emojis: EmojiItem[] = [
     name: "sparkling_heart",
     shortcodes: ["sparkling_heart"],
     tags: ["excited", "sparkle"],
-    group: "",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -1115,8 +912,6 @@ export const emojis: EmojiItem[] = [
     name: "heartpulse",
     shortcodes: ["growing_heart", "heartpulse"],
     tags: ["excited", "growing", "nervous", "pulse"],
-    group: "",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -1124,8 +919,6 @@ export const emojis: EmojiItem[] = [
     name: "heartbeat",
     shortcodes: ["beating_heart", "heartbeat"],
     tags: ["beating", "heartbeat", "pulsating"],
-    group: "",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -1133,8 +926,6 @@ export const emojis: EmojiItem[] = [
     name: "revolving_hearts",
     shortcodes: ["revolving_hearts"],
     tags: ["revolving"],
-    group: "",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -1142,8 +933,6 @@ export const emojis: EmojiItem[] = [
     name: "two_hearts",
     shortcodes: ["two_hearts"],
     tags: ["love"],
-    group: "",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -1151,8 +940,6 @@ export const emojis: EmojiItem[] = [
     name: "heart_decoration",
     shortcodes: ["heart_decoration"],
     tags: ["heart"],
-    group: "",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -1160,8 +947,6 @@ export const emojis: EmojiItem[] = [
     name: "heavy_heart_exclamation",
     shortcodes: ["heart_exclamation"],
     tags: ["exclamation", "mark", "punctuation"],
-    group: "",
-    emoticons: [],
     version: 1,
   },
   {
@@ -1169,7 +954,6 @@ export const emojis: EmojiItem[] = [
     name: "broken_heart",
     shortcodes: ["broken_heart"],
     tags: ["break", "broken"],
-    group: "",
     emoticons: ["</3"],
     version: 0.6,
   },
@@ -1178,8 +962,6 @@ export const emojis: EmojiItem[] = [
     name: "heart_on_fire",
     shortcodes: ["heart_on_fire"],
     tags: ["burn", "heart", "love", "lust", "sacred heart"],
-    group: "",
-    emoticons: [],
     version: 13.1,
   },
   {
@@ -1194,8 +976,6 @@ export const emojis: EmojiItem[] = [
       "recuperating",
       "well",
     ],
-    group: "",
-    emoticons: [],
     version: 13.1,
   },
   {
@@ -1203,7 +983,6 @@ export const emojis: EmojiItem[] = [
     name: "heart",
     shortcodes: ["heart", "red_heart"],
     tags: ["heart"],
-    group: "",
     emoticons: ["<3"],
     version: 0.6,
   },
@@ -1212,8 +991,6 @@ export const emojis: EmojiItem[] = [
     name: "orange_heart",
     shortcodes: ["orange_heart"],
     tags: ["orange"],
-    group: "",
-    emoticons: [],
     version: 5,
   },
   {
@@ -1221,8 +998,6 @@ export const emojis: EmojiItem[] = [
     name: "yellow_heart",
     shortcodes: ["yellow_heart"],
     tags: ["yellow"],
-    group: "",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -1230,8 +1005,6 @@ export const emojis: EmojiItem[] = [
     name: "green_heart",
     shortcodes: ["green_heart"],
     tags: ["green"],
-    group: "",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -1239,8 +1012,6 @@ export const emojis: EmojiItem[] = [
     name: "blue_heart",
     shortcodes: ["blue_heart"],
     tags: ["blue"],
-    group: "",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -1248,8 +1019,6 @@ export const emojis: EmojiItem[] = [
     name: "purple_heart",
     shortcodes: ["purple_heart"],
     tags: ["purple"],
-    group: "",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -1257,8 +1026,6 @@ export const emojis: EmojiItem[] = [
     name: "brown_heart",
     shortcodes: ["brown_heart"],
     tags: ["brown", "heart"],
-    group: "",
-    emoticons: [],
     version: 12,
   },
   {
@@ -1266,8 +1033,6 @@ export const emojis: EmojiItem[] = [
     name: "black_heart",
     shortcodes: ["black_heart"],
     tags: ["black", "evil", "wicked"],
-    group: "",
-    emoticons: [],
     version: 3,
   },
   {
@@ -1275,8 +1040,6 @@ export const emojis: EmojiItem[] = [
     name: "white_heart",
     shortcodes: ["white_heart"],
     tags: ["heart", "white"],
-    group: "",
-    emoticons: [],
     version: 12,
   },
   {
@@ -1284,8 +1047,6 @@ export const emojis: EmojiItem[] = [
     name: "kiss",
     shortcodes: ["kiss"],
     tags: ["kiss", "lips"],
-    group: "",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -1293,8 +1054,6 @@ export const emojis: EmojiItem[] = [
     name: "100",
     shortcodes: ["100"],
     tags: ["100", "full", "hundred", "score"],
-    group: "",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -1302,8 +1061,6 @@ export const emojis: EmojiItem[] = [
     name: "anger",
     shortcodes: ["anger"],
     tags: ["angry", "comic", "mad"],
-    group: "",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -1311,8 +1068,6 @@ export const emojis: EmojiItem[] = [
     name: "boom",
     shortcodes: ["boom", "collision"],
     tags: ["boom", "comic"],
-    group: "",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -1320,8 +1075,6 @@ export const emojis: EmojiItem[] = [
     name: "dizzy",
     shortcodes: ["dizzy"],
     tags: ["comic", "star"],
-    group: "",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -1329,8 +1082,6 @@ export const emojis: EmojiItem[] = [
     name: "sweat_drops",
     shortcodes: ["sweat_drops"],
     tags: ["comic", "splashing", "sweat"],
-    group: "",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -1338,8 +1089,6 @@ export const emojis: EmojiItem[] = [
     name: "dash",
     shortcodes: ["dash", "dashing_away"],
     tags: ["comic", "dash", "running"],
-    group: "",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -1347,8 +1096,6 @@ export const emojis: EmojiItem[] = [
     name: "hole",
     shortcodes: ["hole"],
     tags: ["hole"],
-    group: "",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -1356,8 +1103,6 @@ export const emojis: EmojiItem[] = [
     name: "speech_balloon",
     shortcodes: ["speech_balloon"],
     tags: ["balloon", "bubble", "comic", "dialog", "speech"],
-    group: "",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -1365,8 +1110,6 @@ export const emojis: EmojiItem[] = [
     name: "eye_speech_bubble",
     shortcodes: ["eye_in_speech_bubble"],
     tags: ["balloon", "bubble", "eye", "speech", "witness"],
-    group: "",
-    emoticons: [],
     version: 2,
   },
   {
@@ -1374,8 +1117,6 @@ export const emojis: EmojiItem[] = [
     name: "left_speech_bubble",
     shortcodes: ["left_speech_bubble"],
     tags: ["balloon", "bubble", "dialog", "speech"],
-    group: "",
-    emoticons: [],
     version: 2,
   },
   {
@@ -1383,8 +1124,6 @@ export const emojis: EmojiItem[] = [
     name: "right_anger_bubble",
     shortcodes: ["right_anger_bubble"],
     tags: ["angry", "balloon", "bubble", "mad"],
-    group: "",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -1392,8 +1131,6 @@ export const emojis: EmojiItem[] = [
     name: "thought_balloon",
     shortcodes: ["thought_balloon"],
     tags: ["balloon", "bubble", "comic", "thought"],
-    group: "",
-    emoticons: [],
     version: 1,
   },
   {
@@ -1401,8 +1138,6 @@ export const emojis: EmojiItem[] = [
     name: "zzz",
     shortcodes: ["zzz"],
     tags: ["comic", "good night", "sleep", "zzz"],
-    group: "",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -1411,7 +1146,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["wave", "waving_hand"],
     tags: ["hand", "wave", "waving"],
     group: "people & body",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -1420,7 +1154,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["raised_back_of_hand"],
     tags: ["backhand", "raised"],
     group: "people & body",
-    emoticons: [],
     version: 3,
   },
   {
@@ -1429,7 +1162,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["raised_hand_with_fingers_splayed"],
     tags: ["finger", "hand", "splayed"],
     group: "people & body",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -1438,7 +1170,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["high_five", "raised_hand"],
     tags: ["hand", "high 5", "high five"],
     group: "people & body",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -1447,7 +1178,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["vulcan"],
     tags: ["finger", "hand", "spock", "vulcan"],
     group: "people & body",
-    emoticons: [],
     version: 1,
   },
   {
@@ -1456,7 +1186,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["ok_hand"],
     tags: ["hand", "ok"],
     group: "people & body",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -1465,7 +1194,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["pinch", "pinched_fingers"],
     tags: ["fingers", "hand gesture", "interrogation", "pinched", "sarcastic"],
     group: "people & body",
-    emoticons: [],
     version: 13,
   },
   {
@@ -1474,7 +1202,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["pinching_hand"],
     tags: ["small amount"],
     group: "people & body",
-    emoticons: [],
     version: 12,
   },
   {
@@ -1483,7 +1210,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["v", "victory"],
     tags: ["hand", "v", "victory"],
     group: "people & body",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -1492,7 +1218,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["fingers_crossed"],
     tags: ["cross", "finger", "hand", "luck"],
     group: "people & body",
-    emoticons: [],
     version: 3,
   },
   {
@@ -1501,7 +1226,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["love_you_gesture"],
     tags: ["hand", "ily"],
     group: "people & body",
-    emoticons: [],
     version: 5,
   },
   {
@@ -1519,7 +1243,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["call_me_hand"],
     tags: ["call", "hand", "hang loose", "shaka"],
     group: "people & body",
-    emoticons: [],
     version: 3,
   },
   {
@@ -1528,7 +1251,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["point_left"],
     tags: ["backhand", "finger", "hand", "index", "point"],
     group: "people & body",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -1537,7 +1259,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["point_right"],
     tags: ["backhand", "finger", "hand", "index", "point"],
     group: "people & body",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -1546,7 +1267,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["point_up"],
     tags: ["backhand", "finger", "hand", "point", "up"],
     group: "people & body",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -1555,7 +1275,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["middle_finger"],
     tags: ["finger", "hand"],
     group: "people & body",
-    emoticons: [],
     version: 1,
   },
   {
@@ -1564,7 +1283,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["point_down"],
     tags: ["backhand", "down", "finger", "hand", "point"],
     group: "people & body",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -1573,7 +1291,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["point_up_2"],
     tags: ["finger", "hand", "index", "point", "up"],
     group: "people & body",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -1582,7 +1299,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["+1", "thumbsup", "yes"],
     tags: ["+1", "hand", "thumb", "up"],
     group: "people & body",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -1591,7 +1307,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["-1", "no", "thumbsdown"],
     tags: ["-1", "down", "hand", "thumb"],
     group: "people & body",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -1600,7 +1315,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["fist"],
     tags: ["clenched", "fist", "hand", "punch"],
     group: "people & body",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -1609,7 +1323,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["punch"],
     tags: ["clenched", "fist", "hand", "punch"],
     group: "people & body",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -1618,7 +1331,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["left_facing_fist"],
     tags: ["fist", "leftwards"],
     group: "people & body",
-    emoticons: [],
     version: 3,
   },
   {
@@ -1627,7 +1339,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["right_facing_fist"],
     tags: ["fist", "rightwards"],
     group: "people & body",
-    emoticons: [],
     version: 3,
   },
   {
@@ -1636,7 +1347,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["clap", "clapping_hands"],
     tags: ["clap", "hand"],
     group: "people & body",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -1645,7 +1355,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["raised_hands"],
     tags: ["celebration", "gesture", "hand", "hooray", "raised"],
     group: "people & body",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -1654,7 +1363,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["open_hands"],
     tags: ["hand", "open"],
     group: "people & body",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -1663,7 +1371,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["palms_up_together"],
     tags: ["prayer"],
     group: "people & body",
-    emoticons: [],
     version: 5,
   },
   {
@@ -1672,7 +1379,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["handshake"],
     tags: ["agreement", "hand", "meeting", "shake"],
     group: "people & body",
-    emoticons: [],
     version: 3,
   },
   {
@@ -1681,7 +1387,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["folded_hands", "pray"],
     tags: ["ask", "hand", "high 5", "high five", "please", "pray", "thanks"],
     group: "people & body",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -1690,7 +1395,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["writing_hand"],
     tags: ["hand", "write"],
     group: "people & body",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -1699,7 +1403,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["nail_care", "nail_polish"],
     tags: ["care", "cosmetics", "manicure", "nail", "polish"],
     group: "people & body",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -1708,7 +1411,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["selfie"],
     tags: ["camera", "phone"],
     group: "people & body",
-    emoticons: [],
     version: 3,
   },
   {
@@ -1717,7 +1419,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["muscle", "right_bicep"],
     tags: ["biceps", "comic", "flex", "muscle"],
     group: "people & body",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -1726,7 +1427,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["mechanical_arm"],
     tags: ["accessibility", "prosthetic"],
     group: "people & body",
-    emoticons: [],
     version: 12,
   },
   {
@@ -1735,7 +1435,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["mechanical_leg"],
     tags: ["accessibility", "prosthetic"],
     group: "people & body",
-    emoticons: [],
     version: 12,
   },
   {
@@ -1744,7 +1443,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["leg"],
     tags: ["kick", "limb"],
     group: "people & body",
-    emoticons: [],
     version: 11,
   },
   {
@@ -1753,7 +1451,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["foot"],
     tags: ["kick", "stomp"],
     group: "people & body",
-    emoticons: [],
     version: 11,
   },
   {
@@ -1762,7 +1459,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["ear"],
     tags: ["body"],
     group: "people & body",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -1771,7 +1467,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["ear_with_hearing_aid", "hearing_aid"],
     tags: ["accessibility", "hard of hearing"],
     group: "people & body",
-    emoticons: [],
     version: 12,
   },
   {
@@ -1780,7 +1475,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["nose"],
     tags: ["body"],
     group: "people & body",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -1789,7 +1483,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["brain"],
     tags: ["intelligent"],
     group: "people & body",
-    emoticons: [],
     version: 5,
   },
   {
@@ -1798,7 +1491,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["anatomical_heart"],
     tags: ["anatomical", "cardiology", "heart", "organ", "pulse"],
     group: "people & body",
-    emoticons: [],
     version: 13,
   },
   {
@@ -1807,7 +1499,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["lungs"],
     tags: ["breath", "exhalation", "inhalation", "organ", "respiration"],
     group: "people & body",
-    emoticons: [],
     version: 13,
   },
   {
@@ -1816,7 +1507,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["tooth"],
     tags: ["dentist"],
     group: "people & body",
-    emoticons: [],
     version: 11,
   },
   {
@@ -1825,7 +1515,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["bone"],
     tags: ["skeleton"],
     group: "people & body",
-    emoticons: [],
     version: 11,
   },
   {
@@ -1834,7 +1523,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["eyes"],
     tags: ["eye", "face"],
     group: "people & body",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -1843,7 +1531,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["eye"],
     tags: ["body"],
     group: "people & body",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -1852,7 +1539,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["tongue"],
     tags: ["body"],
     group: "people & body",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -1861,7 +1547,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["lips", "mouth"],
     tags: ["lips"],
     group: "people & body",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -1870,7 +1555,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["baby"],
     tags: ["young"],
     group: "people & body",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -1879,7 +1563,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["child"],
     tags: ["gender-neutral", "unspecified gender", "young"],
     group: "people & body",
-    emoticons: [],
     version: 5,
   },
   {
@@ -1888,7 +1571,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["boy"],
     tags: ["young"],
     group: "people & body",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -1897,7 +1579,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["girl"],
     tags: ["virgo", "young", "zodiac"],
     group: "people & body",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -1906,7 +1587,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["adult"],
     tags: ["adult", "gender-neutral", "unspecified gender"],
     group: "people & body",
-    emoticons: [],
     version: 5,
   },
   {
@@ -1915,7 +1595,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["blond_haired"],
     tags: ["blond", "blond-haired person", "hair"],
     group: "people & body",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -1924,7 +1603,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["man"],
     tags: ["adult"],
     group: "people & body",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -1933,7 +1611,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["person_bearded"],
     tags: ["beard", "person"],
     group: "people & body",
-    emoticons: [],
     version: 5,
   },
   {
@@ -1942,7 +1619,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["man_bearded"],
     tags: ["beard", "man"],
     group: "people & body",
-    emoticons: [],
     version: 13.1,
   },
   {
@@ -1951,7 +1627,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["woman_bearded"],
     tags: ["beard", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 13.1,
   },
   {
@@ -1960,7 +1635,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["man_red_haired"],
     tags: ["adult", "man", "red hair"],
     group: "people & body",
-    emoticons: [],
     version: 11,
   },
   {
@@ -1969,7 +1643,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["man_curly_haired"],
     tags: ["adult", "curly hair", "man"],
     group: "people & body",
-    emoticons: [],
     version: 11,
   },
   {
@@ -1978,7 +1651,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["man_white_haired"],
     tags: ["adult", "man", "white hair"],
     group: "people & body",
-    emoticons: [],
     version: 11,
   },
   {
@@ -1987,7 +1659,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["man_bald"],
     tags: ["adult", "bald", "man"],
     group: "people & body",
-    emoticons: [],
     version: 11,
   },
   {
@@ -1996,7 +1667,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["woman"],
     tags: ["adult"],
     group: "people & body",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -2005,7 +1675,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["woman_red_haired"],
     tags: ["adult", "red hair", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 11,
   },
   {
@@ -2020,7 +1689,6 @@ export const emojis: EmojiItem[] = [
       "unspecified gender",
     ],
     group: "people & body",
-    emoticons: [],
     version: 12.1,
   },
   {
@@ -2029,7 +1697,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["woman_curly_haired"],
     tags: ["adult", "curly hair", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 11,
   },
   {
@@ -2044,7 +1711,6 @@ export const emojis: EmojiItem[] = [
       "unspecified gender",
     ],
     group: "people & body",
-    emoticons: [],
     version: 12.1,
   },
   {
@@ -2053,7 +1719,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["woman_white_haired"],
     tags: ["adult", "white hair", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 11,
   },
   {
@@ -2068,7 +1733,6 @@ export const emojis: EmojiItem[] = [
       "white hair",
     ],
     group: "people & body",
-    emoticons: [],
     version: 12.1,
   },
   {
@@ -2077,7 +1741,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["woman_bald"],
     tags: ["adult", "bald", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 11,
   },
   {
@@ -2086,7 +1749,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["bald"],
     tags: ["adult", "bald", "gender-neutral", "person", "unspecified gender"],
     group: "people & body",
-    emoticons: [],
     version: 12.1,
   },
   {
@@ -2095,7 +1757,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["woman_blond_haired"],
     tags: ["blond-haired woman", "blonde", "hair", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -2104,7 +1765,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["man_blond_haired"],
     tags: ["blond", "blond-haired man", "hair", "man"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -2113,7 +1773,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["older_adult"],
     tags: ["adult", "gender-neutral", "old", "unspecified gender"],
     group: "people & body",
-    emoticons: [],
     version: 5,
   },
   {
@@ -2122,7 +1781,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["older_man"],
     tags: ["adult", "man", "old"],
     group: "people & body",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -2131,7 +1789,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["older_woman"],
     tags: ["adult", "old", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -2140,7 +1797,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["person_frowning"],
     tags: ["frown", "gesture"],
     group: "people & body",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -2149,7 +1805,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["man_frowning"],
     tags: ["frowning", "gesture", "man"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -2158,7 +1813,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["woman_frowning"],
     tags: ["frowning", "gesture", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -2167,7 +1821,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["person_pouting", "pouting"],
     tags: ["gesture", "pouting"],
     group: "people & body",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -2176,7 +1829,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["man_pouting"],
     tags: ["gesture", "man", "pouting"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -2185,7 +1837,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["woman_pouting"],
     tags: ["gesture", "pouting", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -2194,7 +1845,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["no_good", "person_gesturing_no"],
     tags: ["forbidden", "gesture", "hand", "person gesturing no", "prohibited"],
     group: "people & body",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -2210,7 +1860,6 @@ export const emojis: EmojiItem[] = [
       "prohibited",
     ],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -2226,7 +1875,6 @@ export const emojis: EmojiItem[] = [
       "woman gesturing no",
     ],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -2235,7 +1883,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["all_good", "person_gesturing_ok"],
     tags: ["gesture", "hand", "ok", "person gesturing ok"],
     group: "people & body",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -2244,7 +1891,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["man_gesturing_ok"],
     tags: ["gesture", "hand", "man", "man gesturing ok", "ok"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -2253,7 +1899,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["woman_gesturing_ok"],
     tags: ["gesture", "hand", "ok", "woman", "woman gesturing ok"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -2262,7 +1907,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["person_tipping_hand"],
     tags: ["hand", "help", "information", "sassy", "tipping"],
     group: "people & body",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -2271,7 +1915,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["man_tipping_hand"],
     tags: ["man", "sassy", "tipping hand"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -2280,7 +1923,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["woman_tipping_hand"],
     tags: ["sassy", "tipping hand", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -2289,7 +1931,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["person_raising_hand"],
     tags: ["gesture", "hand", "happy", "raised"],
     group: "people & body",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -2298,7 +1939,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["man_raising_hand"],
     tags: ["gesture", "man", "raising hand"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -2307,7 +1947,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["woman_raising_hand"],
     tags: ["gesture", "raising hand", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -2316,7 +1955,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["deaf_person"],
     tags: ["accessibility", "deaf", "ear", "hear"],
     group: "people & body",
-    emoticons: [],
     version: 12,
   },
   {
@@ -2325,7 +1963,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["deaf_man"],
     tags: ["deaf", "man"],
     group: "people & body",
-    emoticons: [],
     version: 12,
   },
   {
@@ -2334,7 +1971,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["deaf_woman"],
     tags: ["deaf", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 12,
   },
   {
@@ -2343,7 +1979,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["bow", "person_bowing"],
     tags: ["apology", "bow", "gesture", "sorry"],
     group: "people & body",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -2352,7 +1987,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["man_bowing"],
     tags: ["apology", "bowing", "favor", "gesture", "man", "sorry"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -2361,7 +1995,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["woman_bowing"],
     tags: ["apology", "bowing", "favor", "gesture", "sorry", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -2370,7 +2003,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["facepalm", "person_facepalming"],
     tags: ["disbelief", "exasperation", "face", "palm"],
     group: "people & body",
-    emoticons: [],
     version: 3,
   },
   {
@@ -2379,7 +2011,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["man_facepalming"],
     tags: ["disbelief", "exasperation", "facepalm", "man"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -2388,7 +2019,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["woman_facepalming"],
     tags: ["disbelief", "exasperation", "facepalm", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -2397,7 +2027,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["person_shrugging", "shrug"],
     tags: ["doubt", "ignorance", "indifference", "shrug"],
     group: "people & body",
-    emoticons: [],
     version: 3,
   },
   {
@@ -2406,7 +2035,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["man_shrugging"],
     tags: ["doubt", "ignorance", "indifference", "man", "shrug"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -2415,7 +2043,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["woman_shrugging"],
     tags: ["doubt", "ignorance", "indifference", "shrug", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -2424,7 +2051,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["health_worker"],
     tags: ["doctor", "healthcare", "nurse", "therapist"],
     group: "people & body",
-    emoticons: [],
     version: 12.1,
   },
   {
@@ -2433,7 +2059,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["man_health_worker"],
     tags: ["doctor", "healthcare", "man", "nurse", "therapist"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -2442,7 +2067,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["woman_health_worker"],
     tags: ["doctor", "healthcare", "nurse", "therapist", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -2451,7 +2075,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["student"],
     tags: ["graduate"],
     group: "people & body",
-    emoticons: [],
     version: 12.1,
   },
   {
@@ -2460,7 +2083,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["man_student"],
     tags: ["graduate", "man", "student"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -2469,7 +2091,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["woman_student"],
     tags: ["graduate", "student", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -2478,7 +2099,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["teacher"],
     tags: ["instructor", "lecturer", "professor"],
     group: "people & body",
-    emoticons: [],
     version: 12.1,
   },
   {
@@ -2487,7 +2107,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["man_teacher"],
     tags: ["instructor", "lecturer", "man", "professor", "teacher"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -2496,7 +2115,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["woman_teacher"],
     tags: ["instructor", "lecturer", "professor", "teacher", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -2505,7 +2123,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["judge"],
     tags: ["justice", "law", "scales"],
     group: "people & body",
-    emoticons: [],
     version: 12.1,
   },
   {
@@ -2514,7 +2131,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["man_judge"],
     tags: ["judge", "justice", "law", "man", "scales"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -2523,7 +2139,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["woman_judge"],
     tags: ["judge", "justice", "law", "scales", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -2532,7 +2147,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["farmer"],
     tags: ["gardener", "rancher"],
     group: "people & body",
-    emoticons: [],
     version: 12.1,
   },
   {
@@ -2541,7 +2155,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["man_farmer"],
     tags: ["farmer", "gardener", "man", "rancher"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -2550,7 +2163,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["woman_farmer"],
     tags: ["farmer", "gardener", "rancher", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -2559,7 +2171,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["cook"],
     tags: ["chef"],
     group: "people & body",
-    emoticons: [],
     version: 12.1,
   },
   {
@@ -2568,7 +2179,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["man_cook"],
     tags: ["chef", "cook", "man"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -2577,7 +2187,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["woman_cook"],
     tags: ["chef", "cook", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -2586,7 +2195,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["mechanic"],
     tags: ["electrician", "plumber", "tradesperson"],
     group: "people & body",
-    emoticons: [],
     version: 12.1,
   },
   {
@@ -2595,7 +2203,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["man_mechanic"],
     tags: ["electrician", "man", "mechanic", "plumber", "tradesperson"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -2604,7 +2211,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["woman_mechanic"],
     tags: ["electrician", "mechanic", "plumber", "tradesperson", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -2613,7 +2219,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["factory_worker"],
     tags: ["assembly", "factory", "industrial", "worker"],
     group: "people & body",
-    emoticons: [],
     version: 12.1,
   },
   {
@@ -2622,7 +2227,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["man_factory_worker"],
     tags: ["assembly", "factory", "industrial", "man", "worker"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -2631,7 +2235,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["woman_factory_worker"],
     tags: ["assembly", "factory", "industrial", "woman", "worker"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -2640,7 +2243,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["office_worker"],
     tags: ["architect", "business", "manager", "white-collar"],
     group: "people & body",
-    emoticons: [],
     version: 12.1,
   },
   {
@@ -2649,7 +2251,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["man_office_worker"],
     tags: ["architect", "business", "man", "manager", "white-collar"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -2658,7 +2259,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["woman_office_worker"],
     tags: ["architect", "business", "manager", "white-collar", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -2667,7 +2267,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["scientist"],
     tags: ["biologist", "chemist", "engineer", "physicist"],
     group: "people & body",
-    emoticons: [],
     version: 12.1,
   },
   {
@@ -2676,7 +2275,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["man_scientist"],
     tags: ["biologist", "chemist", "engineer", "man", "physicist", "scientist"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -2692,7 +2290,6 @@ export const emojis: EmojiItem[] = [
       "woman",
     ],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -2701,7 +2298,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["technologist"],
     tags: ["coder", "developer", "inventor", "software"],
     group: "people & body",
-    emoticons: [],
     version: 12.1,
   },
   {
@@ -2710,7 +2306,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["man_technologist"],
     tags: ["coder", "developer", "inventor", "man", "software", "technologist"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -2726,7 +2321,6 @@ export const emojis: EmojiItem[] = [
       "woman",
     ],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -2735,7 +2329,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["singer"],
     tags: ["actor", "entertainer", "rock", "star"],
     group: "people & body",
-    emoticons: [],
     version: 12.1,
   },
   {
@@ -2744,7 +2337,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["man_singer"],
     tags: ["actor", "entertainer", "man", "rock", "singer", "star"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -2753,7 +2345,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["woman_singer"],
     tags: ["actor", "entertainer", "rock", "singer", "star", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -2762,7 +2353,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["artist"],
     tags: ["palette"],
     group: "people & body",
-    emoticons: [],
     version: 12.1,
   },
   {
@@ -2771,7 +2361,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["man_artist"],
     tags: ["artist", "man", "palette"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -2780,7 +2369,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["woman_artist"],
     tags: ["artist", "palette", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -2789,7 +2377,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["pilot"],
     tags: ["plane"],
     group: "people & body",
-    emoticons: [],
     version: 12.1,
   },
   {
@@ -2798,7 +2385,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["man_pilot"],
     tags: ["man", "pilot", "plane"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -2807,7 +2393,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["woman_pilot"],
     tags: ["pilot", "plane", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -2816,7 +2401,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["astronaut"],
     tags: ["rocket"],
     group: "people & body",
-    emoticons: [],
     version: 12.1,
   },
   {
@@ -2825,7 +2409,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["man_astronaut"],
     tags: ["astronaut", "man", "rocket"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -2834,7 +2417,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["woman_astronaut"],
     tags: ["astronaut", "rocket", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -2843,7 +2425,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["firefighter"],
     tags: ["fire", "firetruck"],
     group: "people & body",
-    emoticons: [],
     version: 12.1,
   },
   {
@@ -2852,7 +2433,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["man_firefighter"],
     tags: ["firefighter", "firetruck", "man"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -2861,7 +2441,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["woman_firefighter"],
     tags: ["firefighter", "firetruck", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -2870,7 +2449,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["cop", "police_officer"],
     tags: ["cop", "officer", "police"],
     group: "people & body",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -2879,7 +2457,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["man_police_officer"],
     tags: ["cop", "man", "officer", "police"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -2888,7 +2465,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["woman_police_officer"],
     tags: ["cop", "officer", "police", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -2897,7 +2473,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["detective"],
     tags: ["sleuth", "spy"],
     group: "people & body",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -2906,7 +2481,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["man_detective"],
     tags: ["detective", "man", "sleuth", "spy"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -2915,7 +2489,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["woman_detective"],
     tags: ["detective", "sleuth", "spy", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -2924,7 +2497,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["guard"],
     tags: ["guard"],
     group: "people & body",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -2933,7 +2505,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["man_guard"],
     tags: ["guard", "man"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -2942,7 +2513,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["woman_guard"],
     tags: ["guard", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -2951,7 +2521,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["ninja"],
     tags: ["fighter", "hidden", "stealth"],
     group: "people & body",
-    emoticons: [],
     version: 13,
   },
   {
@@ -2960,7 +2529,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["construction_worker"],
     tags: ["construction", "hat", "worker"],
     group: "people & body",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -2969,7 +2537,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["man_construction_worker"],
     tags: ["construction", "man", "worker"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -2978,7 +2545,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["woman_construction_worker"],
     tags: ["construction", "woman", "worker"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -2987,7 +2553,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["prince"],
     tags: ["prince"],
     group: "people & body",
-    emoticons: [],
     version: 3,
   },
   {
@@ -2996,7 +2561,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["princess"],
     tags: ["fairy tale", "fantasy"],
     group: "people & body",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -3005,7 +2569,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["person_wearing_turban"],
     tags: ["turban"],
     group: "people & body",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -3014,7 +2577,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["man_wearing_turban"],
     tags: ["man", "turban"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -3023,7 +2585,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["woman_wearing_turban"],
     tags: ["turban", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -3032,7 +2593,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["person_with_skullcap"],
     tags: ["cap", "gua pi mao", "hat", "person", "skullcap"],
     group: "people & body",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -3041,7 +2601,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["woman_with_headscarf"],
     tags: ["headscarf", "hijab", "mantilla", "tichel"],
     group: "people & body",
-    emoticons: [],
     version: 5,
   },
   {
@@ -3050,7 +2609,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["person_in_tuxedo"],
     tags: ["groom", "person", "tuxedo"],
     group: "people & body",
-    emoticons: [],
     version: 3,
   },
   {
@@ -3059,7 +2617,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["man_in_tuxedo"],
     tags: ["man", "tuxedo"],
     group: "people & body",
-    emoticons: [],
     version: 13,
   },
   {
@@ -3068,7 +2625,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["woman_in_tuxedo"],
     tags: ["tuxedo", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 13,
   },
   {
@@ -3077,7 +2633,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["person_with_veil"],
     tags: ["bride", "person", "veil", "wedding"],
     group: "people & body",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -3086,7 +2641,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["man_with_veil"],
     tags: ["man", "veil"],
     group: "people & body",
-    emoticons: [],
     version: 13,
   },
   {
@@ -3095,7 +2649,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["woman_with_veil"],
     tags: ["veil", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 13,
   },
   {
@@ -3104,7 +2657,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["pregnant_woman"],
     tags: ["pregnant", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 3,
   },
   {
@@ -3113,7 +2665,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["breast_feeding"],
     tags: ["baby", "breast", "nursing"],
     group: "people & body",
-    emoticons: [],
     version: 5,
   },
   {
@@ -3122,7 +2673,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["woman_feeding_baby"],
     tags: ["baby", "feeding", "nursing", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 13,
   },
   {
@@ -3131,7 +2681,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["man_feeding_baby"],
     tags: ["baby", "feeding", "man", "nursing"],
     group: "people & body",
-    emoticons: [],
     version: 13,
   },
   {
@@ -3140,7 +2689,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["person_feeding_baby"],
     tags: ["baby", "feeding", "nursing", "person"],
     group: "people & body",
-    emoticons: [],
     version: 13,
   },
   {
@@ -3149,7 +2697,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["angel"],
     tags: ["angel", "baby", "face", "fairy tale", "fantasy"],
     group: "people & body",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -3158,7 +2705,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["santa"],
     tags: ["celebration", "christmas", "claus", "father", "santa"],
     group: "people & body",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -3167,7 +2713,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["mrs_claus"],
     tags: ["celebration", "christmas", "claus", "mother", "mrs."],
     group: "people & body",
-    emoticons: [],
     version: 3,
   },
   {
@@ -3176,7 +2721,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["mx_claus"],
     tags: ["christmas", "claus"],
     group: "people & body",
-    emoticons: [],
     version: 13,
   },
   {
@@ -3185,7 +2729,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["superhero"],
     tags: ["good", "hero", "heroine", "superpower"],
     group: "people & body",
-    emoticons: [],
     version: 11,
   },
   {
@@ -3194,7 +2737,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["man_superhero"],
     tags: ["good", "hero", "man", "superpower"],
     group: "people & body",
-    emoticons: [],
     version: 11,
   },
   {
@@ -3203,7 +2745,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["woman_superhero"],
     tags: ["good", "hero", "heroine", "superpower", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 11,
   },
   {
@@ -3212,7 +2753,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["supervillain"],
     tags: ["criminal", "evil", "superpower", "villain"],
     group: "people & body",
-    emoticons: [],
     version: 11,
   },
   {
@@ -3221,7 +2761,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["man_supervillain"],
     tags: ["criminal", "evil", "man", "superpower", "villain"],
     group: "people & body",
-    emoticons: [],
     version: 11,
   },
   {
@@ -3230,7 +2769,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["woman_supervillain"],
     tags: ["criminal", "evil", "superpower", "villain", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 11,
   },
   {
@@ -3239,7 +2777,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["mage"],
     tags: ["sorcerer", "sorceress", "witch", "wizard"],
     group: "people & body",
-    emoticons: [],
     version: 5,
   },
   {
@@ -3257,7 +2794,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["woman_mage"],
     tags: ["sorceress", "witch"],
     group: "people & body",
-    emoticons: [],
     version: 5,
   },
   {
@@ -3266,7 +2802,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["fairy"],
     tags: ["oberon", "puck", "titania"],
     group: "people & body",
-    emoticons: [],
     version: 5,
   },
   {
@@ -3275,7 +2810,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["man_fairy"],
     tags: ["oberon", "puck"],
     group: "people & body",
-    emoticons: [],
     version: 5,
   },
   {
@@ -3284,7 +2818,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["woman_fairy"],
     tags: ["titania"],
     group: "people & body",
-    emoticons: [],
     version: 5,
   },
   {
@@ -3302,7 +2835,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["man_vampire"],
     tags: ["dracula", "undead"],
     group: "people & body",
-    emoticons: [],
     version: 5,
   },
   {
@@ -3311,7 +2843,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["woman_vampire"],
     tags: ["undead"],
     group: "people & body",
-    emoticons: [],
     version: 5,
   },
   {
@@ -3320,7 +2851,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["merperson"],
     tags: ["mermaid", "merman", "merwoman"],
     group: "people & body",
-    emoticons: [],
     version: 5,
   },
   {
@@ -3329,7 +2859,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["merman"],
     tags: ["triton"],
     group: "people & body",
-    emoticons: [],
     version: 5,
   },
   {
@@ -3338,7 +2867,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["mermaid"],
     tags: ["merwoman"],
     group: "people & body",
-    emoticons: [],
     version: 5,
   },
   {
@@ -3347,7 +2875,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["elf"],
     tags: ["magical"],
     group: "people & body",
-    emoticons: [],
     version: 5,
   },
   {
@@ -3356,7 +2883,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["man_elf"],
     tags: ["magical"],
     group: "people & body",
-    emoticons: [],
     version: 5,
   },
   {
@@ -3365,7 +2891,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["woman_elf"],
     tags: ["magical"],
     group: "people & body",
-    emoticons: [],
     version: 5,
   },
   {
@@ -3374,7 +2899,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["genie"],
     tags: ["djinn"],
     group: "people & body",
-    emoticons: [],
     version: 5,
   },
   {
@@ -3383,7 +2907,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["man_genie"],
     tags: ["djinn"],
     group: "people & body",
-    emoticons: [],
     version: 5,
   },
   {
@@ -3392,7 +2915,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["woman_genie"],
     tags: ["djinn"],
     group: "people & body",
-    emoticons: [],
     version: 5,
   },
   {
@@ -3410,7 +2932,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["man_zombie"],
     tags: ["undead", "walking dead"],
     group: "people & body",
-    emoticons: [],
     version: 5,
   },
   {
@@ -3419,7 +2940,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["woman_zombie"],
     tags: ["undead", "walking dead"],
     group: "people & body",
-    emoticons: [],
     version: 5,
   },
   {
@@ -3428,7 +2948,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["massage", "person_getting_massage"],
     tags: ["face", "massage", "salon"],
     group: "people & body",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -3437,7 +2956,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["man_getting_massage"],
     tags: ["face", "man", "massage"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -3446,7 +2964,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["woman_getting_massage"],
     tags: ["face", "massage", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -3455,7 +2972,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["haircut", "person_getting_haircut"],
     tags: ["barber", "beauty", "haircut", "parlor"],
     group: "people & body",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -3464,7 +2980,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["man_getting_haircut"],
     tags: ["haircut", "man"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -3473,7 +2988,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["woman_getting_haircut"],
     tags: ["haircut", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -3482,7 +2996,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["person_walking", "walking"],
     tags: ["hike", "walk", "walking"],
     group: "people & body",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -3491,7 +3004,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["man_walking"],
     tags: ["hike", "man", "walk"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -3500,7 +3012,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["woman_walking"],
     tags: ["hike", "walk", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -3509,7 +3020,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["person_standing", "standing"],
     tags: ["stand", "standing"],
     group: "people & body",
-    emoticons: [],
     version: 12,
   },
   {
@@ -3518,7 +3028,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["man_standing"],
     tags: ["man", "standing"],
     group: "people & body",
-    emoticons: [],
     version: 12,
   },
   {
@@ -3527,7 +3036,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["woman_standing"],
     tags: ["standing", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 12,
   },
   {
@@ -3536,7 +3044,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["kneeling", "person_kneeling"],
     tags: ["kneel", "kneeling"],
     group: "people & body",
-    emoticons: [],
     version: 12,
   },
   {
@@ -3545,7 +3052,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["man_kneeling"],
     tags: ["kneeling", "man"],
     group: "people & body",
-    emoticons: [],
     version: 12,
   },
   {
@@ -3554,7 +3060,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["woman_kneeling"],
     tags: ["kneeling", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 12,
   },
   {
@@ -3563,7 +3068,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["person_with_probing_cane", "person_with_white_cane"],
     tags: ["accessibility", "blind"],
     group: "people & body",
-    emoticons: [],
     version: 12.1,
   },
   {
@@ -3572,7 +3076,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["man_with_probing_cane", "man_with_white_cane"],
     tags: ["accessibility", "blind", "man"],
     group: "people & body",
-    emoticons: [],
     version: 12,
   },
   {
@@ -3581,7 +3084,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["woman_with_probing_cane", "woman_with_white_cane"],
     tags: ["accessibility", "blind", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 12,
   },
   {
@@ -3590,7 +3092,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["person_in_motorized_wheelchair"],
     tags: ["accessibility", "wheelchair"],
     group: "people & body",
-    emoticons: [],
     version: 12.1,
   },
   {
@@ -3599,7 +3100,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["man_in_motorized_wheelchair"],
     tags: ["accessibility", "man", "wheelchair"],
     group: "people & body",
-    emoticons: [],
     version: 12,
   },
   {
@@ -3608,7 +3108,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["woman_in_motorized_wheelchair"],
     tags: ["accessibility", "wheelchair", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 12,
   },
   {
@@ -3617,7 +3116,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["person_in_manual_wheelchair"],
     tags: ["accessibility", "wheelchair"],
     group: "people & body",
-    emoticons: [],
     version: 12.1,
   },
   {
@@ -3626,7 +3124,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["man_in_manual_wheelchair"],
     tags: ["accessibility", "man", "wheelchair"],
     group: "people & body",
-    emoticons: [],
     version: 12,
   },
   {
@@ -3635,7 +3132,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["woman_in_manual_wheelchair"],
     tags: ["accessibility", "wheelchair", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 12,
   },
   {
@@ -3644,7 +3140,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["person_running", "running"],
     tags: ["marathon", "running"],
     group: "people & body",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -3653,7 +3148,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["man_running"],
     tags: ["man", "marathon", "racing", "running"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -3662,7 +3156,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["woman_running"],
     tags: ["marathon", "racing", "running", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -3671,7 +3164,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["dancer", "woman_dancing"],
     tags: ["dance", "dancing", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -3680,7 +3172,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["man_dancing"],
     tags: ["dance", "dancing", "man"],
     group: "people & body",
-    emoticons: [],
     version: 3,
   },
   {
@@ -3689,7 +3180,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["levitate", "levitating", "person_in_suit_levitating"],
     tags: ["business", "person", "suit"],
     group: "people & body",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -3698,7 +3188,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["dancers", "people_with_bunny_ears_partying"],
     tags: ["bunny ear", "dancer", "partying"],
     group: "people & body",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -3707,7 +3196,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["men_with_bunny_ears_partying"],
     tags: ["bunny ear", "dancer", "men", "partying"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -3716,7 +3204,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["women_with_bunny_ears_partying"],
     tags: ["bunny ear", "dancer", "partying", "women"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -3725,7 +3212,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["person_in_steamy_room"],
     tags: ["sauna", "steam room"],
     group: "people & body",
-    emoticons: [],
     version: 5,
   },
   {
@@ -3734,7 +3220,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["man_in_steamy_room"],
     tags: ["sauna", "steam room"],
     group: "people & body",
-    emoticons: [],
     version: 5,
   },
   {
@@ -3743,7 +3228,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["woman_in_steamy_room"],
     tags: ["sauna", "steam room"],
     group: "people & body",
-    emoticons: [],
     version: 5,
   },
   {
@@ -3752,7 +3236,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["climbing", "person_climbing"],
     tags: ["climber"],
     group: "people & body",
-    emoticons: [],
     version: 5,
   },
   {
@@ -3761,7 +3244,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["man_climbing"],
     tags: ["climber"],
     group: "people & body",
-    emoticons: [],
     version: 5,
   },
   {
@@ -3770,7 +3252,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["woman_climbing"],
     tags: ["climber"],
     group: "people & body",
-    emoticons: [],
     version: 5,
   },
   {
@@ -3779,7 +3260,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["fencer", "fencing", "person_fencing"],
     tags: ["fencer", "fencing", "sword"],
     group: "people & body",
-    emoticons: [],
     version: 3,
   },
   {
@@ -3788,7 +3268,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["horse_racing"],
     tags: ["horse", "jockey", "racehorse", "racing"],
     group: "people & body",
-    emoticons: [],
     version: 1,
   },
   {
@@ -3797,7 +3276,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["person_skiing", "skier", "skiing"],
     tags: ["ski", "snow"],
     group: "people & body",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -3806,7 +3284,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["person_snowboarding", "snowboarder", "snowboarding"],
     tags: ["ski", "snow", "snowboard"],
     group: "people & body",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -3815,7 +3292,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["golfer", "golfing", "person_golfing"],
     tags: ["ball", "golf"],
     group: "people & body",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -3824,7 +3300,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["man_golfing"],
     tags: ["golf", "man"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -3833,7 +3308,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["woman_golfing"],
     tags: ["golf", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -3842,7 +3316,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["person_surfing", "surfer", "surfing"],
     tags: ["surfing"],
     group: "people & body",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -3851,7 +3324,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["man_surfing"],
     tags: ["man", "surfing"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -3860,7 +3332,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["woman_surfing"],
     tags: ["surfing", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -3869,7 +3340,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["person_rowing_boat", "rowboat"],
     tags: ["boat", "rowboat"],
     group: "people & body",
-    emoticons: [],
     version: 1,
   },
   {
@@ -3878,7 +3348,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["man_rowing_boat"],
     tags: ["boat", "man", "rowboat"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -3887,7 +3356,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["woman_rowing_boat"],
     tags: ["boat", "rowboat", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -3896,7 +3364,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["person_swimming", "swimmer", "swimming"],
     tags: ["swim"],
     group: "people & body",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -3905,7 +3372,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["man_swimming"],
     tags: ["man", "swim"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -3914,7 +3380,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["woman_swimming"],
     tags: ["swim", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -3923,7 +3388,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["person_bouncing_ball"],
     tags: ["ball"],
     group: "people & body",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -3932,7 +3396,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["man_bouncing_ball"],
     tags: ["ball", "man"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -3941,7 +3404,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["woman_bouncing_ball"],
     tags: ["ball", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -3950,7 +3412,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["person_lifting_weights", "weight_lifter", "weight_lifting"],
     tags: ["lifter", "weight"],
     group: "people & body",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -3959,7 +3420,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["man_lifting_weights"],
     tags: ["man", "weight lifter"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -3968,7 +3428,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["woman_lifting_weights"],
     tags: ["weight lifter", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -3977,7 +3436,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["bicyclist", "biking", "person_biking"],
     tags: ["bicycle", "biking", "cyclist"],
     group: "people & body",
-    emoticons: [],
     version: 1,
   },
   {
@@ -3986,7 +3444,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["man_biking"],
     tags: ["bicycle", "biking", "cyclist", "man"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -3995,7 +3452,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["woman_biking"],
     tags: ["bicycle", "biking", "cyclist", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -4008,7 +3464,6 @@ export const emojis: EmojiItem[] = [
     ],
     tags: ["bicycle", "bicyclist", "bike", "cyclist", "mountain"],
     group: "people & body",
-    emoticons: [],
     version: 1,
   },
   {
@@ -4017,7 +3472,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["man_mountain_biking"],
     tags: ["bicycle", "bike", "cyclist", "man", "mountain"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -4026,7 +3480,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["woman_mountain_biking"],
     tags: ["bicycle", "bike", "biking", "cyclist", "mountain", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -4035,7 +3488,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["cartwheeling", "person_cartwheel"],
     tags: ["cartwheel", "gymnastics"],
     group: "people & body",
-    emoticons: [],
     version: 3,
   },
   {
@@ -4044,7 +3496,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["man_cartwheeling"],
     tags: ["cartwheel", "gymnastics", "man"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -4053,7 +3504,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["woman_cartwheeling"],
     tags: ["cartwheel", "gymnastics", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -4062,7 +3512,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["people_wrestling", "wrestlers", "wrestling"],
     tags: ["wrestle", "wrestler"],
     group: "people & body",
-    emoticons: [],
     version: 3,
   },
   {
@@ -4071,7 +3520,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["men_wrestling"],
     tags: ["men", "wrestle"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -4080,7 +3528,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["women_wrestling"],
     tags: ["women", "wrestle"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -4089,7 +3536,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["person_playing_water_polo", "water_polo"],
     tags: ["polo", "water"],
     group: "people & body",
-    emoticons: [],
     version: 3,
   },
   {
@@ -4098,7 +3544,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["man_playing_water_polo"],
     tags: ["man", "water polo"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -4107,7 +3552,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["woman_playing_water_polo"],
     tags: ["water polo", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -4116,7 +3560,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["handball", "person_playing_handball"],
     tags: ["ball", "handball"],
     group: "people & body",
-    emoticons: [],
     version: 3,
   },
   {
@@ -4125,7 +3568,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["man_playing_handball"],
     tags: ["handball", "man"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -4134,7 +3576,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["woman_playing_handball"],
     tags: ["handball", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -4143,7 +3584,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["juggler", "juggling", "person_juggling"],
     tags: ["balance", "juggle", "multitask", "skill"],
     group: "people & body",
-    emoticons: [],
     version: 3,
   },
   {
@@ -4152,7 +3592,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["man_juggling"],
     tags: ["juggling", "man", "multitask"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -4161,7 +3600,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["woman_juggling"],
     tags: ["juggling", "multitask", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -4170,7 +3608,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["person_in_lotus_position"],
     tags: ["meditation", "yoga"],
     group: "people & body",
-    emoticons: [],
     version: 5,
   },
   {
@@ -4179,7 +3616,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["man_in_lotus_position"],
     tags: ["meditation", "yoga"],
     group: "people & body",
-    emoticons: [],
     version: 5,
   },
   {
@@ -4188,7 +3624,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["woman_in_lotus_position"],
     tags: ["meditation", "yoga"],
     group: "people & body",
-    emoticons: [],
     version: 5,
   },
   {
@@ -4197,7 +3632,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["bath", "person_taking_bath"],
     tags: ["bath", "bathtub"],
     group: "people & body",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -4206,7 +3640,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["person_in_bed", "sleeping_accommodation"],
     tags: ["good night", "hotel", "sleep"],
     group: "people & body",
-    emoticons: [],
     version: 1,
   },
   {
@@ -4215,7 +3648,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["people_holding_hands"],
     tags: ["couple", "hand", "hold", "holding hands", "person"],
     group: "people & body",
-    emoticons: [],
     version: 12,
   },
   {
@@ -4224,7 +3656,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["two_women_holding_hands"],
     tags: ["couple", "hand", "holding hands", "women"],
     group: "people & body",
-    emoticons: [],
     version: 1,
   },
   {
@@ -4233,7 +3664,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["couple"],
     tags: ["couple", "hand", "hold", "holding hands", "man", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -4250,7 +3680,6 @@ export const emojis: EmojiItem[] = [
       "zodiac",
     ],
     group: "people & body",
-    emoticons: [],
     version: 1,
   },
   {
@@ -4259,7 +3688,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["couple_kiss", "couplekiss"],
     tags: ["couple"],
     group: "people & body",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -4268,7 +3696,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["kiss_mw", "kiss_wm"],
     tags: ["couple", "kiss", "man", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 2,
   },
   {
@@ -4277,7 +3704,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["kiss_mm"],
     tags: ["couple", "kiss", "man"],
     group: "people & body",
-    emoticons: [],
     version: 2,
   },
   {
@@ -4286,7 +3712,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["kiss_ww"],
     tags: ["couple", "kiss", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 2,
   },
   {
@@ -4295,7 +3720,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["couple_with_heart"],
     tags: ["couple", "love"],
     group: "people & body",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -4304,7 +3728,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["couple_with_heart_mw", "couple_with_heart_wm"],
     tags: ["couple", "couple with heart", "love", "man", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 2,
   },
   {
@@ -4313,7 +3736,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["couple_with_heart_mm"],
     tags: ["couple", "couple with heart", "love", "man"],
     group: "people & body",
-    emoticons: [],
     version: 2,
   },
   {
@@ -4322,7 +3744,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["couple_with_heart_ww"],
     tags: ["couple", "couple with heart", "love", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 2,
   },
   {
@@ -4331,7 +3752,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["family_mwb"],
     tags: ["boy", "family", "man", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 2,
   },
   {
@@ -4340,7 +3760,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["family_mwg"],
     tags: ["family", "girl", "man", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 2,
   },
   {
@@ -4349,7 +3768,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["family_mwgb"],
     tags: ["boy", "family", "girl", "man", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 2,
   },
   {
@@ -4358,7 +3776,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["family_mwbb"],
     tags: ["boy", "family", "man", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 2,
   },
   {
@@ -4367,7 +3784,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["family_mwgg"],
     tags: ["family", "girl", "man", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 2,
   },
   {
@@ -4376,7 +3792,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["family_mmb"],
     tags: ["boy", "family", "man"],
     group: "people & body",
-    emoticons: [],
     version: 2,
   },
   {
@@ -4385,7 +3800,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["family_mmg"],
     tags: ["family", "girl", "man"],
     group: "people & body",
-    emoticons: [],
     version: 2,
   },
   {
@@ -4394,7 +3808,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["family_mmgb"],
     tags: ["boy", "family", "girl", "man"],
     group: "people & body",
-    emoticons: [],
     version: 2,
   },
   {
@@ -4403,7 +3816,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["family_mmbb"],
     tags: ["boy", "family", "man"],
     group: "people & body",
-    emoticons: [],
     version: 2,
   },
   {
@@ -4412,7 +3824,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["family_mmgg"],
     tags: ["family", "girl", "man"],
     group: "people & body",
-    emoticons: [],
     version: 2,
   },
   {
@@ -4421,7 +3832,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["family_wwb"],
     tags: ["boy", "family", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 2,
   },
   {
@@ -4430,7 +3840,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["family_wwg"],
     tags: ["family", "girl", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 2,
   },
   {
@@ -4439,7 +3848,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["family_wwgb"],
     tags: ["boy", "family", "girl", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 2,
   },
   {
@@ -4448,7 +3856,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["family_wwbb"],
     tags: ["boy", "family", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 2,
   },
   {
@@ -4457,7 +3864,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["family_wwgg"],
     tags: ["family", "girl", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 2,
   },
   {
@@ -4466,7 +3872,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["family_mb"],
     tags: ["boy", "family", "man"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -4475,7 +3880,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["family_mbb"],
     tags: ["boy", "family", "man"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -4484,7 +3888,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["family_mg"],
     tags: ["family", "girl", "man"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -4493,7 +3896,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["family_mgb"],
     tags: ["boy", "family", "girl", "man"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -4502,7 +3904,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["family_mgg"],
     tags: ["family", "girl", "man"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -4511,7 +3912,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["family_wb"],
     tags: ["boy", "family", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -4520,7 +3920,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["family_wbb"],
     tags: ["boy", "family", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -4529,7 +3928,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["family_wg"],
     tags: ["family", "girl", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -4538,7 +3936,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["family_wgb"],
     tags: ["boy", "family", "girl", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -4547,7 +3944,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["family_wgg"],
     tags: ["family", "girl", "woman"],
     group: "people & body",
-    emoticons: [],
     version: 4,
   },
   {
@@ -4556,7 +3952,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["speaking_head"],
     tags: ["face", "head", "silhouette", "speak", "speaking"],
     group: "people & body",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -4565,7 +3960,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["bust_in_silhouette"],
     tags: ["bust", "silhouette"],
     group: "people & body",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -4574,7 +3968,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["busts_in_silhouette"],
     tags: ["bust", "silhouette"],
     group: "people & body",
-    emoticons: [],
     version: 1,
   },
   {
@@ -4583,7 +3976,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["people_hugging"],
     tags: ["goodbye", "hello", "hug", "thanks"],
     group: "people & body",
-    emoticons: [],
     version: 13,
   },
   {
@@ -4592,7 +3984,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["family"],
     tags: ["family"],
     group: "people & body",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -4601,7 +3992,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["footprints"],
     tags: ["clothing", "footprint", "print"],
     group: "people & body",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -4610,7 +4000,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["tone1", "tone_light"],
     tags: ["skin tone", "type 1–2"],
     group: "components",
-    emoticons: [],
     version: 1,
   },
   {
@@ -4619,7 +4008,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["tone2", "tone_medium_light"],
     tags: ["skin tone", "type 3"],
     group: "components",
-    emoticons: [],
     version: 1,
   },
   {
@@ -4628,7 +4016,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["tone3", "tone_medium"],
     tags: ["skin tone", "type 4"],
     group: "components",
-    emoticons: [],
     version: 1,
   },
   {
@@ -4637,7 +4024,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["tone4", "tone_medium_dark"],
     tags: ["skin tone", "type 5"],
     group: "components",
-    emoticons: [],
     version: 1,
   },
   {
@@ -4646,7 +4032,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["tone5", "tone_dark"],
     tags: ["skin tone", "type 6"],
     group: "components",
-    emoticons: [],
     version: 1,
   },
   {
@@ -4655,7 +4040,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["red_hair"],
     tags: ["ginger", "redhead"],
     group: "components",
-    emoticons: [],
     version: 11,
   },
   {
@@ -4664,7 +4048,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["curly_hair"],
     tags: ["afro", "curly", "ringlets"],
     group: "components",
-    emoticons: [],
     version: 11,
   },
   {
@@ -4673,7 +4056,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["white_hair"],
     tags: ["gray", "hair", "old", "white"],
     group: "components",
-    emoticons: [],
     version: 11,
   },
   {
@@ -4682,7 +4064,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["no_hair"],
     tags: ["chemotherapy", "hairless", "no hair", "shaven"],
     group: "components",
-    emoticons: [],
     version: 11,
   },
   {
@@ -4691,7 +4072,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["monkey_face"],
     tags: ["face", "monkey"],
     group: "animals & nature",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -4700,7 +4080,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["monkey"],
     tags: ["monkey"],
     group: "animals & nature",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -4709,7 +4088,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["gorilla"],
     tags: ["gorilla"],
     group: "animals & nature",
-    emoticons: [],
     version: 3,
   },
   {
@@ -4718,7 +4096,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["orangutan"],
     tags: ["ape"],
     group: "animals & nature",
-    emoticons: [],
     version: 12,
   },
   {
@@ -4727,7 +4104,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["dog_face"],
     tags: ["dog", "face", "pet"],
     group: "animals & nature",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -4736,7 +4112,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["dog"],
     tags: ["pet"],
     group: "animals & nature",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -4745,7 +4120,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["guide_dog"],
     tags: ["accessibility", "blind", "guide"],
     group: "animals & nature",
-    emoticons: [],
     version: 12,
   },
   {
@@ -4754,7 +4128,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["service_dog"],
     tags: ["accessibility", "assistance", "dog", "service"],
     group: "animals & nature",
-    emoticons: [],
     version: 12,
   },
   {
@@ -4763,7 +4136,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["poodle"],
     tags: ["dog"],
     group: "animals & nature",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -4772,7 +4144,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["wolf", "wolf_face"],
     tags: ["face"],
     group: "animals & nature",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -4781,7 +4152,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["fox", "fox_face"],
     tags: ["face"],
     group: "animals & nature",
-    emoticons: [],
     version: 3,
   },
   {
@@ -4790,7 +4160,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["raccoon"],
     tags: ["curious", "sly"],
     group: "animals & nature",
-    emoticons: [],
     version: 11,
   },
   {
@@ -4799,7 +4168,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["cat_face"],
     tags: ["cat", "face", "pet"],
     group: "animals & nature",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -4808,7 +4176,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["cat"],
     tags: ["pet"],
     group: "animals & nature",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -4817,7 +4184,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["black_cat"],
     tags: ["black", "cat", "unlucky"],
     group: "animals & nature",
-    emoticons: [],
     version: 13,
   },
   {
@@ -4826,7 +4192,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["lion", "lion_face"],
     tags: ["face", "leo", "zodiac"],
     group: "animals & nature",
-    emoticons: [],
     version: 1,
   },
   {
@@ -4835,7 +4200,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["tiger_face"],
     tags: ["face", "tiger"],
     group: "animals & nature",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -4844,7 +4208,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["tiger"],
     tags: ["tiger"],
     group: "animals & nature",
-    emoticons: [],
     version: 1,
   },
   {
@@ -4853,7 +4216,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["leopard"],
     tags: ["leopard"],
     group: "animals & nature",
-    emoticons: [],
     version: 1,
   },
   {
@@ -4862,7 +4224,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["horse_face"],
     tags: ["face", "horse"],
     group: "animals & nature",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -4871,7 +4232,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["horse", "racehorse"],
     tags: ["equestrian", "racehorse", "racing"],
     group: "animals & nature",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -4880,7 +4240,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["unicorn", "unicorn_face"],
     tags: ["face"],
     group: "animals & nature",
-    emoticons: [],
     version: 1,
   },
   {
@@ -4889,7 +4248,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["zebra"],
     tags: ["stripe"],
     group: "animals & nature",
-    emoticons: [],
     version: 5,
   },
   {
@@ -4898,7 +4256,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["deer"],
     tags: ["deer"],
     group: "animals & nature",
-    emoticons: [],
     version: 3,
   },
   {
@@ -4907,7 +4264,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["bison"],
     tags: ["buffalo", "herd", "wisent"],
     group: "animals & nature",
-    emoticons: [],
     version: 13,
   },
   {
@@ -4916,7 +4272,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["cow_face"],
     tags: ["cow", "face"],
     group: "animals & nature",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -4925,7 +4280,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["ox"],
     tags: ["bull", "taurus", "zodiac"],
     group: "animals & nature",
-    emoticons: [],
     version: 1,
   },
   {
@@ -4934,7 +4288,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["water_buffalo"],
     tags: ["buffalo", "water"],
     group: "animals & nature",
-    emoticons: [],
     version: 1,
   },
   {
@@ -4943,7 +4296,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["cow"],
     tags: ["cow"],
     group: "animals & nature",
-    emoticons: [],
     version: 1,
   },
   {
@@ -4952,7 +4304,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["pig_face"],
     tags: ["face", "pig"],
     group: "animals & nature",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -4961,7 +4312,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["pig"],
     tags: ["sow"],
     group: "animals & nature",
-    emoticons: [],
     version: 1,
   },
   {
@@ -4970,7 +4320,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["boar"],
     tags: ["pig"],
     group: "animals & nature",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -4979,7 +4328,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["pig_nose"],
     tags: ["face", "nose", "pig"],
     group: "animals & nature",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -4988,7 +4336,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["ram"],
     tags: ["aries", "male", "sheep", "zodiac"],
     group: "animals & nature",
-    emoticons: [],
     version: 1,
   },
   {
@@ -4997,7 +4344,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["ewe", "sheep"],
     tags: ["female", "sheep"],
     group: "animals & nature",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -5006,7 +4352,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["goat"],
     tags: ["capricorn", "zodiac"],
     group: "animals & nature",
-    emoticons: [],
     version: 1,
   },
   {
@@ -5015,7 +4360,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["dromedary_camel"],
     tags: ["dromedary", "hump"],
     group: "animals & nature",
-    emoticons: [],
     version: 1,
   },
   {
@@ -5024,7 +4368,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["camel"],
     tags: ["bactrian", "camel", "hump"],
     group: "animals & nature",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -5033,7 +4376,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["llama"],
     tags: ["alpaca", "guanaco", "vicuña", "wool"],
     group: "animals & nature",
-    emoticons: [],
     version: 11,
   },
   {
@@ -5042,7 +4384,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["giraffe"],
     tags: ["spots"],
     group: "animals & nature",
-    emoticons: [],
     version: 5,
   },
   {
@@ -5051,7 +4392,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["elephant"],
     tags: ["elephant"],
     group: "animals & nature",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -5060,7 +4400,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["mammoth"],
     tags: ["extinction", "large", "tusk", "woolly"],
     group: "animals & nature",
-    emoticons: [],
     version: 13,
   },
   {
@@ -5069,7 +4408,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["rhino", "rhinoceros"],
     tags: ["rhinoceros"],
     group: "animals & nature",
-    emoticons: [],
     version: 3,
   },
   {
@@ -5078,7 +4416,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["hippo"],
     tags: ["hippo"],
     group: "animals & nature",
-    emoticons: [],
     version: 11,
   },
   {
@@ -5087,7 +4424,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["mouse_face"],
     tags: ["face", "mouse"],
     group: "animals & nature",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -5096,7 +4432,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["mouse"],
     tags: ["mouse"],
     group: "animals & nature",
-    emoticons: [],
     version: 1,
   },
   {
@@ -5105,7 +4440,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["rat"],
     tags: ["rat"],
     group: "animals & nature",
-    emoticons: [],
     version: 1,
   },
   {
@@ -5114,7 +4448,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["hamster", "hamster_face"],
     tags: ["face", "pet"],
     group: "animals & nature",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -5123,7 +4456,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["rabbit_face"],
     tags: ["bunny", "face", "pet", "rabbit"],
     group: "animals & nature",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -5132,7 +4464,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["rabbit"],
     tags: ["bunny", "pet"],
     group: "animals & nature",
-    emoticons: [],
     version: 1,
   },
   {
@@ -5141,7 +4472,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["chipmunk"],
     tags: ["squirrel"],
     group: "animals & nature",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -5150,7 +4480,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["beaver"],
     tags: ["dam"],
     group: "animals & nature",
-    emoticons: [],
     version: 13,
   },
   {
@@ -5159,7 +4488,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["hedgehog"],
     tags: ["spiny"],
     group: "animals & nature",
-    emoticons: [],
     version: 5,
   },
   {
@@ -5168,7 +4496,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["bat"],
     tags: ["vampire"],
     group: "animals & nature",
-    emoticons: [],
     version: 3,
   },
   {
@@ -5177,7 +4504,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["bear", "bear_face"],
     tags: ["face"],
     group: "animals & nature",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -5186,7 +4512,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["polar_bear", "polar_bear_face"],
     tags: ["arctic", "bear", "white"],
     group: "animals & nature",
-    emoticons: [],
     version: 13,
   },
   {
@@ -5195,7 +4520,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["koala", "koala_face"],
     tags: ["face", "marsupial"],
     group: "animals & nature",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -5204,7 +4528,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["panda", "panda_face"],
     tags: ["face"],
     group: "animals & nature",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -5213,7 +4536,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["sloth"],
     tags: ["lazy", "slow"],
     group: "animals & nature",
-    emoticons: [],
     version: 12,
   },
   {
@@ -5222,7 +4544,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["otter"],
     tags: ["fishing", "playful"],
     group: "animals & nature",
-    emoticons: [],
     version: 12,
   },
   {
@@ -5231,7 +4552,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["skunk"],
     tags: ["stink"],
     group: "animals & nature",
-    emoticons: [],
     version: 12,
   },
   {
@@ -5240,7 +4560,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["kangaroo"],
     tags: ["joey", "jump", "marsupial"],
     group: "animals & nature",
-    emoticons: [],
     version: 11,
   },
   {
@@ -5249,7 +4568,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["badger"],
     tags: ["honey badger", "pester"],
     group: "animals & nature",
-    emoticons: [],
     version: 11,
   },
   {
@@ -5258,7 +4576,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["paw_prints"],
     tags: ["feet", "paw", "print"],
     group: "animals & nature",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -5267,7 +4584,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["turkey"],
     tags: ["bird"],
     group: "animals & nature",
-    emoticons: [],
     version: 1,
   },
   {
@@ -5276,7 +4592,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["chicken", "chicken_face"],
     tags: ["bird"],
     group: "animals & nature",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -5285,7 +4600,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["rooster"],
     tags: ["bird"],
     group: "animals & nature",
-    emoticons: [],
     version: 1,
   },
   {
@@ -5294,7 +4608,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["hatching_chick"],
     tags: ["baby", "bird", "chick", "hatching"],
     group: "animals & nature",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -5303,7 +4616,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["baby_chick"],
     tags: ["baby", "bird", "chick"],
     group: "animals & nature",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -5312,7 +4624,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["hatched_chick"],
     tags: ["baby", "bird", "chick"],
     group: "animals & nature",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -5321,7 +4632,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["bird", "bird_face"],
     tags: ["bird"],
     group: "animals & nature",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -5330,7 +4640,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["penguin", "penguin_face"],
     tags: ["bird"],
     group: "animals & nature",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -5339,7 +4648,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["dove"],
     tags: ["bird", "fly", "peace"],
     group: "animals & nature",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -5348,7 +4656,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["eagle"],
     tags: ["bird"],
     group: "animals & nature",
-    emoticons: [],
     version: 3,
   },
   {
@@ -5357,7 +4664,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["duck"],
     tags: ["bird"],
     group: "animals & nature",
-    emoticons: [],
     version: 3,
   },
   {
@@ -5366,7 +4672,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["swan"],
     tags: ["bird", "cygnet", "ugly duckling"],
     group: "animals & nature",
-    emoticons: [],
     version: 11,
   },
   {
@@ -5375,7 +4680,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["owl"],
     tags: ["bird", "wise"],
     group: "animals & nature",
-    emoticons: [],
     version: 3,
   },
   {
@@ -5384,7 +4688,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["dodo"],
     tags: ["extinction", "large", "mauritius"],
     group: "animals & nature",
-    emoticons: [],
     version: 13,
   },
   {
@@ -5393,7 +4696,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["feather"],
     tags: ["bird", "flight", "light", "plumage"],
     group: "animals & nature",
-    emoticons: [],
     version: 13,
   },
   {
@@ -5402,7 +4704,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flamingo"],
     tags: ["flamboyant", "tropical"],
     group: "animals & nature",
-    emoticons: [],
     version: 12,
   },
   {
@@ -5411,7 +4712,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["peacock"],
     tags: ["bird", "ostentatious", "peahen", "proud"],
     group: "animals & nature",
-    emoticons: [],
     version: 11,
   },
   {
@@ -5420,7 +4720,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["parrot"],
     tags: ["bird", "pirate", "talk"],
     group: "animals & nature",
-    emoticons: [],
     version: 11,
   },
   {
@@ -5429,7 +4728,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["frog", "frog_face"],
     tags: ["face"],
     group: "animals & nature",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -5438,7 +4736,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["crocodile"],
     tags: ["crocodile"],
     group: "animals & nature",
-    emoticons: [],
     version: 1,
   },
   {
@@ -5447,7 +4744,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["turtle"],
     tags: ["terrapin", "tortoise"],
     group: "animals & nature",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -5456,7 +4752,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["lizard"],
     tags: ["reptile"],
     group: "animals & nature",
-    emoticons: [],
     version: 3,
   },
   {
@@ -5465,7 +4760,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["snake"],
     tags: ["bearer", "ophiuchus", "serpent", "zodiac"],
     group: "animals & nature",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -5474,7 +4768,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["dragon_face"],
     tags: ["dragon", "face", "fairy tale"],
     group: "animals & nature",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -5483,7 +4776,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["dragon"],
     tags: ["fairy tale"],
     group: "animals & nature",
-    emoticons: [],
     version: 1,
   },
   {
@@ -5492,7 +4784,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["sauropod"],
     tags: ["brachiosaurus", "brontosaurus", "diplodocus"],
     group: "animals & nature",
-    emoticons: [],
     version: 5,
   },
   {
@@ -5501,7 +4792,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["t-rex", "trex"],
     tags: ["t-rex", "tyrannosaurus rex"],
     group: "animals & nature",
-    emoticons: [],
     version: 5,
   },
   {
@@ -5510,7 +4800,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["spouting_whale"],
     tags: ["face", "spouting", "whale"],
     group: "animals & nature",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -5519,7 +4808,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["whale"],
     tags: ["whale"],
     group: "animals & nature",
-    emoticons: [],
     version: 1,
   },
   {
@@ -5528,7 +4816,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["dolphin"],
     tags: ["flipper"],
     group: "animals & nature",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -5537,7 +4824,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["seal"],
     tags: ["sea lion"],
     group: "animals & nature",
-    emoticons: [],
     version: 13,
   },
   {
@@ -5546,7 +4832,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["fish"],
     tags: ["pisces", "zodiac"],
     group: "animals & nature",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -5555,7 +4840,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["tropical_fish"],
     tags: ["fish", "tropical"],
     group: "animals & nature",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -5564,7 +4848,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["blowfish"],
     tags: ["fish"],
     group: "animals & nature",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -5573,7 +4856,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["shark"],
     tags: ["fish"],
     group: "animals & nature",
-    emoticons: [],
     version: 3,
   },
   {
@@ -5582,7 +4864,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["octopus"],
     tags: ["octopus"],
     group: "animals & nature",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -5591,7 +4872,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["shell"],
     tags: ["shell", "spiral"],
     group: "animals & nature",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -5600,7 +4880,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["snail"],
     tags: ["snail"],
     group: "animals & nature",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -5609,7 +4888,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["butterfly"],
     tags: ["insect", "pretty"],
     group: "animals & nature",
-    emoticons: [],
     version: 3,
   },
   {
@@ -5618,7 +4896,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["bug"],
     tags: ["insect"],
     group: "animals & nature",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -5627,7 +4904,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["ant"],
     tags: ["insect"],
     group: "animals & nature",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -5636,7 +4912,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["bee"],
     tags: ["bee", "insect"],
     group: "animals & nature",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -5645,7 +4920,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["beetle"],
     tags: ["bug", "insect"],
     group: "animals & nature",
-    emoticons: [],
     version: 13,
   },
   {
@@ -5654,7 +4928,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["lady_beetle"],
     tags: ["beetle", "insect", "ladybird", "ladybug"],
     group: "animals & nature",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -5663,7 +4936,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["cricket"],
     tags: ["grasshopper"],
     group: "animals & nature",
-    emoticons: [],
     version: 5,
   },
   {
@@ -5672,7 +4944,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["cockroach"],
     tags: ["insect", "pest", "roach"],
     group: "animals & nature",
-    emoticons: [],
     version: 13,
   },
   {
@@ -5681,7 +4952,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["spider"],
     tags: ["insect"],
     group: "animals & nature",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -5690,7 +4960,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["spider_web"],
     tags: ["spider", "web"],
     group: "animals & nature",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -5699,7 +4968,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["scorpion"],
     tags: ["scorpio", "zodiac"],
     group: "animals & nature",
-    emoticons: [],
     version: 1,
   },
   {
@@ -5708,7 +4976,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["mosquito"],
     tags: ["disease", "fever", "malaria", "pest", "virus"],
     group: "animals & nature",
-    emoticons: [],
     version: 11,
   },
   {
@@ -5717,7 +4984,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["fly"],
     tags: ["disease", "maggot", "pest", "rotting"],
     group: "animals & nature",
-    emoticons: [],
     version: 13,
   },
   {
@@ -5726,7 +4992,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["worm"],
     tags: ["annelid", "earthworm", "parasite"],
     group: "animals & nature",
-    emoticons: [],
     version: 13,
   },
   {
@@ -5735,7 +5000,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["microbe"],
     tags: ["amoeba", "bacteria", "virus"],
     group: "animals & nature",
-    emoticons: [],
     version: 11,
   },
   {
@@ -5744,7 +5008,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["bouquet"],
     tags: ["flower"],
     group: "animals & nature",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -5753,7 +5016,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["cherry_blossom"],
     tags: ["blossom", "cherry", "flower"],
     group: "animals & nature",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -5762,7 +5024,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["white_flower"],
     tags: ["flower"],
     group: "animals & nature",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -5771,7 +5032,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["rosette"],
     tags: ["plant"],
     group: "animals & nature",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -5780,7 +5040,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["rose"],
     tags: ["flower"],
     group: "animals & nature",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -5789,7 +5048,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["wilted_flower"],
     tags: ["flower", "wilted"],
     group: "animals & nature",
-    emoticons: [],
     version: 3,
   },
   {
@@ -5798,7 +5056,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["hibiscus"],
     tags: ["flower"],
     group: "animals & nature",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -5807,7 +5064,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["sunflower"],
     tags: ["flower", "sun"],
     group: "animals & nature",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -5816,7 +5072,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["blossom"],
     tags: ["flower"],
     group: "animals & nature",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -5825,7 +5080,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["tulip"],
     tags: ["flower"],
     group: "animals & nature",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -5834,7 +5088,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["seedling"],
     tags: ["young"],
     group: "animals & nature",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -5843,7 +5096,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["potted_plant"],
     tags: ["boring", "grow", "house", "nurturing", "plant", "useless"],
     group: "animals & nature",
-    emoticons: [],
     version: 13,
   },
   {
@@ -5852,7 +5104,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["evergreen_tree"],
     tags: ["tree"],
     group: "animals & nature",
-    emoticons: [],
     version: 1,
   },
   {
@@ -5861,7 +5112,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["deciduous_tree"],
     tags: ["deciduous", "shedding", "tree"],
     group: "animals & nature",
-    emoticons: [],
     version: 1,
   },
   {
@@ -5870,7 +5120,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["palm_tree"],
     tags: ["palm", "tree"],
     group: "animals & nature",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -5879,7 +5128,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["cactus"],
     tags: ["plant"],
     group: "animals & nature",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -5888,7 +5136,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["ear_of_rice", "sheaf_of_rice"],
     tags: ["ear", "grain", "rice"],
     group: "animals & nature",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -5897,7 +5144,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["herb"],
     tags: ["leaf"],
     group: "animals & nature",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -5906,7 +5152,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["shamrock"],
     tags: ["plant"],
     group: "animals & nature",
-    emoticons: [],
     version: 1,
   },
   {
@@ -5915,7 +5160,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["four_leaf_clover"],
     tags: ["4", "clover", "four", "four-leaf clover", "leaf"],
     group: "animals & nature",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -5924,7 +5168,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["maple_leaf"],
     tags: ["falling", "leaf", "maple"],
     group: "animals & nature",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -5933,7 +5176,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["fallen_leaf"],
     tags: ["falling", "leaf"],
     group: "animals & nature",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -5942,7 +5184,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["leaves"],
     tags: ["blow", "flutter", "leaf", "wind"],
     group: "animals & nature",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -5951,7 +5192,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["mushroom"],
     tags: ["toadstool"],
     group: "animals & nature",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -5960,7 +5200,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["grapes"],
     tags: ["fruit", "grape"],
     group: "food & drink",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -5969,7 +5208,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["melon"],
     tags: ["fruit"],
     group: "food & drink",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -5978,7 +5216,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["watermelon"],
     tags: ["fruit"],
     group: "food & drink",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -5987,7 +5224,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["orange", "tangerine"],
     tags: ["fruit", "orange"],
     group: "food & drink",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -5996,7 +5232,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["lemon"],
     tags: ["citrus", "fruit"],
     group: "food & drink",
-    emoticons: [],
     version: 1,
   },
   {
@@ -6005,7 +5240,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["banana"],
     tags: ["fruit"],
     group: "food & drink",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -6014,7 +5248,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["pineapple"],
     tags: ["fruit"],
     group: "food & drink",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -6023,7 +5256,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["mango"],
     tags: ["fruit", "tropical"],
     group: "food & drink",
-    emoticons: [],
     version: 11,
   },
   {
@@ -6032,7 +5264,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["apple", "red_apple"],
     tags: ["apple", "fruit", "red"],
     group: "food & drink",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -6041,7 +5272,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["green_apple"],
     tags: ["apple", "fruit", "green"],
     group: "food & drink",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -6050,7 +5280,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["pear"],
     tags: ["fruit"],
     group: "food & drink",
-    emoticons: [],
     version: 1,
   },
   {
@@ -6059,7 +5288,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["peach"],
     tags: ["fruit"],
     group: "food & drink",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -6068,7 +5296,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["cherries"],
     tags: ["berries", "cherry", "fruit", "red"],
     group: "food & drink",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -6077,7 +5304,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["strawberry"],
     tags: ["berry", "fruit"],
     group: "food & drink",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -6086,7 +5312,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["blueberries"],
     tags: ["berry", "bilberry", "blue", "blueberry"],
     group: "food & drink",
-    emoticons: [],
     version: 13,
   },
   {
@@ -6095,7 +5320,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["kiwi"],
     tags: ["food", "fruit", "kiwi"],
     group: "food & drink",
-    emoticons: [],
     version: 3,
   },
   {
@@ -6104,7 +5328,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["tomato"],
     tags: ["fruit", "vegetable"],
     group: "food & drink",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -6113,7 +5336,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["olive"],
     tags: ["food"],
     group: "food & drink",
-    emoticons: [],
     version: 13,
   },
   {
@@ -6122,7 +5344,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["coconut"],
     tags: ["palm", "piña colada"],
     group: "food & drink",
-    emoticons: [],
     version: 5,
   },
   {
@@ -6131,7 +5352,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["avocado"],
     tags: ["food", "fruit"],
     group: "food & drink",
-    emoticons: [],
     version: 3,
   },
   {
@@ -6140,7 +5360,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["eggplant"],
     tags: ["aubergine", "vegetable"],
     group: "food & drink",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -6149,7 +5368,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["potato"],
     tags: ["food", "vegetable"],
     group: "food & drink",
-    emoticons: [],
     version: 3,
   },
   {
@@ -6158,7 +5376,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["carrot"],
     tags: ["food", "vegetable"],
     group: "food & drink",
-    emoticons: [],
     version: 3,
   },
   {
@@ -6167,7 +5384,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["corn", "ear_of_corn"],
     tags: ["corn", "ear", "maize", "maze"],
     group: "food & drink",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -6176,7 +5392,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["hot_pepper"],
     tags: ["hot", "pepper"],
     group: "food & drink",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -6185,7 +5400,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["bell_pepper"],
     tags: ["capsicum", "pepper", "vegetable"],
     group: "food & drink",
-    emoticons: [],
     version: 13,
   },
   {
@@ -6194,7 +5408,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["cucumber"],
     tags: ["food", "pickle", "vegetable"],
     group: "food & drink",
-    emoticons: [],
     version: 3,
   },
   {
@@ -6203,7 +5416,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["leafy_green"],
     tags: ["bok choy", "cabbage", "kale", "lettuce"],
     group: "food & drink",
-    emoticons: [],
     version: 11,
   },
   {
@@ -6212,7 +5424,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["broccoli"],
     tags: ["wild cabbage"],
     group: "food & drink",
-    emoticons: [],
     version: 5,
   },
   {
@@ -6221,7 +5432,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["garlic"],
     tags: ["flavoring"],
     group: "food & drink",
-    emoticons: [],
     version: 12,
   },
   {
@@ -6230,7 +5440,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["onion"],
     tags: ["flavoring"],
     group: "food & drink",
-    emoticons: [],
     version: 12,
   },
   {
@@ -6239,7 +5448,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["peanuts"],
     tags: ["food", "nut", "peanut", "vegetable"],
     group: "food & drink",
-    emoticons: [],
     version: 3,
   },
   {
@@ -6248,7 +5456,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["chestnut"],
     tags: ["plant"],
     group: "food & drink",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -6257,7 +5464,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["bread"],
     tags: ["loaf"],
     group: "food & drink",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -6266,7 +5472,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["croissant"],
     tags: ["bread", "breakfast", "food", "french", "roll"],
     group: "food & drink",
-    emoticons: [],
     version: 3,
   },
   {
@@ -6275,7 +5480,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["baguette_bread"],
     tags: ["baguette", "bread", "food", "french"],
     group: "food & drink",
-    emoticons: [],
     version: 3,
   },
   {
@@ -6284,7 +5488,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flatbread"],
     tags: ["arepa", "lavash", "naan", "pita"],
     group: "food & drink",
-    emoticons: [],
     version: 13,
   },
   {
@@ -6293,7 +5496,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["pretzel"],
     tags: ["twisted"],
     group: "food & drink",
-    emoticons: [],
     version: 5,
   },
   {
@@ -6302,7 +5504,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["bagel"],
     tags: ["bakery", "breakfast", "schmear"],
     group: "food & drink",
-    emoticons: [],
     version: 11,
   },
   {
@@ -6311,7 +5512,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["pancakes"],
     tags: ["breakfast", "crêpe", "food", "hotcake", "pancake"],
     group: "food & drink",
-    emoticons: [],
     version: 3,
   },
   {
@@ -6320,7 +5520,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["waffle"],
     tags: ["breakfast", "indecisive", "iron"],
     group: "food & drink",
-    emoticons: [],
     version: 12,
   },
   {
@@ -6329,7 +5528,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["cheese"],
     tags: ["cheese"],
     group: "food & drink",
-    emoticons: [],
     version: 1,
   },
   {
@@ -6338,7 +5536,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["meat_on_bone"],
     tags: ["bone", "meat"],
     group: "food & drink",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -6347,7 +5544,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["poultry_leg"],
     tags: ["bone", "chicken", "drumstick", "leg", "poultry"],
     group: "food & drink",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -6356,7 +5552,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["cut_of_meat"],
     tags: ["chop", "lambchop", "porkchop", "steak"],
     group: "food & drink",
-    emoticons: [],
     version: 5,
   },
   {
@@ -6365,7 +5560,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["bacon"],
     tags: ["breakfast", "food", "meat"],
     group: "food & drink",
-    emoticons: [],
     version: 3,
   },
   {
@@ -6374,7 +5568,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["hamburger"],
     tags: ["burger"],
     group: "food & drink",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -6383,7 +5576,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["french_fries", "fries"],
     tags: ["french", "fries"],
     group: "food & drink",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -6392,7 +5584,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["pizza"],
     tags: ["cheese", "slice"],
     group: "food & drink",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -6401,7 +5592,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["hotdog"],
     tags: ["frankfurter", "hotdog", "sausage"],
     group: "food & drink",
-    emoticons: [],
     version: 1,
   },
   {
@@ -6410,7 +5600,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["sandwich"],
     tags: ["bread"],
     group: "food & drink",
-    emoticons: [],
     version: 5,
   },
   {
@@ -6419,7 +5608,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["taco"],
     tags: ["mexican"],
     group: "food & drink",
-    emoticons: [],
     version: 1,
   },
   {
@@ -6428,7 +5616,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["burrito"],
     tags: ["mexican", "wrap"],
     group: "food & drink",
-    emoticons: [],
     version: 1,
   },
   {
@@ -6437,7 +5624,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["tamale"],
     tags: ["mexican", "wrapped"],
     group: "food & drink",
-    emoticons: [],
     version: 13,
   },
   {
@@ -6446,7 +5632,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["stuffed_flatbread"],
     tags: ["falafel", "flatbread", "food", "gyro", "kebab", "stuffed"],
     group: "food & drink",
-    emoticons: [],
     version: 3,
   },
   {
@@ -6455,7 +5640,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["falafel"],
     tags: ["chickpea", "meatball"],
     group: "food & drink",
-    emoticons: [],
     version: 12,
   },
   {
@@ -6464,7 +5648,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["egg"],
     tags: ["breakfast", "food"],
     group: "food & drink",
-    emoticons: [],
     version: 3,
   },
   {
@@ -6473,7 +5656,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["cooking", "fried_egg"],
     tags: ["breakfast", "egg", "frying", "pan"],
     group: "food & drink",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -6482,7 +5664,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["shallow_pan_of_food"],
     tags: ["casserole", "food", "paella", "pan", "shallow"],
     group: "food & drink",
-    emoticons: [],
     version: 3,
   },
   {
@@ -6491,7 +5672,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["pot_of_food", "stew"],
     tags: ["pot", "stew"],
     group: "food & drink",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -6500,7 +5680,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["fondue"],
     tags: ["cheese", "chocolate", "melted", "pot", "swiss"],
     group: "food & drink",
-    emoticons: [],
     version: 13,
   },
   {
@@ -6509,7 +5688,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["bowl_with_spoon"],
     tags: ["breakfast", "cereal", "congee"],
     group: "food & drink",
-    emoticons: [],
     version: 5,
   },
   {
@@ -6518,7 +5696,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["green_salad", "salad"],
     tags: ["food", "green", "salad"],
     group: "food & drink",
-    emoticons: [],
     version: 3,
   },
   {
@@ -6527,7 +5704,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["popcorn"],
     tags: ["popcorn"],
     group: "food & drink",
-    emoticons: [],
     version: 1,
   },
   {
@@ -6536,7 +5712,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["butter"],
     tags: ["dairy"],
     group: "food & drink",
-    emoticons: [],
     version: 12,
   },
   {
@@ -6545,7 +5720,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["salt"],
     tags: ["condiment", "shaker"],
     group: "food & drink",
-    emoticons: [],
     version: 11,
   },
   {
@@ -6554,7 +5728,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["canned_food"],
     tags: ["can"],
     group: "food & drink",
-    emoticons: [],
     version: 5,
   },
   {
@@ -6563,7 +5736,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["bento", "bento_box"],
     tags: ["bento", "box"],
     group: "food & drink",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -6572,7 +5744,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["rice_cracker"],
     tags: ["cracker", "rice"],
     group: "food & drink",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -6581,7 +5752,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["rice_ball"],
     tags: ["ball", "japanese", "rice"],
     group: "food & drink",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -6590,7 +5760,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["cooked_rice", "rice"],
     tags: ["cooked", "rice"],
     group: "food & drink",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -6599,7 +5768,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["curry", "curry_rice"],
     tags: ["curry", "rice"],
     group: "food & drink",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -6608,7 +5776,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["ramen", "steaming_bowl"],
     tags: ["bowl", "noodle", "ramen", "steaming"],
     group: "food & drink",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -6617,7 +5784,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["spaghetti"],
     tags: ["pasta"],
     group: "food & drink",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -6626,7 +5792,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["sweet_potato"],
     tags: ["potato", "roasted", "sweet"],
     group: "food & drink",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -6635,7 +5800,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["oden"],
     tags: ["kebab", "seafood", "skewer", "stick"],
     group: "food & drink",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -6644,7 +5808,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["sushi"],
     tags: ["sushi"],
     group: "food & drink",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -6653,7 +5816,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["fried_shrimp"],
     tags: ["fried", "prawn", "shrimp", "tempura"],
     group: "food & drink",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -6662,7 +5824,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["fish_cake"],
     tags: ["cake", "fish", "pastry", "swirl"],
     group: "food & drink",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -6671,7 +5832,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["moon_cake"],
     tags: ["autumn", "festival", "yuèbǐng"],
     group: "food & drink",
-    emoticons: [],
     version: 11,
   },
   {
@@ -6680,7 +5840,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["dango"],
     tags: ["dessert", "japanese", "skewer", "stick", "sweet"],
     group: "food & drink",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -6689,7 +5848,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["dumpling"],
     tags: ["empanada", "gyōza", "jiaozi", "pierogi", "potsticker"],
     group: "food & drink",
-    emoticons: [],
     version: 5,
   },
   {
@@ -6698,7 +5856,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["fortune_cookie"],
     tags: ["prophecy"],
     group: "food & drink",
-    emoticons: [],
     version: 5,
   },
   {
@@ -6707,7 +5864,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["takeout_box"],
     tags: ["oyster pail"],
     group: "food & drink",
-    emoticons: [],
     version: 5,
   },
   {
@@ -6716,7 +5872,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["crab"],
     tags: ["cancer", "zodiac"],
     group: "food & drink",
-    emoticons: [],
     version: 1,
   },
   {
@@ -6725,7 +5880,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["lobster"],
     tags: ["bisque", "claws", "seafood"],
     group: "food & drink",
-    emoticons: [],
     version: 11,
   },
   {
@@ -6734,7 +5888,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["shrimp"],
     tags: ["food", "shellfish", "small"],
     group: "food & drink",
-    emoticons: [],
     version: 3,
   },
   {
@@ -6743,7 +5896,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["squid"],
     tags: ["food", "molusc"],
     group: "food & drink",
-    emoticons: [],
     version: 3,
   },
   {
@@ -6752,7 +5904,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["oyster"],
     tags: ["diving", "pearl"],
     group: "food & drink",
-    emoticons: [],
     version: 12,
   },
   {
@@ -6761,7 +5912,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["icecream", "soft_serve"],
     tags: ["cream", "dessert", "ice", "icecream", "soft", "sweet"],
     group: "food & drink",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -6770,7 +5920,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["shaved_ice"],
     tags: ["dessert", "ice", "shaved", "sweet"],
     group: "food & drink",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -6779,7 +5928,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["ice_cream"],
     tags: ["cream", "dessert", "ice", "sweet"],
     group: "food & drink",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -6788,7 +5936,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["doughnut"],
     tags: ["breakfast", "dessert", "donut", "sweet"],
     group: "food & drink",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -6797,7 +5944,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["cookie"],
     tags: ["dessert", "sweet"],
     group: "food & drink",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -6806,7 +5952,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["birthday", "birthday_cake"],
     tags: ["birthday", "cake", "celebration", "dessert", "pastry", "sweet"],
     group: "food & drink",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -6815,7 +5960,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["cake", "shortcake"],
     tags: ["cake", "dessert", "pastry", "slice", "sweet"],
     group: "food & drink",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -6824,7 +5968,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["cupcake"],
     tags: ["bakery", "sweet"],
     group: "food & drink",
-    emoticons: [],
     version: 11,
   },
   {
@@ -6833,7 +5976,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["pie"],
     tags: ["filling", "pastry"],
     group: "food & drink",
-    emoticons: [],
     version: 5,
   },
   {
@@ -6842,7 +5984,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["chocolate_bar"],
     tags: ["bar", "chocolate", "dessert", "sweet"],
     group: "food & drink",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -6851,7 +5992,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["candy"],
     tags: ["dessert", "sweet"],
     group: "food & drink",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -6860,7 +6000,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["lollipop"],
     tags: ["candy", "dessert", "sweet"],
     group: "food & drink",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -6869,7 +6008,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["custard"],
     tags: ["dessert", "pudding", "sweet"],
     group: "food & drink",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -6878,7 +6016,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["honey_pot"],
     tags: ["honey", "honeypot", "pot", "sweet"],
     group: "food & drink",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -6887,7 +6024,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["baby_bottle"],
     tags: ["baby", "bottle", "drink", "milk"],
     group: "food & drink",
-    emoticons: [],
     version: 1,
   },
   {
@@ -6896,7 +6032,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["glass_of_milk", "milk"],
     tags: ["drink", "glass", "milk"],
     group: "food & drink",
-    emoticons: [],
     version: 3,
   },
   {
@@ -6905,7 +6040,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["coffee"],
     tags: ["beverage", "coffee", "drink", "hot", "steaming", "tea"],
     group: "food & drink",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -6914,7 +6048,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["teapot"],
     tags: ["drink", "pot", "tea"],
     group: "food & drink",
-    emoticons: [],
     version: 13,
   },
   {
@@ -6923,7 +6056,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["tea"],
     tags: ["beverage", "cup", "drink", "tea", "teacup"],
     group: "food & drink",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -6932,7 +6064,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["sake"],
     tags: ["bar", "beverage", "bottle", "cup", "drink"],
     group: "food & drink",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -6941,7 +6072,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["champagne"],
     tags: ["bar", "bottle", "cork", "drink", "popping"],
     group: "food & drink",
-    emoticons: [],
     version: 1,
   },
   {
@@ -6950,7 +6080,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["wine_glass"],
     tags: ["bar", "beverage", "drink", "glass", "wine"],
     group: "food & drink",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -6959,7 +6088,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["cocktail"],
     tags: ["bar", "cocktail", "drink", "glass"],
     group: "food & drink",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -6968,7 +6096,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["tropical_drink"],
     tags: ["bar", "drink", "tropical"],
     group: "food & drink",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -6977,7 +6104,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["beer"],
     tags: ["bar", "beer", "drink", "mug"],
     group: "food & drink",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -6986,7 +6112,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["beers"],
     tags: ["bar", "beer", "clink", "drink", "mug"],
     group: "food & drink",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -6995,7 +6120,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["clinking_glasses"],
     tags: ["celebrate", "clink", "drink", "glass"],
     group: "food & drink",
-    emoticons: [],
     version: 3,
   },
   {
@@ -7004,7 +6128,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["tumbler_glass", "whisky"],
     tags: ["glass", "liquor", "shot", "tumbler", "whisky"],
     group: "food & drink",
-    emoticons: [],
     version: 3,
   },
   {
@@ -7013,7 +6136,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["cup_with_straw"],
     tags: ["juice", "soda"],
     group: "food & drink",
-    emoticons: [],
     version: 5,
   },
   {
@@ -7022,7 +6144,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["boba_drink", "bubble_tea"],
     tags: ["bubble", "milk", "pearl", "tea"],
     group: "food & drink",
-    emoticons: [],
     version: 13,
   },
   {
@@ -7031,7 +6152,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["beverage_box", "juice_box"],
     tags: ["beverage", "box", "juice", "straw", "sweet"],
     group: "food & drink",
-    emoticons: [],
     version: 12,
   },
   {
@@ -7040,7 +6160,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["mate"],
     tags: ["drink"],
     group: "food & drink",
-    emoticons: [],
     version: 12,
   },
   {
@@ -7049,7 +6168,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["ice", "ice_cube"],
     tags: ["cold", "ice cube", "iceberg"],
     group: "food & drink",
-    emoticons: [],
     version: 12,
   },
   {
@@ -7058,7 +6176,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["chopsticks"],
     tags: ["hashi"],
     group: "food & drink",
-    emoticons: [],
     version: 5,
   },
   {
@@ -7067,7 +6184,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["fork_knife_plate"],
     tags: ["cooking", "fork", "knife", "plate"],
     group: "food & drink",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -7076,7 +6192,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["fork_and_knife"],
     tags: ["cooking", "cutlery", "fork", "knife"],
     group: "food & drink",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -7085,7 +6200,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["spoon"],
     tags: ["tableware"],
     group: "food & drink",
-    emoticons: [],
     version: 3,
   },
   {
@@ -7094,7 +6208,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["knife"],
     tags: ["cooking", "hocho", "knife", "tool", "weapon"],
     group: "food & drink",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -7103,7 +6216,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["amphora"],
     tags: ["aquarius", "cooking", "drink", "jug", "zodiac"],
     group: "food & drink",
-    emoticons: [],
     version: 1,
   },
   {
@@ -7119,7 +6231,6 @@ export const emojis: EmojiItem[] = [
       "world",
     ],
     group: "travel & places",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -7128,7 +6239,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["earth_americas"],
     tags: ["americas", "earth", "globe", "globe showing americas", "world"],
     group: "travel & places",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -7144,7 +6254,6 @@ export const emojis: EmojiItem[] = [
       "world",
     ],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -7153,7 +6262,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["globe_with_meridians"],
     tags: ["earth", "globe", "meridians", "world"],
     group: "travel & places",
-    emoticons: [],
     version: 1,
   },
   {
@@ -7162,7 +6270,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["world_map"],
     tags: ["map", "world"],
     group: "travel & places",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -7171,7 +6278,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["japan_map"],
     tags: ["japan", "map", "map of japan"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -7180,7 +6286,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["compass"],
     tags: ["magnetic", "navigation", "orienteering"],
     group: "travel & places",
-    emoticons: [],
     version: 11,
   },
   {
@@ -7189,7 +6294,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["mountain_snow"],
     tags: ["cold", "mountain", "snow"],
     group: "travel & places",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -7198,7 +6302,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["mountain"],
     tags: ["mountain"],
     group: "travel & places",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -7207,7 +6310,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["volcano"],
     tags: ["eruption", "mountain"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -7216,7 +6318,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["mount_fuji"],
     tags: ["fuji", "mountain"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -7225,7 +6326,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["camping"],
     tags: ["camping"],
     group: "travel & places",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -7234,7 +6334,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["beach", "beach_with_umbrella"],
     tags: ["beach", "umbrella"],
     group: "travel & places",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -7243,7 +6342,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["desert"],
     tags: ["desert"],
     group: "travel & places",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -7252,7 +6350,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["desert_island", "island"],
     tags: ["desert", "island"],
     group: "travel & places",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -7261,7 +6358,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["national_park"],
     tags: ["park"],
     group: "travel & places",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -7270,7 +6366,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["stadium"],
     tags: ["stadium"],
     group: "travel & places",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -7279,7 +6374,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["classical_building"],
     tags: ["classical"],
     group: "travel & places",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -7288,7 +6382,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["building_construction", "construction_site"],
     tags: ["construction"],
     group: "travel & places",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -7297,7 +6390,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["bricks"],
     tags: ["bricks", "clay", "mortar", "wall"],
     group: "travel & places",
-    emoticons: [],
     version: 11,
   },
   {
@@ -7306,7 +6398,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["rock"],
     tags: ["boulder", "heavy", "solid", "stone"],
     group: "travel & places",
-    emoticons: [],
     version: 13,
   },
   {
@@ -7315,7 +6406,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["wood"],
     tags: ["log", "lumber", "timber"],
     group: "travel & places",
-    emoticons: [],
     version: 13,
   },
   {
@@ -7324,7 +6414,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["hut"],
     tags: ["house", "roundhouse", "yurt"],
     group: "travel & places",
-    emoticons: [],
     version: 13,
   },
   {
@@ -7333,7 +6422,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["homes", "houses"],
     tags: ["houses"],
     group: "travel & places",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -7342,7 +6430,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["derelict_house", "house_abandoned"],
     tags: ["derelict", "house"],
     group: "travel & places",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -7351,7 +6438,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["house"],
     tags: ["home"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -7360,7 +6446,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["house_with_garden"],
     tags: ["garden", "home", "house"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -7369,7 +6454,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["office"],
     tags: ["building"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -7378,7 +6462,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["post_office"],
     tags: ["japanese", "japanese post office", "post"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -7387,7 +6470,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["european_post_office"],
     tags: ["european", "post"],
     group: "travel & places",
-    emoticons: [],
     version: 1,
   },
   {
@@ -7396,7 +6478,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["hospital"],
     tags: ["doctor", "medicine"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -7405,7 +6486,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["bank"],
     tags: ["building"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -7414,7 +6494,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["hotel"],
     tags: ["building"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -7423,7 +6502,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["love_hotel"],
     tags: ["hotel", "love"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -7432,7 +6510,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["convenience_store"],
     tags: ["convenience", "store"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -7441,7 +6518,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["school"],
     tags: ["building"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -7450,7 +6526,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["department_store"],
     tags: ["department", "store"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -7459,7 +6534,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["factory"],
     tags: ["building"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -7468,7 +6542,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["japanese_castle"],
     tags: ["castle", "japanese"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -7477,7 +6550,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["castle", "european_castle"],
     tags: ["european"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -7486,7 +6558,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["wedding"],
     tags: ["chapel", "romance"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -7495,7 +6566,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["tokyo_tower"],
     tags: ["tokyo", "tower"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -7504,7 +6574,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["statue_of_liberty"],
     tags: ["liberty", "statue", "statue of liberty"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -7513,7 +6582,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["church"],
     tags: ["christian", "cross", "religion"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -7522,7 +6590,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["mosque"],
     tags: ["islam", "muslim", "religion"],
     group: "travel & places",
-    emoticons: [],
     version: 1,
   },
   {
@@ -7531,7 +6598,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["hindu_temple"],
     tags: ["hindu", "temple"],
     group: "travel & places",
-    emoticons: [],
     version: 12,
   },
   {
@@ -7540,7 +6606,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["synagogue"],
     tags: ["jew", "jewish", "religion", "temple"],
     group: "travel & places",
-    emoticons: [],
     version: 1,
   },
   {
@@ -7549,7 +6614,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["shinto_shrine"],
     tags: ["religion", "shinto", "shrine"],
     group: "travel & places",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -7558,7 +6622,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["kaaba"],
     tags: ["islam", "muslim", "religion"],
     group: "travel & places",
-    emoticons: [],
     version: 1,
   },
   {
@@ -7567,7 +6630,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["fountain"],
     tags: ["fountain"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -7576,7 +6638,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["tent"],
     tags: ["camping"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -7585,7 +6646,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["foggy"],
     tags: ["fog"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -7594,7 +6654,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["night_with_stars"],
     tags: ["night", "star"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -7603,7 +6662,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["cityscape"],
     tags: ["city"],
     group: "travel & places",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -7612,7 +6670,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["sunrise_over_mountains"],
     tags: ["morning", "mountain", "sun", "sunrise"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -7621,7 +6678,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["sunrise"],
     tags: ["morning", "sun"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -7630,7 +6686,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["city_dusk"],
     tags: ["city", "dusk", "evening", "landscape", "sunset"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -7639,7 +6694,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["city_sunrise", "city_sunset"],
     tags: ["dusk", "sun"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -7648,7 +6702,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["bridge_at_night"],
     tags: ["bridge", "night"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -7657,7 +6710,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["hotsprings"],
     tags: ["hot", "hotsprings", "springs", "steaming"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -7666,7 +6718,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["carousel_horse"],
     tags: ["carousel", "horse"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -7675,7 +6726,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["ferris_wheel"],
     tags: ["amusement park", "ferris", "theme park", "wheel"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -7684,7 +6734,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["roller_coaster"],
     tags: ["amusement park", "coaster", "roller", "theme park"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -7693,7 +6742,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["barber", "barber_pole"],
     tags: ["barber", "haircut", "pole"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -7702,7 +6750,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["circus_tent"],
     tags: ["circus", "tent"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -7711,7 +6758,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["steam_locomotive"],
     tags: ["engine", "railway", "steam", "train"],
     group: "travel & places",
-    emoticons: [],
     version: 1,
   },
   {
@@ -7720,7 +6766,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["railway_car"],
     tags: ["car", "electric", "railway", "train", "tram", "trolleybus"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -7729,7 +6774,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["bullettrain_side"],
     tags: ["railway", "shinkansen", "speed", "train"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -7738,7 +6782,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["bullettrain_front"],
     tags: ["bullet", "railway", "shinkansen", "speed", "train"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -7747,7 +6790,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["train"],
     tags: ["railway"],
     group: "travel & places",
-    emoticons: [],
     version: 1,
   },
   {
@@ -7756,7 +6798,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["metro"],
     tags: ["subway"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -7765,7 +6806,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["light_rail"],
     tags: ["railway"],
     group: "travel & places",
-    emoticons: [],
     version: 1,
   },
   {
@@ -7774,7 +6814,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["station"],
     tags: ["railway", "train"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -7783,7 +6822,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["tram"],
     tags: ["trolleybus"],
     group: "travel & places",
-    emoticons: [],
     version: 1,
   },
   {
@@ -7792,7 +6830,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["monorail"],
     tags: ["vehicle"],
     group: "travel & places",
-    emoticons: [],
     version: 1,
   },
   {
@@ -7801,7 +6838,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["mountain_railway"],
     tags: ["car", "mountain", "railway"],
     group: "travel & places",
-    emoticons: [],
     version: 1,
   },
   {
@@ -7810,7 +6846,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["tram_car"],
     tags: ["car", "tram", "trolleybus"],
     group: "travel & places",
-    emoticons: [],
     version: 1,
   },
   {
@@ -7819,7 +6854,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["bus"],
     tags: ["vehicle"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -7828,7 +6862,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["oncoming_bus"],
     tags: ["bus", "oncoming"],
     group: "travel & places",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -7837,7 +6870,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["trolleybus"],
     tags: ["bus", "tram", "trolley"],
     group: "travel & places",
-    emoticons: [],
     version: 1,
   },
   {
@@ -7846,7 +6878,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["minibus"],
     tags: ["bus"],
     group: "travel & places",
-    emoticons: [],
     version: 1,
   },
   {
@@ -7855,7 +6886,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["ambulance"],
     tags: ["vehicle"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -7864,7 +6894,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["fire_engine"],
     tags: ["engine", "fire", "truck"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -7873,7 +6902,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["police_car"],
     tags: ["car", "patrol", "police"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -7882,7 +6910,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["oncoming_police_car"],
     tags: ["car", "oncoming", "police"],
     group: "travel & places",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -7891,7 +6918,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["taxi"],
     tags: ["vehicle"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -7900,7 +6926,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["oncoming_taxi"],
     tags: ["oncoming", "taxi"],
     group: "travel & places",
-    emoticons: [],
     version: 1,
   },
   {
@@ -7909,7 +6934,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["car", "red_car"],
     tags: ["car"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -7918,7 +6942,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["oncoming_automobile"],
     tags: ["automobile", "car", "oncoming"],
     group: "travel & places",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -7927,7 +6950,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["blue_car", "suv"],
     tags: ["recreational", "sport utility"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -7936,7 +6958,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["pickup_truck"],
     tags: ["pick-up", "pickup", "truck"],
     group: "travel & places",
-    emoticons: [],
     version: 13,
   },
   {
@@ -7945,7 +6966,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["delivery_truck", "truck"],
     tags: ["delivery", "truck"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -7954,7 +6974,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["articulated_lorry"],
     tags: ["lorry", "semi", "truck"],
     group: "travel & places",
-    emoticons: [],
     version: 1,
   },
   {
@@ -7963,7 +6982,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["tractor"],
     tags: ["vehicle"],
     group: "travel & places",
-    emoticons: [],
     version: 1,
   },
   {
@@ -7972,7 +6990,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["racing_car"],
     tags: ["car", "racing"],
     group: "travel & places",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -7981,7 +6998,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["motorcycle"],
     tags: ["racing"],
     group: "travel & places",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -7990,7 +7006,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["motor_scooter"],
     tags: ["motor", "scooter"],
     group: "travel & places",
-    emoticons: [],
     version: 3,
   },
   {
@@ -7999,7 +7014,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["manual_wheelchair"],
     tags: ["accessibility"],
     group: "travel & places",
-    emoticons: [],
     version: 12,
   },
   {
@@ -8008,7 +7022,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["motorized_wheelchair"],
     tags: ["accessibility"],
     group: "travel & places",
-    emoticons: [],
     version: 12,
   },
   {
@@ -8017,7 +7030,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["auto_rickshaw"],
     tags: ["tuk tuk"],
     group: "travel & places",
-    emoticons: [],
     version: 12,
   },
   {
@@ -8026,7 +7038,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["bicycle", "bike"],
     tags: ["bike"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -8035,7 +7046,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["scooter"],
     tags: ["kick", "scooter"],
     group: "travel & places",
-    emoticons: [],
     version: 3,
   },
   {
@@ -8044,7 +7054,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["skateboard"],
     tags: ["board"],
     group: "travel & places",
-    emoticons: [],
     version: 11,
   },
   {
@@ -8053,7 +7062,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["roller_skate"],
     tags: ["roller", "skate"],
     group: "travel & places",
-    emoticons: [],
     version: 13,
   },
   {
@@ -8062,7 +7070,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["busstop"],
     tags: ["bus", "stop"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -8071,7 +7078,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["motorway"],
     tags: ["highway", "road"],
     group: "travel & places",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -8080,7 +7086,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["railway_track"],
     tags: ["railway", "train"],
     group: "travel & places",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -8089,7 +7094,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["oil_drum"],
     tags: ["drum", "oil"],
     group: "travel & places",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -8098,7 +7102,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["fuelpump"],
     tags: ["diesel", "fuel", "fuelpump", "gas", "pump", "station"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -8107,7 +7110,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["rotating_light"],
     tags: ["beacon", "car", "light", "police", "revolving"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -8116,7 +7118,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["traffic_light"],
     tags: ["light", "signal", "traffic"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -8125,7 +7126,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["vertical_traffic_light"],
     tags: ["light", "signal", "traffic"],
     group: "travel & places",
-    emoticons: [],
     version: 1,
   },
   {
@@ -8134,7 +7134,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["octagonal_sign", "stop_sign"],
     tags: ["octagonal", "sign", "stop"],
     group: "travel & places",
-    emoticons: [],
     version: 3,
   },
   {
@@ -8143,7 +7142,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["construction"],
     tags: ["barrier"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -8152,7 +7150,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["anchor"],
     tags: ["ship", "tool"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -8161,7 +7158,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["sailboat"],
     tags: ["boat", "resort", "sea", "yacht"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -8170,7 +7166,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["canoe"],
     tags: ["boat"],
     group: "travel & places",
-    emoticons: [],
     version: 3,
   },
   {
@@ -8179,7 +7174,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["speedboat"],
     tags: ["boat"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -8188,7 +7182,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["cruise_ship", "passenger_ship"],
     tags: ["passenger", "ship"],
     group: "travel & places",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -8197,7 +7190,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["ferry"],
     tags: ["boat", "passenger"],
     group: "travel & places",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -8206,7 +7198,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["motorboat"],
     tags: ["boat", "motorboat"],
     group: "travel & places",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -8215,7 +7206,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["ship"],
     tags: ["boat", "passenger"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -8224,7 +7214,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["airplane"],
     tags: ["aeroplane"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -8233,7 +7222,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["small_airplane"],
     tags: ["aeroplane", "airplane"],
     group: "travel & places",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -8242,7 +7230,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["airplane_departure"],
     tags: ["aeroplane", "airplane", "check-in", "departure", "departures"],
     group: "travel & places",
-    emoticons: [],
     version: 1,
   },
   {
@@ -8251,7 +7238,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["airplane_arriving"],
     tags: ["aeroplane", "airplane", "arrivals", "arriving", "landing"],
     group: "travel & places",
-    emoticons: [],
     version: 1,
   },
   {
@@ -8260,7 +7246,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["parachute"],
     tags: ["hang-glide", "parasail", "skydive"],
     group: "travel & places",
-    emoticons: [],
     version: 12,
   },
   {
@@ -8269,7 +7254,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["seat"],
     tags: ["chair"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -8278,7 +7262,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["helicopter"],
     tags: ["vehicle"],
     group: "travel & places",
-    emoticons: [],
     version: 1,
   },
   {
@@ -8287,7 +7270,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["suspension_railway"],
     tags: ["railway", "suspension"],
     group: "travel & places",
-    emoticons: [],
     version: 1,
   },
   {
@@ -8296,7 +7278,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["mountain_cableway"],
     tags: ["cable", "gondola", "mountain"],
     group: "travel & places",
-    emoticons: [],
     version: 1,
   },
   {
@@ -8305,7 +7286,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["aerial_tramway"],
     tags: ["aerial", "cable", "car", "gondola", "tramway"],
     group: "travel & places",
-    emoticons: [],
     version: 1,
   },
   {
@@ -8314,7 +7294,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["satellite"],
     tags: ["space"],
     group: "travel & places",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -8323,7 +7302,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["rocket"],
     tags: ["space"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -8332,7 +7310,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flying_saucer"],
     tags: ["ufo"],
     group: "travel & places",
-    emoticons: [],
     version: 5,
   },
   {
@@ -8341,7 +7318,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["bellhop"],
     tags: ["bell", "bellhop", "hotel"],
     group: "travel & places",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -8350,7 +7326,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["luggage"],
     tags: ["packing", "travel"],
     group: "travel & places",
-    emoticons: [],
     version: 11,
   },
   {
@@ -8359,7 +7334,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["hourglass"],
     tags: ["sand", "timer"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -8368,7 +7342,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["hourglass_flowing_sand"],
     tags: ["hourglass", "sand", "timer"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -8377,7 +7350,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["watch"],
     tags: ["clock"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -8386,7 +7358,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["alarm_clock"],
     tags: ["alarm", "clock"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -8395,7 +7366,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["stopwatch"],
     tags: ["clock"],
     group: "travel & places",
-    emoticons: [],
     version: 1,
   },
   {
@@ -8404,7 +7374,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["timer_clock"],
     tags: ["clock", "timer"],
     group: "travel & places",
-    emoticons: [],
     version: 1,
   },
   {
@@ -8413,7 +7382,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["clock"],
     tags: ["clock"],
     group: "travel & places",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -8422,7 +7390,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["clock12"],
     tags: ["00", "12", "12:00", "clock", "o’clock", "twelve"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -8431,7 +7398,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["clock1230"],
     tags: ["12", "12:30", "clock", "thirty", "twelve"],
     group: "travel & places",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -8440,7 +7406,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["clock1"],
     tags: ["00", "1", "1:00", "clock", "one", "o’clock"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -8449,7 +7414,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["clock130"],
     tags: ["1", "1:30", "clock", "one", "thirty"],
     group: "travel & places",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -8458,7 +7422,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["clock2"],
     tags: ["00", "2", "2:00", "clock", "o’clock", "two"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -8467,7 +7430,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["clock230"],
     tags: ["2", "2:30", "clock", "thirty", "two"],
     group: "travel & places",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -8476,7 +7438,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["clock3"],
     tags: ["00", "3", "3:00", "clock", "o’clock", "three"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -8485,7 +7446,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["clock330"],
     tags: ["3", "3:30", "clock", "thirty", "three"],
     group: "travel & places",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -8494,7 +7454,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["clock4"],
     tags: ["00", "4", "4:00", "clock", "four", "o’clock"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -8503,7 +7462,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["clock430"],
     tags: ["4", "4:30", "clock", "four", "thirty"],
     group: "travel & places",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -8512,7 +7470,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["clock5"],
     tags: ["00", "5", "5:00", "clock", "five", "o’clock"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -8521,7 +7478,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["clock530"],
     tags: ["5", "5:30", "clock", "five", "thirty"],
     group: "travel & places",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -8530,7 +7486,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["clock6"],
     tags: ["00", "6", "6:00", "clock", "o’clock", "six"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -8539,7 +7494,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["clock630"],
     tags: ["6", "6:30", "clock", "six", "thirty"],
     group: "travel & places",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -8548,7 +7502,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["clock7"],
     tags: ["00", "7", "7:00", "clock", "o’clock", "seven"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -8557,7 +7510,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["clock730"],
     tags: ["7", "7:30", "clock", "seven", "thirty"],
     group: "travel & places",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -8566,7 +7518,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["clock8"],
     tags: ["00", "8", "8:00", "clock", "eight", "o’clock"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -8575,7 +7526,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["clock830"],
     tags: ["8", "8:30", "clock", "eight", "thirty"],
     group: "travel & places",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -8584,7 +7534,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["clock9"],
     tags: ["00", "9", "9:00", "clock", "nine", "o’clock"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -8593,7 +7542,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["clock930"],
     tags: ["9", "9:30", "clock", "nine", "thirty"],
     group: "travel & places",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -8602,7 +7550,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["clock10"],
     tags: ["00", "10", "10:00", "clock", "o’clock", "ten"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -8611,7 +7558,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["clock1030"],
     tags: ["10", "10:30", "clock", "ten", "thirty"],
     group: "travel & places",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -8620,7 +7566,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["clock11"],
     tags: ["00", "11", "11:00", "clock", "eleven", "o’clock"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -8629,7 +7574,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["clock1130"],
     tags: ["11", "11:30", "clock", "eleven", "thirty"],
     group: "travel & places",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -8638,7 +7582,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["new_moon"],
     tags: ["dark", "moon"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -8647,7 +7590,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["waxing_crescent_moon"],
     tags: ["crescent", "moon", "waxing"],
     group: "travel & places",
-    emoticons: [],
     version: 1,
   },
   {
@@ -8656,7 +7598,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["first_quarter_moon"],
     tags: ["moon", "quarter"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -8665,7 +7606,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["waxing_gibbous_moon"],
     tags: ["gibbous", "moon", "waxing"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -8674,7 +7614,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["full_moon"],
     tags: ["full", "moon"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -8683,7 +7622,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["waning_gibbous_moon"],
     tags: ["gibbous", "moon", "waning"],
     group: "travel & places",
-    emoticons: [],
     version: 1,
   },
   {
@@ -8692,7 +7630,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["last_quarter_moon"],
     tags: ["moon", "quarter"],
     group: "travel & places",
-    emoticons: [],
     version: 1,
   },
   {
@@ -8701,7 +7638,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["waning_crescent_moon"],
     tags: ["crescent", "moon", "waning"],
     group: "travel & places",
-    emoticons: [],
     version: 1,
   },
   {
@@ -8710,7 +7646,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["crescent_moon"],
     tags: ["crescent", "moon"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -8719,7 +7654,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["new_moon_with_face"],
     tags: ["face", "moon"],
     group: "travel & places",
-    emoticons: [],
     version: 1,
   },
   {
@@ -8728,7 +7662,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["first_quarter_moon_with_face"],
     tags: ["face", "moon", "quarter"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -8737,7 +7670,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["last_quarter_moon_with_face"],
     tags: ["face", "moon", "quarter"],
     group: "travel & places",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -8746,7 +7678,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["thermometer"],
     tags: ["weather"],
     group: "travel & places",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -8755,7 +7686,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["sun"],
     tags: ["bright", "rays", "sunny"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -8764,7 +7694,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["full_moon_with_face"],
     tags: ["bright", "face", "full", "moon"],
     group: "travel & places",
-    emoticons: [],
     version: 1,
   },
   {
@@ -8773,7 +7702,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["sun_with_face"],
     tags: ["bright", "face", "sun"],
     group: "travel & places",
-    emoticons: [],
     version: 1,
   },
   {
@@ -8782,7 +7710,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["ringed_planet", "saturn"],
     tags: ["saturn", "saturnine"],
     group: "travel & places",
-    emoticons: [],
     version: 12,
   },
   {
@@ -8791,7 +7718,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["star"],
     tags: ["star"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -8800,7 +7726,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["glowing_star", "star2"],
     tags: ["glittery", "glow", "shining", "sparkle", "star"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -8809,7 +7734,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["shooting_star", "stars"],
     tags: ["falling", "shooting", "star"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -8818,7 +7742,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["milky_way"],
     tags: ["space"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -8827,7 +7750,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["cloud"],
     tags: ["weather"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -8836,7 +7758,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["partly_sunny", "sun_behind_cloud"],
     tags: ["cloud", "sun"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -8845,7 +7766,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["stormy", "thunder_cloud_and_rain"],
     tags: ["cloud", "rain", "thunder"],
     group: "travel & places",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -8854,7 +7774,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["sun_behind_small_cloud", "sunny"],
     tags: ["cloud", "sun"],
     group: "travel & places",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -8863,7 +7782,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["cloudy", "sun_behind_large_cloud"],
     tags: ["cloud", "sun"],
     group: "travel & places",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -8872,7 +7790,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["sun_and_rain", "sun_behind_rain_cloud"],
     tags: ["cloud", "rain", "sun"],
     group: "travel & places",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -8881,7 +7798,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["cloud_with_rain", "rainy"],
     tags: ["cloud", "rain"],
     group: "travel & places",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -8890,7 +7806,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["cloud_with_snow", "snowy"],
     tags: ["cloud", "cold", "snow"],
     group: "travel & places",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -8899,7 +7814,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["cloud_with_lightning", "lightning"],
     tags: ["cloud", "lightning"],
     group: "travel & places",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -8908,7 +7822,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["tornado"],
     tags: ["cloud", "whirlwind"],
     group: "travel & places",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -8917,7 +7830,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["fog"],
     tags: ["cloud"],
     group: "travel & places",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -8926,7 +7838,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["wind_blowing_face"],
     tags: ["blow", "cloud", "face", "wind"],
     group: "travel & places",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -8935,7 +7846,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["cyclone"],
     tags: ["dizzy", "hurricane", "twister", "typhoon"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -8944,7 +7854,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["rainbow"],
     tags: ["rain"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -8953,7 +7862,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["closed_umbrella"],
     tags: ["clothing", "rain", "umbrella"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -8962,7 +7870,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["umbrella"],
     tags: ["clothing", "rain"],
     group: "travel & places",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -8971,7 +7878,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["umbrella_with_rain"],
     tags: ["clothing", "drop", "rain", "umbrella"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -8980,7 +7886,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["beach_umbrella", "umbrella_on_ground"],
     tags: ["rain", "sun", "umbrella"],
     group: "travel & places",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -8989,7 +7894,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["high_voltage", "zap"],
     tags: ["danger", "electric", "lightning", "voltage", "zap"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -8998,7 +7902,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["snowflake"],
     tags: ["cold", "snow"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -9007,7 +7910,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["snowman2"],
     tags: ["cold", "snow"],
     group: "travel & places",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -9016,7 +7918,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["snowman"],
     tags: ["cold", "snow", "snowman"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -9025,7 +7926,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["comet"],
     tags: ["space"],
     group: "travel & places",
-    emoticons: [],
     version: 1,
   },
   {
@@ -9034,7 +7934,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["fire"],
     tags: ["flame", "tool"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -9043,7 +7942,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["droplet"],
     tags: ["cold", "comic", "drop", "sweat"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -9052,7 +7950,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["ocean", "water_wave"],
     tags: ["ocean", "water", "wave"],
     group: "travel & places",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -9061,7 +7958,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["jack_o_lantern"],
     tags: ["celebration", "halloween", "jack", "lantern"],
     group: "activities",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -9070,7 +7966,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["christmas_tree"],
     tags: ["celebration", "christmas", "tree"],
     group: "activities",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -9079,7 +7974,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["fireworks"],
     tags: ["celebration"],
     group: "activities",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -9088,7 +7982,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["sparkler"],
     tags: ["celebration", "fireworks", "sparkle"],
     group: "activities",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -9097,7 +7990,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["firecracker"],
     tags: ["dynamite", "explosive", "fireworks"],
     group: "activities",
-    emoticons: [],
     version: 11,
   },
   {
@@ -9106,7 +7998,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["sparkles"],
     tags: ["*", "sparkle", "star"],
     group: "activities",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -9115,7 +8006,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["balloon"],
     tags: ["celebration"],
     group: "activities",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -9124,7 +8014,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["party", "party_popper", "tada"],
     tags: ["celebration", "party", "popper", "tada"],
     group: "activities",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -9133,7 +8022,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["confetti_ball"],
     tags: ["ball", "celebration", "confetti"],
     group: "activities",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -9142,7 +8030,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["tanabata_tree"],
     tags: ["banner", "celebration", "japanese", "tree"],
     group: "activities",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -9151,7 +8038,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["bamboo"],
     tags: ["bamboo", "celebration", "japanese", "pine"],
     group: "activities",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -9160,7 +8046,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["dolls"],
     tags: ["celebration", "doll", "festival", "japanese", "japanese dolls"],
     group: "activities",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -9169,7 +8054,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["carp_streamer", "flags"],
     tags: ["carp", "celebration", "streamer"],
     group: "activities",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -9178,7 +8062,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["wind_chime"],
     tags: ["bell", "celebration", "chime", "wind"],
     group: "activities",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -9187,7 +8070,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["moon_ceremony", "rice_scene"],
     tags: ["celebration", "ceremony", "moon"],
     group: "activities",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -9196,7 +8078,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["red_envelope"],
     tags: ["gift", "good luck", "hóngbāo", "lai see", "money"],
     group: "activities",
-    emoticons: [],
     version: 11,
   },
   {
@@ -9205,7 +8086,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["ribbon"],
     tags: ["celebration"],
     group: "activities",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -9214,7 +8094,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["gift"],
     tags: ["box", "celebration", "gift", "present", "wrapped"],
     group: "activities",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -9223,7 +8102,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["reminder_ribbon"],
     tags: ["celebration", "reminder", "ribbon"],
     group: "activities",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -9232,7 +8110,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["admission_tickets", "tickets"],
     tags: ["admission", "ticket"],
     group: "activities",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -9241,7 +8118,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["ticket"],
     tags: ["admission"],
     group: "activities",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -9250,7 +8126,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["military_medal"],
     tags: ["celebration", "medal", "military"],
     group: "activities",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -9259,7 +8134,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["trophy"],
     tags: ["prize"],
     group: "activities",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -9268,7 +8142,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["sports_medal"],
     tags: ["medal"],
     group: "activities",
-    emoticons: [],
     version: 1,
   },
   {
@@ -9277,7 +8150,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["1st", "first_place_medal"],
     tags: ["first", "gold", "medal"],
     group: "activities",
-    emoticons: [],
     version: 3,
   },
   {
@@ -9286,7 +8158,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["2nd", "second_place_medal"],
     tags: ["medal", "second", "silver"],
     group: "activities",
-    emoticons: [],
     version: 3,
   },
   {
@@ -9295,7 +8166,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["3rd", "third_place_medal"],
     tags: ["bronze", "medal", "third"],
     group: "activities",
-    emoticons: [],
     version: 3,
   },
   {
@@ -9304,7 +8174,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["soccer"],
     tags: ["ball", "football", "soccer"],
     group: "activities",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -9313,7 +8182,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["baseball"],
     tags: ["ball"],
     group: "activities",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -9322,7 +8190,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["softball"],
     tags: ["ball", "glove", "underarm"],
     group: "activities",
-    emoticons: [],
     version: 11,
   },
   {
@@ -9331,7 +8198,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["basketball"],
     tags: ["ball", "hoop"],
     group: "activities",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -9340,7 +8206,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["volleyball"],
     tags: ["ball", "game"],
     group: "activities",
-    emoticons: [],
     version: 1,
   },
   {
@@ -9349,7 +8214,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["football"],
     tags: ["american", "ball", "football"],
     group: "activities",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -9358,7 +8222,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["rugby_football"],
     tags: ["ball", "football", "rugby"],
     group: "activities",
-    emoticons: [],
     version: 1,
   },
   {
@@ -9367,7 +8230,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["tennis"],
     tags: ["ball", "racquet"],
     group: "activities",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -9376,7 +8238,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flying_disc"],
     tags: ["ultimate"],
     group: "activities",
-    emoticons: [],
     version: 11,
   },
   {
@@ -9385,7 +8246,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["bowling"],
     tags: ["ball", "game"],
     group: "activities",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -9394,7 +8254,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["cricket_game"],
     tags: ["ball", "bat", "game"],
     group: "activities",
-    emoticons: [],
     version: 1,
   },
   {
@@ -9403,7 +8262,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["field_hockey"],
     tags: ["ball", "field", "game", "hockey", "stick"],
     group: "activities",
-    emoticons: [],
     version: 1,
   },
   {
@@ -9412,7 +8270,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["hockey"],
     tags: ["game", "hockey", "ice", "puck", "stick"],
     group: "activities",
-    emoticons: [],
     version: 1,
   },
   {
@@ -9421,7 +8278,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["lacrosse"],
     tags: ["ball", "goal", "stick"],
     group: "activities",
-    emoticons: [],
     version: 11,
   },
   {
@@ -9430,7 +8286,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["ping_pong"],
     tags: ["ball", "bat", "game", "paddle", "table tennis"],
     group: "activities",
-    emoticons: [],
     version: 1,
   },
   {
@@ -9439,7 +8294,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["badminton"],
     tags: ["birdie", "game", "racquet", "shuttlecock"],
     group: "activities",
-    emoticons: [],
     version: 1,
   },
   {
@@ -9448,7 +8302,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["boxing_glove"],
     tags: ["boxing", "glove"],
     group: "activities",
-    emoticons: [],
     version: 3,
   },
   {
@@ -9457,7 +8310,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["martial_arts_uniform"],
     tags: ["judo", "karate", "martial arts", "taekwondo", "uniform"],
     group: "activities",
-    emoticons: [],
     version: 3,
   },
   {
@@ -9466,7 +8318,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["goal_net"],
     tags: ["goal", "net"],
     group: "activities",
-    emoticons: [],
     version: 3,
   },
   {
@@ -9475,7 +8326,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["golf"],
     tags: ["golf", "hole"],
     group: "activities",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -9484,7 +8334,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["ice_skate"],
     tags: ["ice", "skate"],
     group: "activities",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -9493,7 +8342,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["fishing_pole", "fishing_pole_and_fish"],
     tags: ["fish", "pole"],
     group: "activities",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -9502,7 +8350,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["diving_mask"],
     tags: ["diving", "scuba", "snorkeling"],
     group: "activities",
-    emoticons: [],
     version: 12,
   },
   {
@@ -9511,7 +8358,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["running_shirt", "running_shirt_with_sash"],
     tags: ["athletics", "running", "sash", "shirt"],
     group: "activities",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -9520,7 +8366,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["ski"],
     tags: ["ski", "snow"],
     group: "activities",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -9529,7 +8374,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["sled"],
     tags: ["sledge", "sleigh"],
     group: "activities",
-    emoticons: [],
     version: 5,
   },
   {
@@ -9538,7 +8382,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["curling_stone"],
     tags: ["game", "rock"],
     group: "activities",
-    emoticons: [],
     version: 5,
   },
   {
@@ -9547,7 +8390,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["bullseye", "dart", "direct_hit"],
     tags: ["dart", "direct hit", "game", "hit", "target"],
     group: "activities",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -9556,7 +8398,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["yo_yo"],
     tags: ["fluctuate", "toy"],
     group: "activities",
-    emoticons: [],
     version: 12,
   },
   {
@@ -9565,7 +8406,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["kite"],
     tags: ["fly", "soar"],
     group: "activities",
-    emoticons: [],
     version: 12,
   },
   {
@@ -9574,7 +8414,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["gun", "pistol"],
     tags: ["gun", "handgun", "pistol", "revolver", "tool", "water", "weapon"],
     group: "activities",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -9583,7 +8422,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["8ball", "billiards"],
     tags: ["8", "ball", "billiard", "eight", "game"],
     group: "activities",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -9592,7 +8430,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["crystal_ball"],
     tags: ["ball", "crystal", "fairy tale", "fantasy", "fortune", "tool"],
     group: "activities",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -9601,7 +8438,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["magic_wand"],
     tags: ["magic", "witch", "wizard"],
     group: "activities",
-    emoticons: [],
     version: 13,
   },
   {
@@ -9610,7 +8446,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["controller", "video_game"],
     tags: ["controller", "game"],
     group: "activities",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -9619,7 +8454,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["joystick"],
     tags: ["game", "video game"],
     group: "activities",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -9628,7 +8462,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["slot_machine"],
     tags: ["game", "slot"],
     group: "activities",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -9637,7 +8470,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["game_die"],
     tags: ["dice", "die", "game"],
     group: "activities",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -9646,7 +8478,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["jigsaw", "puzzle_piece"],
     tags: ["clue", "interlocking", "jigsaw", "piece", "puzzle"],
     group: "activities",
-    emoticons: [],
     version: 11,
   },
   {
@@ -9655,7 +8486,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["teddy_bear"],
     tags: ["plaything", "plush", "stuffed", "toy"],
     group: "activities",
-    emoticons: [],
     version: 11,
   },
   {
@@ -9664,7 +8494,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["pinata"],
     tags: ["celebration", "party"],
     group: "activities",
-    emoticons: [],
     version: 13,
   },
   {
@@ -9673,7 +8502,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["nesting_dolls"],
     tags: ["doll", "nesting", "russia"],
     group: "activities",
-    emoticons: [],
     version: 13,
   },
   {
@@ -9682,7 +8510,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["spades"],
     tags: ["card", "game"],
     group: "activities",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -9691,7 +8518,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["hearts"],
     tags: ["card", "game"],
     group: "activities",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -9700,7 +8526,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["diamonds"],
     tags: ["card", "game"],
     group: "activities",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -9709,7 +8534,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["clubs"],
     tags: ["card", "game"],
     group: "activities",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -9718,7 +8542,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["chess_pawn"],
     tags: ["chess", "dupe", "expendable"],
     group: "activities",
-    emoticons: [],
     version: 11,
   },
   {
@@ -9727,7 +8550,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["black_joker"],
     tags: ["card", "game", "wildcard"],
     group: "activities",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -9736,7 +8558,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["mahjong"],
     tags: ["game", "mahjong", "red"],
     group: "activities",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -9745,7 +8566,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flower_playing_cards"],
     tags: ["card", "flower", "game", "japanese", "playing"],
     group: "activities",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -9754,7 +8574,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["performing_arts"],
     tags: ["art", "mask", "performing", "theater", "theatre"],
     group: "activities",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -9763,7 +8582,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["frame_with_picture", "framed_picture"],
     tags: ["art", "frame", "museum", "painting", "picture"],
     group: "activities",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -9772,7 +8590,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["art", "palette"],
     tags: ["art", "museum", "painting", "palette"],
     group: "activities",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -9781,7 +8598,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["thread"],
     tags: ["needle", "sewing", "spool", "string"],
     group: "activities",
-    emoticons: [],
     version: 11,
   },
   {
@@ -9797,7 +8613,6 @@ export const emojis: EmojiItem[] = [
       "tailoring",
     ],
     group: "activities",
-    emoticons: [],
     version: 13,
   },
   {
@@ -9806,7 +8621,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["yarn"],
     tags: ["ball", "crochet", "knit"],
     group: "activities",
-    emoticons: [],
     version: 11,
   },
   {
@@ -9815,7 +8629,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["knot"],
     tags: ["rope", "tangled", "tie", "twine", "twist"],
     group: "activities",
-    emoticons: [],
     version: 13,
   },
   {
@@ -9824,7 +8637,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["eyeglasses", "glasses"],
     tags: ["clothing", "eye", "eyeglasses", "eyewear"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -9833,7 +8645,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["sunglasses"],
     tags: ["dark", "eye", "eyewear", "glasses"],
     group: "objects",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -9842,7 +8653,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["goggles"],
     tags: ["eye protection", "swimming", "welding"],
     group: "objects",
-    emoticons: [],
     version: 11,
   },
   {
@@ -9851,7 +8661,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["lab_coat"],
     tags: ["doctor", "experiment", "scientist"],
     group: "objects",
-    emoticons: [],
     version: 11,
   },
   {
@@ -9860,7 +8669,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["safety_vest"],
     tags: ["emergency", "safety", "vest"],
     group: "objects",
-    emoticons: [],
     version: 12,
   },
   {
@@ -9869,7 +8677,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["necktie"],
     tags: ["clothing", "tie"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -9878,7 +8685,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["shirt"],
     tags: ["clothing", "shirt", "tshirt"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -9887,7 +8693,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["jeans"],
     tags: ["clothing", "pants", "trousers"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -9896,7 +8701,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["scarf"],
     tags: ["neck"],
     group: "objects",
-    emoticons: [],
     version: 5,
   },
   {
@@ -9905,7 +8709,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["gloves"],
     tags: ["hand"],
     group: "objects",
-    emoticons: [],
     version: 5,
   },
   {
@@ -9914,7 +8717,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["coat"],
     tags: ["jacket"],
     group: "objects",
-    emoticons: [],
     version: 5,
   },
   {
@@ -9923,7 +8725,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["socks"],
     tags: ["stocking"],
     group: "objects",
-    emoticons: [],
     version: 5,
   },
   {
@@ -9932,7 +8733,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["dress"],
     tags: ["clothing"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -9941,7 +8741,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["kimono"],
     tags: ["clothing"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -9950,7 +8749,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["sari"],
     tags: ["clothing", "dress"],
     group: "objects",
-    emoticons: [],
     version: 12,
   },
   {
@@ -9959,7 +8757,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["one_piece_swimsuit"],
     tags: ["bathing suit"],
     group: "objects",
-    emoticons: [],
     version: 12,
   },
   {
@@ -9968,7 +8765,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["briefs"],
     tags: ["bathing suit", "one-piece", "swimsuit", "underwear"],
     group: "objects",
-    emoticons: [],
     version: 12,
   },
   {
@@ -9977,7 +8773,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["shorts"],
     tags: ["bathing suit", "pants", "underwear"],
     group: "objects",
-    emoticons: [],
     version: 12,
   },
   {
@@ -9986,7 +8781,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["bikini"],
     tags: ["clothing", "swim"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -9995,7 +8789,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["womans_clothes"],
     tags: ["clothing", "woman"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10004,7 +8797,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["purse"],
     tags: ["clothing", "coin"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10013,7 +8805,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["handbag"],
     tags: ["bag", "clothing", "purse"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10022,7 +8813,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["clutch_bag", "pouch"],
     tags: ["bag", "clothing", "pouch"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10031,7 +8821,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["shopping_bags"],
     tags: ["bag", "hotel", "shopping"],
     group: "objects",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -10040,7 +8829,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["backpack", "school_satchel"],
     tags: ["bag", "rucksack", "satchel", "school"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10049,7 +8837,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["thong_sandal"],
     tags: ["beach sandals", "sandals", "thong sandals", "thongs", "zōri"],
     group: "objects",
-    emoticons: [],
     version: 13,
   },
   {
@@ -10058,7 +8845,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["mans_shoe"],
     tags: ["clothing", "man", "shoe"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10067,7 +8853,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["athletic_shoe", "sneaker"],
     tags: ["athletic", "clothing", "shoe", "sneaker"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10076,7 +8861,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["hiking_boot"],
     tags: ["backpacking", "boot", "camping", "hiking"],
     group: "objects",
-    emoticons: [],
     version: 11,
   },
   {
@@ -10085,7 +8869,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flat_shoe", "womans_flat_shoe"],
     tags: ["ballet flat", "slip-on", "slipper"],
     group: "objects",
-    emoticons: [],
     version: 11,
   },
   {
@@ -10094,7 +8877,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["high_heel"],
     tags: ["clothing", "heel", "shoe", "woman"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10103,7 +8885,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["sandal"],
     tags: ["clothing", "sandal", "shoe", "woman"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10112,7 +8893,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["ballet_shoes"],
     tags: ["ballet", "dance"],
     group: "objects",
-    emoticons: [],
     version: 12,
   },
   {
@@ -10121,7 +8901,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["boot"],
     tags: ["boot", "clothing", "shoe", "woman"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10130,7 +8909,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["crown"],
     tags: ["clothing", "king", "queen"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10139,7 +8917,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["womans_hat"],
     tags: ["clothing", "hat", "woman"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10148,7 +8925,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["top_hat", "tophat"],
     tags: ["clothing", "hat", "top", "tophat"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10157,7 +8933,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["graduation_cap", "mortar_board"],
     tags: ["cap", "celebration", "clothing", "graduation", "hat"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10166,7 +8941,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["billed_cap"],
     tags: ["baseball cap"],
     group: "objects",
-    emoticons: [],
     version: 5,
   },
   {
@@ -10175,7 +8949,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["military_helmet"],
     tags: ["army", "helmet", "military", "soldier", "warrior"],
     group: "objects",
-    emoticons: [],
     version: 13,
   },
   {
@@ -10184,7 +8957,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["helmet_with_cross", "rescue_worker_helmet"],
     tags: ["aid", "cross", "face", "hat", "helmet"],
     group: "objects",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -10193,7 +8965,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["prayer_beads"],
     tags: ["beads", "clothing", "necklace", "prayer", "religion"],
     group: "objects",
-    emoticons: [],
     version: 1,
   },
   {
@@ -10202,7 +8973,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["lipstick"],
     tags: ["cosmetics", "makeup"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10211,7 +8981,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["ring"],
     tags: ["diamond"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10220,7 +8989,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["gem"],
     tags: ["diamond", "gem", "jewel"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10229,7 +8997,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["mute", "no_sound"],
     tags: ["mute", "quiet", "silent", "speaker"],
     group: "objects",
-    emoticons: [],
     version: 1,
   },
   {
@@ -10238,7 +9005,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["low_volume", "quiet_sound", "speaker"],
     tags: ["soft"],
     group: "objects",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -10247,7 +9013,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["medium_volumne", "sound"],
     tags: ["medium"],
     group: "objects",
-    emoticons: [],
     version: 1,
   },
   {
@@ -10256,7 +9021,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["high_volume", "loud_sound"],
     tags: ["loud"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10265,7 +9029,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["loudspeaker"],
     tags: ["loud", "public address"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10274,7 +9037,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["mega", "megaphone"],
     tags: ["cheering"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10283,7 +9045,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["postal_horn"],
     tags: ["horn", "post", "postal"],
     group: "objects",
-    emoticons: [],
     version: 1,
   },
   {
@@ -10292,7 +9053,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["bell"],
     tags: ["bell"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10301,7 +9061,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["no_bell"],
     tags: ["bell", "forbidden", "mute", "quiet", "silent"],
     group: "objects",
-    emoticons: [],
     version: 1,
   },
   {
@@ -10310,7 +9069,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["musical_score"],
     tags: ["music", "score"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10319,7 +9077,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["musical_note"],
     tags: ["music", "note"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10328,7 +9085,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["musical_notes", "notes"],
     tags: ["music", "note", "notes"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10337,7 +9093,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["studio_microphone"],
     tags: ["mic", "microphone", "music", "studio"],
     group: "objects",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -10346,7 +9101,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["level_slider"],
     tags: ["level", "music", "slider"],
     group: "objects",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -10355,7 +9109,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["control_knobs"],
     tags: ["control", "knobs", "music"],
     group: "objects",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -10364,7 +9117,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["microphone"],
     tags: ["karaoke", "mic"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10373,7 +9125,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["headphones"],
     tags: ["earbud"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10382,7 +9133,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["radio"],
     tags: ["video"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10391,7 +9141,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["saxophone"],
     tags: ["instrument", "music", "sax"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10400,7 +9149,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["accordion"],
     tags: ["concertina", "squeeze box"],
     group: "objects",
-    emoticons: [],
     version: 13,
   },
   {
@@ -10409,7 +9157,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["guitar"],
     tags: ["instrument", "music"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10418,7 +9165,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["musical_keyboard"],
     tags: ["instrument", "keyboard", "music", "piano"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10427,7 +9173,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["trumpet"],
     tags: ["instrument", "music"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10436,7 +9181,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["violin"],
     tags: ["instrument", "music"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10445,7 +9189,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["banjo"],
     tags: ["music", "stringed"],
     group: "objects",
-    emoticons: [],
     version: 12,
   },
   {
@@ -10454,7 +9197,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["drum"],
     tags: ["drumsticks", "music"],
     group: "objects",
-    emoticons: [],
     version: 3,
   },
   {
@@ -10463,7 +9205,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["long_drum"],
     tags: ["beat", "conga", "drum", "rhythm"],
     group: "objects",
-    emoticons: [],
     version: 13,
   },
   {
@@ -10472,7 +9213,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["android", "iphone", "mobile_phone"],
     tags: ["cell", "mobile", "phone", "telephone"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10481,7 +9221,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["calling", "mobile_phone_arrow"],
     tags: ["arrow", "cell", "mobile", "phone", "receive"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10490,7 +9229,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["telephone"],
     tags: ["phone"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10499,7 +9237,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["telephone_receiver"],
     tags: ["phone", "receiver", "telephone"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10508,7 +9245,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["pager"],
     tags: ["pager"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10517,7 +9253,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["fax", "fax_machine"],
     tags: ["fax"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10526,7 +9261,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["battery"],
     tags: ["battery"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10535,7 +9269,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["electric_plug"],
     tags: ["electric", "electricity", "plug"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10544,7 +9277,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["laptop"],
     tags: ["computer", "pc", "personal"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10553,7 +9285,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["computer", "desktop_computer"],
     tags: ["computer", "desktop"],
     group: "objects",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -10562,7 +9293,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["printer"],
     tags: ["computer"],
     group: "objects",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -10571,7 +9301,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["keyboard"],
     tags: ["computer"],
     group: "objects",
-    emoticons: [],
     version: 1,
   },
   {
@@ -10580,7 +9309,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["computer_mouse"],
     tags: ["computer"],
     group: "objects",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -10589,7 +9317,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["trackball"],
     tags: ["computer"],
     group: "objects",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -10598,7 +9325,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["computer_disk", "minidisc"],
     tags: ["computer", "disk", "minidisk", "optical"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10607,7 +9333,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["floppy_disk"],
     tags: ["computer", "disk", "floppy"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10616,7 +9341,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["cd", "optical_disk"],
     tags: ["cd", "computer", "disk", "optical"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10625,7 +9349,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["dvd"],
     tags: ["blu-ray", "computer", "disk", "optical"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10634,7 +9357,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["abacus"],
     tags: ["calculation"],
     group: "objects",
-    emoticons: [],
     version: 11,
   },
   {
@@ -10643,7 +9365,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["movie_camera"],
     tags: ["camera", "cinema", "movie"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10652,7 +9373,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["film_frames"],
     tags: ["cinema", "film", "frames", "movie"],
     group: "objects",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -10661,7 +9381,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["film_projector"],
     tags: ["cinema", "film", "movie", "projector", "video"],
     group: "objects",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -10670,7 +9389,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["clapper"],
     tags: ["clapper", "movie"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10679,7 +9397,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["tv"],
     tags: ["tv", "video"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10688,7 +9405,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["camera"],
     tags: ["video"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10697,7 +9413,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["camera_with_flash"],
     tags: ["camera", "flash", "video"],
     group: "objects",
-    emoticons: [],
     version: 1,
   },
   {
@@ -10706,7 +9421,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["video_camera"],
     tags: ["camera", "video"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10715,7 +9429,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["vhs", "videocassette"],
     tags: ["tape", "vhs", "video"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10724,7 +9437,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["mag"],
     tags: ["glass", "magnifying", "search", "tool"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10733,7 +9445,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["mag_right"],
     tags: ["glass", "magnifying", "search", "tool"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10742,7 +9453,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["candle"],
     tags: ["light"],
     group: "objects",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -10751,7 +9461,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["bulb", "light_bulb"],
     tags: ["bulb", "comic", "electric", "idea", "light"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10760,7 +9469,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flashlight"],
     tags: ["electric", "light", "tool", "torch"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10769,7 +9477,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["izakaya_lantern", "red_paper_lantern"],
     tags: ["bar", "lantern", "light", "red"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10778,7 +9485,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["diya_lamp"],
     tags: ["diya", "lamp", "oil"],
     group: "objects",
-    emoticons: [],
     version: 12,
   },
   {
@@ -10787,7 +9493,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["notebook_with_decorative_cover"],
     tags: ["book", "cover", "decorated", "notebook"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10796,7 +9501,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["closed_book"],
     tags: ["book", "closed"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10805,7 +9509,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["book", "open_book"],
     tags: ["book", "open"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10814,7 +9517,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["green_book"],
     tags: ["book", "green"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10823,7 +9525,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["blue_book"],
     tags: ["blue", "book"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10832,7 +9533,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["orange_book"],
     tags: ["book", "orange"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10841,7 +9541,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["books"],
     tags: ["book"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10850,7 +9549,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["notebook"],
     tags: ["notebook"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10859,7 +9557,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["ledger"],
     tags: ["notebook"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10868,7 +9565,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["page_with_curl"],
     tags: ["curl", "document", "page"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10877,7 +9573,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["scroll"],
     tags: ["paper"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10886,7 +9581,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["page_facing_up"],
     tags: ["document", "page"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10895,7 +9589,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["newspaper"],
     tags: ["news", "paper"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10904,7 +9597,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["rolled_up_newspaper"],
     tags: ["news", "newspaper", "paper", "rolled"],
     group: "objects",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -10913,7 +9605,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["bookmark_tabs"],
     tags: ["bookmark", "mark", "marker", "tabs"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10922,7 +9613,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["bookmark"],
     tags: ["mark"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10931,7 +9621,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["label"],
     tags: ["label"],
     group: "objects",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -10940,7 +9629,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["moneybag"],
     tags: ["bag", "dollar", "money", "moneybag"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10949,7 +9637,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["coin"],
     tags: ["gold", "metal", "money", "silver", "treasure"],
     group: "objects",
-    emoticons: [],
     version: 13,
   },
   {
@@ -10958,7 +9645,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["yen"],
     tags: ["banknote", "bill", "currency", "money", "note", "yen"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10967,7 +9653,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["dollar"],
     tags: ["banknote", "bill", "currency", "dollar", "money", "note"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -10976,7 +9661,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["euro"],
     tags: ["banknote", "bill", "currency", "euro", "money", "note"],
     group: "objects",
-    emoticons: [],
     version: 1,
   },
   {
@@ -10985,7 +9669,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["pound"],
     tags: ["banknote", "bill", "currency", "money", "note", "pound"],
     group: "objects",
-    emoticons: [],
     version: 1,
   },
   {
@@ -10994,7 +9677,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["money_with_wings"],
     tags: ["banknote", "bill", "fly", "money", "wings"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -11003,7 +9685,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["credit_card"],
     tags: ["card", "credit", "money"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -11012,7 +9693,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["receipt"],
     tags: ["accounting", "bookkeeping", "evidence", "proof"],
     group: "objects",
-    emoticons: [],
     version: 11,
   },
   {
@@ -11021,7 +9701,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["chart"],
     tags: ["chart", "graph", "growth", "money", "yen"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -11030,7 +9709,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["envelope"],
     tags: ["email", "letter"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -11039,7 +9717,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["e-mail", "email"],
     tags: ["email", "letter", "mail"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -11048,7 +9725,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["incoming_envelope"],
     tags: ["e-mail", "email", "envelope", "incoming", "letter", "receive"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -11057,7 +9733,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["envelope_with_arrow"],
     tags: ["arrow", "e-mail", "email", "envelope", "outgoing"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -11066,7 +9741,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["outbox_tray"],
     tags: ["box", "letter", "mail", "outbox", "sent", "tray"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -11075,7 +9749,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["inbox_tray"],
     tags: ["box", "inbox", "letter", "mail", "receive", "tray"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -11084,7 +9757,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["package"],
     tags: ["box", "parcel"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -11093,7 +9765,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["mailbox"],
     tags: ["closed", "mail", "mailbox", "postbox"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -11102,7 +9773,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["mailbox_closed"],
     tags: ["closed", "lowered", "mail", "mailbox", "postbox"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -11111,7 +9781,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["mailbox_with_mail"],
     tags: ["mail", "mailbox", "open", "postbox"],
     group: "objects",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -11120,7 +9789,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["mailbox_with_no_mail"],
     tags: ["lowered", "mail", "mailbox", "open", "postbox"],
     group: "objects",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -11129,7 +9797,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["postbox"],
     tags: ["mail", "mailbox"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -11138,7 +9805,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["ballot_box"],
     tags: ["ballot", "box"],
     group: "objects",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -11147,7 +9813,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["pencil"],
     tags: ["pencil"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -11156,7 +9821,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["black_nib"],
     tags: ["nib", "pen"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -11165,7 +9829,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["fountain_pen"],
     tags: ["fountain", "pen"],
     group: "objects",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -11174,7 +9837,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["pen"],
     tags: ["ballpoint"],
     group: "objects",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -11183,7 +9845,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["paintbrush"],
     tags: ["painting"],
     group: "objects",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -11192,7 +9853,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["crayon"],
     tags: ["crayon"],
     group: "objects",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -11201,7 +9861,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["memo"],
     tags: ["pencil"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -11210,7 +9869,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["briefcase"],
     tags: ["briefcase"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -11219,7 +9877,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["file_folder"],
     tags: ["file", "folder"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -11228,7 +9885,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["open_file_folder"],
     tags: ["file", "folder", "open"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -11237,7 +9893,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["card_index_dividers"],
     tags: ["card", "dividers", "index"],
     group: "objects",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -11246,7 +9901,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["date"],
     tags: ["date"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -11255,7 +9909,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["calendar"],
     tags: ["calendar"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -11264,7 +9917,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["notepad_spiral"],
     tags: ["note", "pad", "spiral"],
     group: "objects",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -11273,7 +9925,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["calendar_spiral"],
     tags: ["calendar", "pad", "spiral"],
     group: "objects",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -11282,7 +9933,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["card_index"],
     tags: ["card", "index", "rolodex"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -11291,7 +9941,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["chart_increasing", "chart_with_upwards_trend"],
     tags: ["chart", "graph", "growth", "trend", "upward"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -11300,7 +9949,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["chart_decreasing", "chart_with_downwards_trend"],
     tags: ["chart", "down", "graph", "trend"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -11309,7 +9957,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["bar_chart"],
     tags: ["bar", "chart", "graph"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -11318,7 +9965,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["clipboard"],
     tags: ["clipboard"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -11327,7 +9973,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["pushpin"],
     tags: ["pin"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -11336,7 +9981,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["round_pushpin"],
     tags: ["pin", "pushpin"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -11345,7 +9989,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["paperclip"],
     tags: ["paperclip"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -11354,7 +9997,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["paperclips"],
     tags: ["link", "paperclip"],
     group: "objects",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -11363,7 +10005,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["straight_ruler"],
     tags: ["ruler", "straight edge"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -11372,7 +10013,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["triangular_ruler"],
     tags: ["ruler", "set", "triangle"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -11381,7 +10021,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["scissors"],
     tags: ["cutting", "tool"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -11390,7 +10029,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["card_file_box"],
     tags: ["box", "card", "file"],
     group: "objects",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -11399,7 +10037,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["file_cabinet"],
     tags: ["cabinet", "file", "filing"],
     group: "objects",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -11408,7 +10045,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["trashcan", "wastebasket"],
     tags: ["wastebasket"],
     group: "objects",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -11417,7 +10053,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["lock", "locked"],
     tags: ["closed"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -11426,7 +10061,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["unlock", "unlocked"],
     tags: ["lock", "open", "unlock"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -11435,7 +10069,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["lock_with_ink_pen", "locked_with_pen"],
     tags: ["ink", "lock", "nib", "pen", "privacy"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -11444,7 +10077,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["closed_lock_with_key", "locked_with_key"],
     tags: ["closed", "key", "lock", "secure"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -11453,7 +10085,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["key"],
     tags: ["lock", "password"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -11462,7 +10093,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["old_key"],
     tags: ["clue", "key", "lock", "old"],
     group: "objects",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -11471,7 +10101,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["hammer"],
     tags: ["tool"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -11480,7 +10109,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["axe"],
     tags: ["chop", "hatchet", "split", "wood"],
     group: "objects",
-    emoticons: [],
     version: 12,
   },
   {
@@ -11489,7 +10117,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["pick"],
     tags: ["mining", "tool"],
     group: "objects",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -11498,7 +10125,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["hammer_and_pick"],
     tags: ["hammer", "pick", "tool"],
     group: "objects",
-    emoticons: [],
     version: 1,
   },
   {
@@ -11507,7 +10133,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["hammer_and_wrench"],
     tags: ["hammer", "spanner", "tool", "wrench"],
     group: "objects",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -11516,7 +10141,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["dagger"],
     tags: ["knife", "weapon"],
     group: "objects",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -11525,7 +10149,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["crossed_swords"],
     tags: ["crossed", "swords", "weapon"],
     group: "objects",
-    emoticons: [],
     version: 1,
   },
   {
@@ -11534,7 +10157,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["bomb"],
     tags: ["comic"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -11543,7 +10165,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["boomerang"],
     tags: ["rebound", "repercussion"],
     group: "objects",
-    emoticons: [],
     version: 13,
   },
   {
@@ -11552,7 +10173,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["bow_and_arrow"],
     tags: ["archer", "arrow", "bow", "sagittarius", "zodiac"],
     group: "objects",
-    emoticons: [],
     version: 1,
   },
   {
@@ -11561,7 +10181,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["shield"],
     tags: ["weapon"],
     group: "objects",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -11570,7 +10189,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["carpentry_saw"],
     tags: ["carpenter", "lumber", "saw", "tool"],
     group: "objects",
-    emoticons: [],
     version: 13,
   },
   {
@@ -11579,7 +10197,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["wrench"],
     tags: ["spanner", "tool"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -11588,7 +10205,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["screwdriver"],
     tags: ["screw", "tool"],
     group: "objects",
-    emoticons: [],
     version: 13,
   },
   {
@@ -11597,7 +10213,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["nut_and_bolt"],
     tags: ["bolt", "nut", "tool"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -11606,7 +10221,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["gear"],
     tags: ["cog", "cogwheel", "tool"],
     group: "objects",
-    emoticons: [],
     version: 1,
   },
   {
@@ -11615,7 +10229,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["clamp", "compression"],
     tags: ["compress", "tool", "vice"],
     group: "objects",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -11624,7 +10237,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["scales"],
     tags: ["balance", "justice", "libra", "scale", "zodiac"],
     group: "objects",
-    emoticons: [],
     version: 1,
   },
   {
@@ -11633,7 +10245,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["probing_cane", "white_cane"],
     tags: ["accessibility", "blind"],
     group: "objects",
-    emoticons: [],
     version: 12,
   },
   {
@@ -11642,7 +10253,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["link"],
     tags: ["link"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -11651,7 +10261,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["chains"],
     tags: ["chain"],
     group: "objects",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -11660,7 +10269,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["hook"],
     tags: ["catch", "crook", "curve", "ensnare", "selling point"],
     group: "objects",
-    emoticons: [],
     version: 13,
   },
   {
@@ -11669,7 +10277,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["toolbox"],
     tags: ["chest", "mechanic", "tool"],
     group: "objects",
-    emoticons: [],
     version: 11,
   },
   {
@@ -11678,7 +10285,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["magnet"],
     tags: ["attraction", "horseshoe", "magnetic"],
     group: "objects",
-    emoticons: [],
     version: 11,
   },
   {
@@ -11687,7 +10293,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["ladder"],
     tags: ["climb", "rung", "step"],
     group: "objects",
-    emoticons: [],
     version: 13,
   },
   {
@@ -11696,7 +10301,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["alembic"],
     tags: ["chemistry", "tool"],
     group: "objects",
-    emoticons: [],
     version: 1,
   },
   {
@@ -11705,7 +10309,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["test_tube"],
     tags: ["chemist", "chemistry", "experiment", "lab", "science"],
     group: "objects",
-    emoticons: [],
     version: 11,
   },
   {
@@ -11714,7 +10317,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["petri_dish"],
     tags: ["bacteria", "biologist", "biology", "culture", "lab"],
     group: "objects",
-    emoticons: [],
     version: 11,
   },
   {
@@ -11723,7 +10325,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["dna", "double_helix"],
     tags: ["biologist", "evolution", "gene", "genetics", "life"],
     group: "objects",
-    emoticons: [],
     version: 11,
   },
   {
@@ -11732,7 +10333,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["microscope"],
     tags: ["science", "tool"],
     group: "objects",
-    emoticons: [],
     version: 1,
   },
   {
@@ -11741,7 +10341,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["telescope"],
     tags: ["science", "tool"],
     group: "objects",
-    emoticons: [],
     version: 1,
   },
   {
@@ -11750,7 +10349,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["satellite_antenna"],
     tags: ["antenna", "dish", "satellite"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -11759,7 +10357,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["syringe"],
     tags: ["medicine", "needle", "shot", "sick"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -11768,7 +10365,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["drop_of_blood"],
     tags: ["bleed", "blood donation", "injury", "medicine", "menstruation"],
     group: "objects",
-    emoticons: [],
     version: 12,
   },
   {
@@ -11777,7 +10373,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["pill"],
     tags: ["doctor", "medicine", "sick"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -11786,7 +10381,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["adhesive_bandage", "bandaid"],
     tags: ["bandage"],
     group: "objects",
-    emoticons: [],
     version: 12,
   },
   {
@@ -11795,7 +10389,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["stethoscope"],
     tags: ["doctor", "heart", "medicine"],
     group: "objects",
-    emoticons: [],
     version: 12,
   },
   {
@@ -11804,7 +10397,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["door"],
     tags: ["door"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -11813,7 +10405,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["elevator"],
     tags: ["accessibility", "hoist", "lift"],
     group: "objects",
-    emoticons: [],
     version: 13,
   },
   {
@@ -11822,7 +10413,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["mirror"],
     tags: ["reflection", "reflector", "speculum"],
     group: "objects",
-    emoticons: [],
     version: 13,
   },
   {
@@ -11831,7 +10421,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["window"],
     tags: ["frame", "fresh air", "opening", "transparent", "view"],
     group: "objects",
-    emoticons: [],
     version: 13,
   },
   {
@@ -11840,7 +10429,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["bed"],
     tags: ["hotel", "sleep"],
     group: "objects",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -11849,7 +10437,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["couch_and_lamp"],
     tags: ["couch", "hotel", "lamp"],
     group: "objects",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -11858,7 +10445,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["chair"],
     tags: ["seat", "sit"],
     group: "objects",
-    emoticons: [],
     version: 12,
   },
   {
@@ -11867,7 +10453,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["toilet"],
     tags: ["toilet"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -11876,7 +10461,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["plunger"],
     tags: ["force cup", "plumber", "suction", "toilet"],
     group: "objects",
-    emoticons: [],
     version: 13,
   },
   {
@@ -11885,7 +10469,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["shower"],
     tags: ["water"],
     group: "objects",
-    emoticons: [],
     version: 1,
   },
   {
@@ -11894,7 +10477,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["bathtub"],
     tags: ["bath"],
     group: "objects",
-    emoticons: [],
     version: 1,
   },
   {
@@ -11903,7 +10485,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["mouse_trap"],
     tags: ["bait", "mousetrap", "snare", "trap"],
     group: "objects",
-    emoticons: [],
     version: 13,
   },
   {
@@ -11912,7 +10493,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["razor"],
     tags: ["sharp", "shave"],
     group: "objects",
-    emoticons: [],
     version: 12,
   },
   {
@@ -11921,7 +10501,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["lotion_bottle"],
     tags: ["lotion", "moisturizer", "shampoo", "sunscreen"],
     group: "objects",
-    emoticons: [],
     version: 11,
   },
   {
@@ -11930,7 +10509,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["safety_pin"],
     tags: ["diaper", "punk rock"],
     group: "objects",
-    emoticons: [],
     version: 11,
   },
   {
@@ -11939,7 +10517,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["broom"],
     tags: ["cleaning", "sweeping", "witch"],
     group: "objects",
-    emoticons: [],
     version: 11,
   },
   {
@@ -11948,7 +10525,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["basket"],
     tags: ["farming", "laundry", "picnic"],
     group: "objects",
-    emoticons: [],
     version: 11,
   },
   {
@@ -11957,7 +10533,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["roll_of_paper", "toilet_paper"],
     tags: ["paper towels", "toilet paper"],
     group: "objects",
-    emoticons: [],
     version: 11,
   },
   {
@@ -11966,7 +10541,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["bucket"],
     tags: ["cask", "pail", "vat"],
     group: "objects",
-    emoticons: [],
     version: 13,
   },
   {
@@ -11975,7 +10549,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["soap"],
     tags: ["bar", "bathing", "cleaning", "lather", "soapdish"],
     group: "objects",
-    emoticons: [],
     version: 11,
   },
   {
@@ -11984,7 +10557,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["toothbrush"],
     tags: ["bathroom", "brush", "clean", "dental", "hygiene", "teeth"],
     group: "objects",
-    emoticons: [],
     version: 13,
   },
   {
@@ -11993,7 +10565,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["sponge"],
     tags: ["absorbing", "cleaning", "porous"],
     group: "objects",
-    emoticons: [],
     version: 11,
   },
   {
@@ -12002,7 +10573,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["fire_extinguisher"],
     tags: ["extinguish", "fire", "quench"],
     group: "objects",
-    emoticons: [],
     version: 11,
   },
   {
@@ -12011,7 +10581,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["shopping_cart"],
     tags: ["cart", "shopping", "trolley"],
     group: "objects",
-    emoticons: [],
     version: 3,
   },
   {
@@ -12020,7 +10589,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["cigarette", "smoking"],
     tags: ["smoking"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -12029,7 +10597,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["coffin"],
     tags: ["death"],
     group: "objects",
-    emoticons: [],
     version: 1,
   },
   {
@@ -12038,7 +10605,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["headstone"],
     tags: ["cemetery", "grave", "graveyard", "tombstone"],
     group: "objects",
-    emoticons: [],
     version: 13,
   },
   {
@@ -12047,7 +10613,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["funeral_urn"],
     tags: ["ashes", "death", "funeral", "urn"],
     group: "objects",
-    emoticons: [],
     version: 1,
   },
   {
@@ -12056,7 +10621,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["nazar_amulet"],
     tags: ["bead", "charm", "evil-eye", "nazar", "talisman"],
     group: "objects",
-    emoticons: [],
     version: 11,
   },
   {
@@ -12065,7 +10629,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["moai", "moyai"],
     tags: ["face", "moyai", "statue"],
     group: "objects",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -12074,7 +10637,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["placard"],
     tags: ["demonstration", "picket", "protest", "sign"],
     group: "objects",
-    emoticons: [],
     version: 13,
   },
   {
@@ -12083,7 +10645,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["atm"],
     tags: ["atm", "atm sign", "automated", "bank", "teller"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -12092,7 +10653,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["litter_bin", "put_litter_in_its_place"],
     tags: ["litter", "litter bin"],
     group: "symbols",
-    emoticons: [],
     version: 1,
   },
   {
@@ -12101,7 +10661,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["potable_water"],
     tags: ["drinking", "potable", "water"],
     group: "symbols",
-    emoticons: [],
     version: 1,
   },
   {
@@ -12110,7 +10669,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["handicapped", "wheelchair"],
     tags: ["access"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -12119,7 +10677,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["mens"],
     tags: ["bathroom", "lavatory", "man", "restroom", "toilet", "wc"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -12128,7 +10685,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["womens"],
     tags: ["bathroom", "lavatory", "restroom", "toilet", "wc", "woman"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -12137,7 +10693,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["bathroom", "restroom"],
     tags: ["bathroom", "lavatory", "toilet", "wc"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -12146,7 +10701,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["baby_symbol"],
     tags: ["baby", "changing"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -12163,7 +10717,6 @@ export const emojis: EmojiItem[] = [
       "wc",
     ],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -12172,7 +10725,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["passport_control"],
     tags: ["control", "passport"],
     group: "symbols",
-    emoticons: [],
     version: 1,
   },
   {
@@ -12181,7 +10733,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["customs"],
     tags: ["customs"],
     group: "symbols",
-    emoticons: [],
     version: 1,
   },
   {
@@ -12190,7 +10741,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["baggage_claim"],
     tags: ["baggage", "claim"],
     group: "symbols",
-    emoticons: [],
     version: 1,
   },
   {
@@ -12199,7 +10749,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["left_luggage"],
     tags: ["baggage", "locker", "luggage"],
     group: "symbols",
-    emoticons: [],
     version: 1,
   },
   {
@@ -12208,7 +10757,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["warning"],
     tags: ["warning"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -12217,7 +10765,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["children_crossing"],
     tags: ["child", "crossing", "pedestrian", "traffic"],
     group: "symbols",
-    emoticons: [],
     version: 1,
   },
   {
@@ -12226,7 +10773,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["no_entry"],
     tags: ["entry", "forbidden", "no", "not", "prohibited", "traffic"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -12235,7 +10781,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["no_entry_sign"],
     tags: ["entry", "forbidden", "no", "not"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -12244,7 +10789,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["no_bicycles"],
     tags: ["bicycle", "bike", "forbidden", "no", "prohibited"],
     group: "symbols",
-    emoticons: [],
     version: 1,
   },
   {
@@ -12253,7 +10797,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["no_smoking"],
     tags: ["forbidden", "no", "not", "prohibited", "smoking"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -12262,7 +10805,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["do_not_litter", "no_littering"],
     tags: ["forbidden", "litter", "no", "not", "prohibited"],
     group: "symbols",
-    emoticons: [],
     version: 1,
   },
   {
@@ -12271,7 +10813,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["non-potable_water"],
     tags: ["non-drinking", "non-potable", "water"],
     group: "symbols",
-    emoticons: [],
     version: 1,
   },
   {
@@ -12280,7 +10821,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["no_pedestrians"],
     tags: ["forbidden", "no", "not", "pedestrian", "prohibited"],
     group: "symbols",
-    emoticons: [],
     version: 1,
   },
   {
@@ -12289,7 +10829,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["no_mobile_phones"],
     tags: ["cell", "forbidden", "mobile", "no", "phone"],
     group: "symbols",
-    emoticons: [],
     version: 1,
   },
   {
@@ -12298,7 +10837,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["no_one_under_18", "underage"],
     tags: ["18", "age restriction", "eighteen", "prohibited", "underage"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -12307,7 +10845,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["radioactive"],
     tags: ["sign"],
     group: "symbols",
-    emoticons: [],
     version: 1,
   },
   {
@@ -12316,7 +10853,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["biohazard"],
     tags: ["sign"],
     group: "symbols",
-    emoticons: [],
     version: 1,
   },
   {
@@ -12325,7 +10861,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["arrow_up"],
     tags: ["arrow", "cardinal", "direction", "north"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -12334,7 +10869,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["arrow_upper_right"],
     tags: ["arrow", "direction", "intercardinal", "northeast"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -12343,7 +10877,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["arrow_right"],
     tags: ["arrow", "cardinal", "direction", "east"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -12352,7 +10885,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["arrow_lower_right"],
     tags: ["arrow", "direction", "intercardinal", "southeast"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -12361,7 +10893,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["arrow_down"],
     tags: ["arrow", "cardinal", "direction", "down", "south"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -12370,7 +10901,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["arrow_lower_left"],
     tags: ["arrow", "direction", "intercardinal", "southwest"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -12379,7 +10909,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["arrow_left"],
     tags: ["arrow", "cardinal", "direction", "west"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -12388,7 +10917,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["arrow_upper_left"],
     tags: ["arrow", "direction", "intercardinal", "northwest"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -12397,7 +10925,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["arrow_up_down"],
     tags: ["arrow"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -12406,7 +10933,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["left_right_arrow"],
     tags: ["arrow"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -12415,7 +10941,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["arrow_left_hook", "leftwards_arrow_with_hook"],
     tags: ["arrow"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -12424,7 +10949,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["arrow_right_hook", "rightwards_arrow_with_hook"],
     tags: ["arrow"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -12433,7 +10957,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["arrow_heading_up"],
     tags: ["arrow"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -12442,7 +10965,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["arrow_heading_down"],
     tags: ["arrow", "down"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -12451,7 +10973,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["arrows_clockwise", "clockwise"],
     tags: ["arrow", "clockwise", "reload"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -12460,7 +10981,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["arrows_counterclockwise", "counterclockwise"],
     tags: ["anticlockwise", "arrow", "counterclockwise", "withershins"],
     group: "symbols",
-    emoticons: [],
     version: 1,
   },
   {
@@ -12469,7 +10989,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["back"],
     tags: ["arrow", "back"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -12478,7 +10997,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["end"],
     tags: ["arrow", "end"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -12487,7 +11005,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["on"],
     tags: ["arrow", "mark", "on", "on!"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -12496,7 +11013,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["soon"],
     tags: ["arrow", "soon"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -12505,7 +11021,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["top"],
     tags: ["arrow", "top", "up"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -12514,7 +11029,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["place_of_worship"],
     tags: ["religion", "worship"],
     group: "symbols",
-    emoticons: [],
     version: 1,
   },
   {
@@ -12523,7 +11037,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["atom", "atom_symbol"],
     tags: ["atheist", "atom"],
     group: "symbols",
-    emoticons: [],
     version: 1,
   },
   {
@@ -12532,7 +11045,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["om"],
     tags: ["hindu", "religion"],
     group: "symbols",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -12541,7 +11053,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["star_of_david"],
     tags: ["david", "jew", "jewish", "religion", "star", "star of david"],
     group: "symbols",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -12550,7 +11061,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["wheel_of_dharma"],
     tags: ["buddhist", "dharma", "religion", "wheel"],
     group: "symbols",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -12559,7 +11069,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["yin_yang"],
     tags: ["religion", "tao", "taoist", "yang", "yin"],
     group: "symbols",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -12568,7 +11077,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["latin_cross"],
     tags: ["christian", "cross", "religion"],
     group: "symbols",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -12577,7 +11085,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["orthodox_cross"],
     tags: ["christian", "cross", "religion"],
     group: "symbols",
-    emoticons: [],
     version: 1,
   },
   {
@@ -12586,7 +11093,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["star_and_crescent"],
     tags: ["islam", "muslim", "religion"],
     group: "symbols",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -12595,7 +11101,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["peace", "peace_symbol"],
     tags: ["peace"],
     group: "symbols",
-    emoticons: [],
     version: 1,
   },
   {
@@ -12604,7 +11109,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["menorah"],
     tags: ["candelabrum", "candlestick", "religion"],
     group: "symbols",
-    emoticons: [],
     version: 1,
   },
   {
@@ -12613,7 +11117,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["six_pointed_star"],
     tags: ["fortune", "star"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -12622,7 +11125,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["aries"],
     tags: ["aries", "ram", "zodiac"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -12631,7 +11133,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["taurus"],
     tags: ["bull", "ox", "taurus", "zodiac"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -12640,7 +11141,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["gemini"],
     tags: ["gemini", "twins", "zodiac"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -12649,7 +11149,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["cancer"],
     tags: ["cancer", "crab", "zodiac"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -12658,7 +11157,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["leo"],
     tags: ["leo", "lion", "zodiac"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -12667,7 +11165,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["virgo"],
     tags: ["virgo", "zodiac"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -12676,7 +11173,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["libra"],
     tags: ["balance", "justice", "libra", "scales", "zodiac"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -12685,7 +11181,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["scorpius"],
     tags: ["scorpio", "scorpion", "scorpius", "zodiac"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -12694,7 +11189,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["sagittarius"],
     tags: ["archer", "sagittarius", "zodiac"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -12703,7 +11197,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["capricorn"],
     tags: ["capricorn", "goat", "zodiac"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -12712,7 +11205,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["aquarius"],
     tags: ["aquarius", "bearer", "water", "zodiac"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -12721,7 +11213,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["pisces"],
     tags: ["fish", "pisces", "zodiac"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -12730,7 +11221,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["ophiuchus"],
     tags: ["bearer", "ophiuchus", "serpent", "snake", "zodiac"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -12739,7 +11229,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["shuffle", "twisted_rightwards_arrows"],
     tags: ["arrow", "crossed"],
     group: "symbols",
-    emoticons: [],
     version: 1,
   },
   {
@@ -12748,7 +11237,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["repeat"],
     tags: ["arrow", "clockwise", "repeat"],
     group: "symbols",
-    emoticons: [],
     version: 1,
   },
   {
@@ -12757,7 +11245,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["repeat_one"],
     tags: ["arrow", "clockwise", "once"],
     group: "symbols",
-    emoticons: [],
     version: 1,
   },
   {
@@ -12766,7 +11253,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["arrow_forward", "play"],
     tags: ["arrow", "play", "right", "triangle"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -12775,7 +11261,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["fast_forward"],
     tags: ["arrow", "double", "fast", "forward"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -12784,7 +11269,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["next_track"],
     tags: ["arrow", "next scene", "next track", "triangle"],
     group: "symbols",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -12793,7 +11277,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["play_pause"],
     tags: ["arrow", "pause", "play", "right", "triangle"],
     group: "symbols",
-    emoticons: [],
     version: 1,
   },
   {
@@ -12802,7 +11285,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["arrow_backward", "reverse"],
     tags: ["arrow", "left", "reverse", "triangle"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -12811,7 +11293,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["fast_reverse", "rewind"],
     tags: ["arrow", "double", "rewind"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -12820,7 +11301,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["previous_track"],
     tags: ["arrow", "previous scene", "previous track", "triangle"],
     group: "symbols",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -12829,7 +11309,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["arrow_up_small", "up"],
     tags: ["arrow", "button"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -12838,7 +11317,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["arrow_double_up", "fast_up"],
     tags: ["arrow", "double"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -12847,7 +11325,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["arrow_down_small", "down"],
     tags: ["arrow", "button", "down"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -12856,7 +11333,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["arrow_double_down", "fast_down"],
     tags: ["arrow", "double", "down"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -12865,7 +11341,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["pause"],
     tags: ["bar", "double", "pause", "vertical"],
     group: "symbols",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -12874,7 +11349,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["stop"],
     tags: ["square", "stop"],
     group: "symbols",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -12883,7 +11357,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["record"],
     tags: ["circle", "record"],
     group: "symbols",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -12892,7 +11365,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["eject"],
     tags: ["eject"],
     group: "symbols",
-    emoticons: [],
     version: 1,
   },
   {
@@ -12901,7 +11373,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["cinema"],
     tags: ["camera", "film", "movie"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -12910,7 +11381,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["dim_button", "low_brightness"],
     tags: ["brightness", "dim", "low"],
     group: "symbols",
-    emoticons: [],
     version: 1,
   },
   {
@@ -12919,7 +11389,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["bright_button", "high_brightness"],
     tags: ["bright", "brightness"],
     group: "symbols",
-    emoticons: [],
     version: 1,
   },
   {
@@ -12928,7 +11397,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["antenna_bars", "signal_strength"],
     tags: ["antenna", "bar", "cell", "mobile", "phone"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -12937,7 +11405,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["vibration_mode"],
     tags: ["cell", "mobile", "mode", "phone", "telephone", "vibration"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -12946,7 +11413,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["mobile_phone_off"],
     tags: ["cell", "mobile", "off", "phone", "telephone"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -12955,7 +11421,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["female", "female_sign"],
     tags: ["woman"],
     group: "symbols",
-    emoticons: [],
     version: 4,
   },
   {
@@ -12964,7 +11429,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["male", "male_sign"],
     tags: ["man"],
     group: "symbols",
-    emoticons: [],
     version: 4,
   },
   {
@@ -12973,7 +11437,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["transgender_symbol"],
     tags: ["transgender"],
     group: "symbols",
-    emoticons: [],
     version: 13,
   },
   {
@@ -12982,7 +11445,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["multiplication", "multiply"],
     tags: ["cancel", "multiplication", "sign", "x", "×"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -12991,7 +11453,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["plus"],
     tags: ["+", "math", "sign"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13000,7 +11461,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["minus"],
     tags: ["-", "math", "sign", "−"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13009,7 +11469,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["divide", "division"],
     tags: ["division", "math", "sign", "÷"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13018,7 +11477,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["infinity"],
     tags: ["forever", "unbounded", "universal"],
     group: "symbols",
-    emoticons: [],
     version: 11,
   },
   {
@@ -13027,7 +11485,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["bangbang", "double_exclamation"],
     tags: ["!", "!!", "bangbang", "exclamation", "mark"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13045,7 +11502,6 @@ export const emojis: EmojiItem[] = [
       "question",
     ],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13054,7 +11510,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["question"],
     tags: ["?", "mark", "punctuation", "question"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13063,7 +11518,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["white_question"],
     tags: ["?", "mark", "outlined", "punctuation", "question"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13072,7 +11526,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["white_exclamation"],
     tags: ["!", "exclamation", "mark", "outlined", "punctuation"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13081,7 +11534,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["exclamation"],
     tags: ["!", "exclamation", "mark", "punctuation"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13090,7 +11542,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["wavy_dash"],
     tags: ["dash", "punctuation", "wavy"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13099,7 +11550,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["currency_exchange"],
     tags: ["bank", "currency", "exchange", "money"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13108,7 +11558,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["heavy_dollar_sign"],
     tags: ["currency", "dollar", "money"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13117,7 +11566,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["medical", "medical_symbol"],
     tags: ["aesculapius", "medicine", "staff"],
     group: "symbols",
-    emoticons: [],
     version: 4,
   },
   {
@@ -13126,7 +11574,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["recycle", "recycling_symbol"],
     tags: ["recycle"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13135,7 +11582,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["fleur-de-lis"],
     tags: ["fleur-de-lis"],
     group: "symbols",
-    emoticons: [],
     version: 1,
   },
   {
@@ -13144,7 +11590,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["trident"],
     tags: ["anchor", "emblem", "ship", "tool", "trident"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13153,7 +11598,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["name_badge"],
     tags: ["badge", "name"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13168,7 +11612,6 @@ export const emojis: EmojiItem[] = [
       "leaf",
     ],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13177,7 +11620,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["hollow_red_circle", "red_o"],
     tags: ["circle", "large", "o", "red"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13186,7 +11628,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["check_mark_button", "white_check_mark"],
     tags: ["button", "check", "mark", "✓"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13195,7 +11636,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["ballot_box_with_check"],
     tags: ["box", "check", "✓"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13204,7 +11644,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["check_mark", "heavy_check_mark"],
     tags: ["check", "mark", "✓"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13213,7 +11652,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["cross_mark", "x"],
     tags: ["cancel", "cross", "mark", "multiplication", "multiply", "x", "×"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13222,7 +11660,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["cross_mark_button", "negative_squared_cross_mark"],
     tags: ["mark", "square", "x", "×"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13231,7 +11668,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["curly_loop"],
     tags: ["curl", "loop"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13240,7 +11676,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["double_curly_loop", "loop"],
     tags: ["curl", "double", "loop"],
     group: "symbols",
-    emoticons: [],
     version: 1,
   },
   {
@@ -13249,7 +11684,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["part_alternation_mark"],
     tags: ["mark", "part"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13258,7 +11692,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["eight_spoked_asterisk"],
     tags: ["*", "asterisk"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13267,7 +11700,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["eight_pointed_black_star"],
     tags: ["*", "star"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13276,7 +11708,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["sparkle"],
     tags: ["*"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13285,7 +11716,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["copyright"],
     tags: ["c"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13294,7 +11724,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["registered"],
     tags: ["r"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13303,7 +11732,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["tm", "trade_mark"],
     tags: ["mark", "tm", "trademark"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13312,7 +11740,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["hash", "number_sign"],
     tags: ["keycap"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13321,7 +11748,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["asterisk"],
     tags: ["keycap"],
     group: "symbols",
-    emoticons: [],
     version: 2,
   },
   {
@@ -13330,7 +11756,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["zero"],
     tags: ["keycap"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13339,7 +11764,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["one"],
     tags: ["keycap"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13348,7 +11772,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["two"],
     tags: ["keycap"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13357,7 +11780,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["three"],
     tags: ["keycap"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13366,7 +11788,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["four"],
     tags: ["keycap"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13375,7 +11796,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["five"],
     tags: ["keycap"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13384,7 +11804,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["six"],
     tags: ["keycap"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13393,7 +11812,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["seven"],
     tags: ["keycap"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13402,7 +11820,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["eight"],
     tags: ["keycap"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13411,7 +11828,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["nine"],
     tags: ["keycap"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13420,7 +11836,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["ten"],
     tags: ["keycap"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13429,7 +11844,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["capital_abcd"],
     tags: ["abcd", "input", "latin", "letters", "uppercase"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13438,7 +11852,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["abcd"],
     tags: ["abcd", "input", "latin", "letters", "lowercase"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13447,7 +11860,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["1234"],
     tags: ["1234", "input", "numbers"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13456,7 +11868,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["symbols"],
     tags: ["input", "〒♪&%"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13465,7 +11876,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["abc"],
     tags: ["abc", "alphabet", "input", "latin", "letters"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13474,7 +11884,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["a", "a_blood"],
     tags: ["a", "a button (blood type)", "blood type"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13483,7 +11892,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["ab", "ab_blood"],
     tags: ["ab", "ab button (blood type)", "blood type"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13492,7 +11900,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["b", "b_blood"],
     tags: ["b", "b button (blood type)", "blood type"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13501,7 +11908,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["cl"],
     tags: ["cl", "cl button"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13510,7 +11916,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["cool"],
     tags: ["cool", "cool button"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13519,7 +11924,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["free"],
     tags: ["free", "free button"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13528,7 +11932,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["info", "information_source"],
     tags: ["i"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13537,7 +11940,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["id"],
     tags: ["id", "id button", "identity"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13546,7 +11948,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["m"],
     tags: ["circle", "circled m", "m"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13555,7 +11956,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["new"],
     tags: ["new", "new button"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13564,7 +11964,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["ng"],
     tags: ["ng", "ng button"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13573,7 +11972,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["o", "o_blood"],
     tags: ["blood type", "o", "o button (blood type)"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13582,7 +11980,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["ok"],
     tags: ["ok", "ok button"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13591,7 +11988,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["parking"],
     tags: ["p", "p button", "parking"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13600,7 +11996,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["sos"],
     tags: ["help", "sos", "sos button"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13609,7 +12004,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["up2"],
     tags: ["mark", "up", "up!", "up! button"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13618,7 +12012,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["vs"],
     tags: ["versus", "vs", "vs button"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13627,7 +12020,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["ja_here", "koko"],
     tags: ["japanese", "japanese “here” button", "katakana", "“here”", "ココ"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13642,7 +12034,6 @@ export const emojis: EmojiItem[] = [
       "サ",
     ],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13657,7 +12048,6 @@ export const emojis: EmojiItem[] = [
       "月",
     ],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13672,7 +12062,6 @@ export const emojis: EmojiItem[] = [
       "有",
     ],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13687,7 +12076,6 @@ export const emojis: EmojiItem[] = [
       "指",
     ],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13702,7 +12090,6 @@ export const emojis: EmojiItem[] = [
       "得",
     ],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13717,7 +12104,6 @@ export const emojis: EmojiItem[] = [
       "割",
     ],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13732,7 +12118,6 @@ export const emojis: EmojiItem[] = [
       "無",
     ],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13747,7 +12132,6 @@ export const emojis: EmojiItem[] = [
       "禁",
     ],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13762,7 +12146,6 @@ export const emojis: EmojiItem[] = [
       "可",
     ],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13777,7 +12160,6 @@ export const emojis: EmojiItem[] = [
       "申",
     ],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13792,7 +12174,6 @@ export const emojis: EmojiItem[] = [
       "合",
     ],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13807,7 +12188,6 @@ export const emojis: EmojiItem[] = [
       "空",
     ],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13822,7 +12202,6 @@ export const emojis: EmojiItem[] = [
       "祝",
     ],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13837,7 +12216,6 @@ export const emojis: EmojiItem[] = [
       "秘",
     ],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13852,7 +12230,6 @@ export const emojis: EmojiItem[] = [
       "営",
     ],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13867,7 +12244,6 @@ export const emojis: EmojiItem[] = [
       "満",
     ],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13876,7 +12252,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["red_circle"],
     tags: ["circle", "geometric", "red"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13885,7 +12260,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["orange_circle"],
     tags: ["circle", "orange"],
     group: "symbols",
-    emoticons: [],
     version: 12,
   },
   {
@@ -13894,7 +12268,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["yellow_circle"],
     tags: ["circle", "yellow"],
     group: "symbols",
-    emoticons: [],
     version: 12,
   },
   {
@@ -13903,7 +12276,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["green_circle"],
     tags: ["circle", "green"],
     group: "symbols",
-    emoticons: [],
     version: 12,
   },
   {
@@ -13912,7 +12284,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["blue_circle"],
     tags: ["blue", "circle", "geometric"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13921,7 +12292,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["purple_circle"],
     tags: ["circle", "purple"],
     group: "symbols",
-    emoticons: [],
     version: 12,
   },
   {
@@ -13930,7 +12300,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["brown_circle"],
     tags: ["brown", "circle"],
     group: "symbols",
-    emoticons: [],
     version: 12,
   },
   {
@@ -13939,7 +12308,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["black_circle"],
     tags: ["circle", "geometric"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13948,7 +12316,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["white_circle"],
     tags: ["circle", "geometric"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -13957,7 +12324,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["red_square"],
     tags: ["red", "square"],
     group: "symbols",
-    emoticons: [],
     version: 12,
   },
   {
@@ -13966,7 +12332,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["orange_square"],
     tags: ["orange", "square"],
     group: "symbols",
-    emoticons: [],
     version: 12,
   },
   {
@@ -13975,7 +12340,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["yellow_square"],
     tags: ["square", "yellow"],
     group: "symbols",
-    emoticons: [],
     version: 12,
   },
   {
@@ -13984,7 +12348,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["green_square"],
     tags: ["green", "square"],
     group: "symbols",
-    emoticons: [],
     version: 12,
   },
   {
@@ -13993,7 +12356,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["blue_square"],
     tags: ["blue", "square"],
     group: "symbols",
-    emoticons: [],
     version: 12,
   },
   {
@@ -14002,7 +12364,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["purple_square"],
     tags: ["purple", "square"],
     group: "symbols",
-    emoticons: [],
     version: 12,
   },
   {
@@ -14011,7 +12372,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["brown_square"],
     tags: ["brown", "square"],
     group: "symbols",
-    emoticons: [],
     version: 12,
   },
   {
@@ -14020,7 +12380,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["black_large_square"],
     tags: ["geometric", "square"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -14029,7 +12388,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["white_large_square"],
     tags: ["geometric", "square"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -14038,7 +12396,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["black_medium_square"],
     tags: ["geometric", "square"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -14047,7 +12404,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["white_medium_square"],
     tags: ["geometric", "square"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -14056,7 +12412,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["black_medium_small_square"],
     tags: ["geometric", "square"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -14065,7 +12420,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["white_medium_small_square"],
     tags: ["geometric", "square"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -14074,7 +12428,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["black_small_square"],
     tags: ["geometric", "square"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -14083,7 +12436,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["white_small_square"],
     tags: ["geometric", "square"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -14092,7 +12444,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["large_orange_diamond"],
     tags: ["diamond", "geometric", "orange"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -14101,7 +12452,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["large_blue_diamond"],
     tags: ["blue", "diamond", "geometric"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -14110,7 +12460,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["small_orange_diamond"],
     tags: ["diamond", "geometric", "orange"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -14119,7 +12468,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["small_blue_diamond"],
     tags: ["blue", "diamond", "geometric"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -14128,7 +12476,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["small_red_triangle"],
     tags: ["geometric", "red"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -14137,7 +12484,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["small_red_triangle_down"],
     tags: ["down", "geometric", "red"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -14146,7 +12492,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["diamond_shape_with_a_dot_inside", "diamond_with_a_dot"],
     tags: ["comic", "diamond", "geometric", "inside"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -14155,7 +12500,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["radio_button"],
     tags: ["button", "geometric", "radio"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -14164,7 +12508,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["white_square_button"],
     tags: ["button", "geometric", "outlined", "square"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -14173,7 +12516,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["black_square_button"],
     tags: ["button", "geometric", "square"],
     group: "symbols",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -14182,7 +12524,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["checkered_flag"],
     tags: ["checkered", "chequered", "racing"],
     group: "flags",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -14191,7 +12532,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["triangular_flag", "triangular_flag_on_post"],
     tags: ["post"],
     group: "flags",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -14200,7 +12540,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["crossed_flags"],
     tags: ["celebration", "cross", "crossed", "japanese"],
     group: "flags",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -14209,7 +12548,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["black_flag"],
     tags: ["waving"],
     group: "flags",
-    emoticons: [],
     version: 1,
   },
   {
@@ -14218,7 +12556,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["white_flag"],
     tags: ["waving"],
     group: "flags",
-    emoticons: [],
     version: 0.7,
   },
   {
@@ -14227,7 +12564,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["rainbow_flag"],
     tags: ["pride", "rainbow"],
     group: "flags",
-    emoticons: [],
     version: 4,
   },
   {
@@ -14236,7 +12572,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["transgender_flag"],
     tags: ["flag", "light blue", "pink", "transgender", "white"],
     group: "flags",
-    emoticons: [],
     version: 13,
   },
   {
@@ -14245,7 +12580,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["jolly_roger", "pirate_flag"],
     tags: ["jolly roger", "pirate", "plunder", "treasure"],
     group: "flags",
-    emoticons: [],
     version: 11,
   },
   {
@@ -14254,7 +12588,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["ascension_island", "flag_ac"],
     tags: ["AC", "flag", "flag: ascension island"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14263,7 +12596,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["andorra", "flag_ad"],
     tags: ["AD", "flag", "flag: andorra"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14272,7 +12604,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_ae", "united_arab_emirates"],
     tags: ["AE", "flag", "flag: united arab emirates"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14281,7 +12612,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["afghanistan", "flag_af"],
     tags: ["AF", "flag", "flag: afghanistan"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14290,7 +12620,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["antigua_barbuda", "flag_ag"],
     tags: ["AG", "flag", "flag: antigua & barbuda"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14299,7 +12628,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["anguilla", "flag_ai"],
     tags: ["AI", "flag", "flag: anguilla"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14308,7 +12636,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["albania", "flag_al"],
     tags: ["AL", "flag", "flag: albania"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14317,7 +12644,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["armenia", "flag_am"],
     tags: ["AM", "flag", "flag: armenia"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14326,7 +12652,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["angola", "flag_ao"],
     tags: ["AO", "flag", "flag: angola"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14335,7 +12660,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["antarctica", "flag_aq"],
     tags: ["AQ", "flag", "flag: antarctica"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14344,7 +12668,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["argentina", "flag_ar"],
     tags: ["AR", "flag", "flag: argentina"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14353,7 +12676,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["american_samoa", "flag_as"],
     tags: ["AS", "flag", "flag: american samoa"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14362,7 +12684,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["austria", "flag_at"],
     tags: ["AT", "flag", "flag: austria"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14371,7 +12692,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["australia", "flag_au"],
     tags: ["AU", "flag", "flag: australia"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14380,7 +12700,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["aruba", "flag_aw"],
     tags: ["AW", "flag", "flag: aruba"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14389,7 +12708,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["aland_islands", "flag_ax"],
     tags: ["AX", "flag", "flag: åland islands"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14398,7 +12716,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["azerbaijan", "flag_az"],
     tags: ["AZ", "flag", "flag: azerbaijan"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14407,7 +12724,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["bosnia_herzegovina", "flag_ba"],
     tags: ["BA", "flag", "flag: bosnia & herzegovina"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14416,7 +12732,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["barbados", "flag_bb"],
     tags: ["BB", "flag", "flag: barbados"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14425,7 +12740,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["bangladesh", "flag_bd"],
     tags: ["BD", "flag", "flag: bangladesh"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14434,7 +12748,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["belgium", "flag_be"],
     tags: ["BE", "flag", "flag: belgium"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14443,7 +12756,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["burkina_faso", "flag_bf"],
     tags: ["BF", "flag", "flag: burkina faso"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14452,7 +12764,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["bulgaria", "flag_bg"],
     tags: ["BG", "flag", "flag: bulgaria"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14461,7 +12772,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["bahrain", "flag_bh"],
     tags: ["BH", "flag", "flag: bahrain"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14470,7 +12780,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["burundi", "flag_bi"],
     tags: ["BI", "flag", "flag: burundi"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14479,7 +12788,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["benin", "flag_bj"],
     tags: ["BJ", "flag", "flag: benin"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14488,7 +12796,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_bl", "st_barthelemy"],
     tags: ["BL", "flag", "flag: st. barthélemy"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14497,7 +12804,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["bermuda", "flag_bm"],
     tags: ["BM", "flag", "flag: bermuda"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14506,7 +12812,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["brunei", "flag_bn"],
     tags: ["BN", "flag", "flag: brunei"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14515,7 +12820,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["bolivia", "flag_bo"],
     tags: ["BO", "flag", "flag: bolivia"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14524,7 +12828,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["caribbean_netherlands", "flag_bq"],
     tags: ["BQ", "flag", "flag: caribbean netherlands"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14533,7 +12836,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["brazil", "flag_br"],
     tags: ["BR", "flag", "flag: brazil"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14542,7 +12844,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["bahamas", "flag_bs"],
     tags: ["BS", "flag", "flag: bahamas"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14551,7 +12852,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["bhutan", "flag_bt"],
     tags: ["BT", "flag", "flag: bhutan"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14560,7 +12860,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["bouvet_island", "flag_bv"],
     tags: ["BV", "flag", "flag: bouvet island"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14569,7 +12868,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["botswana", "flag_bw"],
     tags: ["BW", "flag", "flag: botswana"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14578,7 +12876,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["belarus", "flag_by"],
     tags: ["BY", "flag", "flag: belarus"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14587,7 +12884,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["belize", "flag_bz"],
     tags: ["BZ", "flag", "flag: belize"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14596,7 +12892,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["canada", "flag_ca"],
     tags: ["CA", "flag", "flag: canada"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14605,7 +12900,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["cocos_islands", "flag_cc"],
     tags: ["CC", "flag", "flag: cocos (keeling) islands"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14614,7 +12908,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["congo_kinshasa", "flag_cd"],
     tags: ["CD", "flag", "flag: congo - kinshasa"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14623,7 +12916,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["central_african_republic", "flag_cf"],
     tags: ["CF", "flag", "flag: central african republic"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14632,7 +12924,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["congo_brazzaville", "flag_cg"],
     tags: ["CG", "flag", "flag: congo - brazzaville"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14641,7 +12932,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_ch", "switzerland"],
     tags: ["CH", "flag", "flag: switzerland"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14650,7 +12940,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["cote_divoire", "flag_ci"],
     tags: ["CI", "flag", "flag: côte d’ivoire"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14659,7 +12948,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["cook_islands", "flag_ck"],
     tags: ["CK", "flag", "flag: cook islands"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14668,7 +12956,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["chile", "flag_cl"],
     tags: ["CL", "flag", "flag: chile"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14677,7 +12964,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["cameroon", "flag_cm"],
     tags: ["CM", "flag", "flag: cameroon"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14686,7 +12972,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["china", "flag_cn"],
     tags: ["CN", "flag", "flag: china"],
     group: "flags",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -14695,7 +12980,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["colombia", "flag_co"],
     tags: ["CO", "flag", "flag: colombia"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14704,7 +12988,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["clipperton_island", "flag_cp"],
     tags: ["CP", "flag", "flag: clipperton island"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14713,7 +12996,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["costa_rica", "flag_cr"],
     tags: ["CR", "flag", "flag: costa rica"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14722,7 +13004,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["cuba", "flag_cu"],
     tags: ["CU", "flag", "flag: cuba"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14731,7 +13012,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["cape_verde", "flag_cv"],
     tags: ["CV", "flag", "flag: cape verde"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14740,7 +13020,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["curacao", "flag_cw"],
     tags: ["CW", "flag", "flag: curaçao"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14749,7 +13028,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["christmas_island", "flag_cx"],
     tags: ["CX", "flag", "flag: christmas island"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14758,7 +13036,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["cyprus", "flag_cy"],
     tags: ["CY", "flag", "flag: cyprus"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14767,7 +13044,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["czech_republic", "czechia", "flag_cz"],
     tags: ["CZ", "flag", "flag: czechia"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14776,7 +13052,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_de", "germany"],
     tags: ["DE", "flag", "flag: germany"],
     group: "flags",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -14785,7 +13060,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["diego_garcia", "flag_dg"],
     tags: ["DG", "flag", "flag: diego garcia"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14794,7 +13068,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["djibouti", "flag_dj"],
     tags: ["DJ", "flag", "flag: djibouti"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14803,7 +13076,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["denmark", "flag_dk"],
     tags: ["DK", "flag", "flag: denmark"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14812,7 +13084,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["dominica", "flag_dm"],
     tags: ["DM", "flag", "flag: dominica"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14821,7 +13092,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["dominican_republic", "flag_do"],
     tags: ["DO", "flag", "flag: dominican republic"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14830,7 +13100,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["algeria", "flag_dz"],
     tags: ["DZ", "flag", "flag: algeria"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14839,7 +13108,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["ceuta_melilla", "flag_ea"],
     tags: ["EA", "flag", "flag: ceuta & melilla"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14848,7 +13116,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["ecuador", "flag_ec"],
     tags: ["EC", "flag", "flag: ecuador"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14857,7 +13124,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["estonia", "flag_ee"],
     tags: ["EE", "flag", "flag: estonia"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14866,7 +13132,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["egypt", "flag_eg"],
     tags: ["EG", "flag", "flag: egypt"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14875,7 +13140,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_eh", "western_sahara"],
     tags: ["EH", "flag", "flag: western sahara"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14884,7 +13148,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["eritrea", "flag_er"],
     tags: ["ER", "flag", "flag: eritrea"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14893,7 +13156,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_es", "spain"],
     tags: ["ES", "flag", "flag: spain"],
     group: "flags",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -14902,7 +13164,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["ethiopia", "flag_et"],
     tags: ["ET", "flag", "flag: ethiopia"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14911,7 +13172,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["european_union", "flag_eu"],
     tags: ["EU", "flag", "flag: european union"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14920,7 +13180,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["finland", "flag_fi"],
     tags: ["FI", "flag", "flag: finland"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14929,7 +13188,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["fiji", "flag_fj"],
     tags: ["FJ", "flag", "flag: fiji"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14938,7 +13196,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["falkland_islands", "flag_fk"],
     tags: ["FK", "flag", "flag: falkland islands"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14947,7 +13204,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_fm", "micronesia"],
     tags: ["FM", "flag", "flag: micronesia"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14956,7 +13212,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["faroe_islands", "flag_fo"],
     tags: ["FO", "flag", "flag: faroe islands"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14965,7 +13220,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_fr", "france"],
     tags: ["FR", "flag", "flag: france"],
     group: "flags",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -14974,7 +13228,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_ga", "gabon"],
     tags: ["GA", "flag", "flag: gabon"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -14983,7 +13236,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_gb", "uk", "united_kingdom"],
     tags: ["GB", "flag", "flag: united kingdom"],
     group: "flags",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -14992,7 +13244,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_gd", "grenada"],
     tags: ["GD", "flag", "flag: grenada"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15001,7 +13252,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_ge", "georgia"],
     tags: ["GE", "flag", "flag: georgia"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15010,7 +13260,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_gf", "french_guiana"],
     tags: ["GF", "flag", "flag: french guiana"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15019,7 +13268,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_gg", "guernsey"],
     tags: ["GG", "flag", "flag: guernsey"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15028,7 +13276,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_gh", "ghana"],
     tags: ["GH", "flag", "flag: ghana"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15037,7 +13284,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_gi", "gibraltar"],
     tags: ["GI", "flag", "flag: gibraltar"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15046,7 +13292,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_gl", "greenland"],
     tags: ["GL", "flag", "flag: greenland"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15055,7 +13300,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_gm", "gambia"],
     tags: ["GM", "flag", "flag: gambia"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15064,7 +13308,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_gn", "guinea"],
     tags: ["GN", "flag", "flag: guinea"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15073,7 +13316,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_gp", "guadeloupe"],
     tags: ["GP", "flag", "flag: guadeloupe"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15082,7 +13324,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["equatorial_guinea", "flag_gq"],
     tags: ["GQ", "flag", "flag: equatorial guinea"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15091,7 +13332,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_gr", "greece"],
     tags: ["GR", "flag", "flag: greece"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15100,7 +13340,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_gs", "south_georgia_south_sandwich_islands"],
     tags: ["GS", "flag", "flag: south georgia & south sandwich islands"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15109,7 +13348,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_gt", "guatemala"],
     tags: ["GT", "flag", "flag: guatemala"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15118,7 +13356,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_gu", "guam"],
     tags: ["GU", "flag", "flag: guam"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15127,7 +13364,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_gw", "guinea_bissau"],
     tags: ["GW", "flag", "flag: guinea-bissau"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15136,7 +13372,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_gy", "guyana"],
     tags: ["GY", "flag", "flag: guyana"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15145,7 +13380,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_hk", "hong_kong"],
     tags: ["HK", "flag", "flag: hong kong sar china"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15154,7 +13388,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_hm", "heard_mcdonald_islands"],
     tags: ["HM", "flag", "flag: heard & mcdonald islands"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15163,7 +13396,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_hn", "honduras"],
     tags: ["HN", "flag", "flag: honduras"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15172,7 +13404,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["croatia", "flag_hr"],
     tags: ["HR", "flag", "flag: croatia"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15181,7 +13412,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_ht", "haiti"],
     tags: ["HT", "flag", "flag: haiti"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15190,7 +13420,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_hu", "hungary"],
     tags: ["HU", "flag", "flag: hungary"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15199,7 +13428,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["canary_islands", "flag_ic"],
     tags: ["IC", "flag", "flag: canary islands"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15208,7 +13436,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_id", "indonesia"],
     tags: ["ID", "flag", "flag: indonesia"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15217,7 +13444,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_ie", "ireland"],
     tags: ["IE", "flag", "flag: ireland"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15226,7 +13452,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_il", "israel"],
     tags: ["IL", "flag", "flag: israel"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15235,7 +13460,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_im", "isle_of_man"],
     tags: ["IM", "flag", "flag: isle of man"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15244,7 +13468,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_in", "india"],
     tags: ["IN", "flag", "flag: india"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15253,7 +13476,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["british_indian_ocean_territory", "flag_io"],
     tags: ["IO", "flag", "flag: british indian ocean territory"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15262,7 +13484,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_iq", "iraq"],
     tags: ["IQ", "flag", "flag: iraq"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15271,7 +13492,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_ir", "iran"],
     tags: ["IR", "flag", "flag: iran"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15280,7 +13500,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_is", "iceland"],
     tags: ["IS", "flag", "flag: iceland"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15289,7 +13508,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_it", "italy"],
     tags: ["IT", "flag", "flag: italy"],
     group: "flags",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -15298,7 +13516,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_je", "jersey"],
     tags: ["JE", "flag", "flag: jersey"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15307,7 +13524,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_jm", "jamaica"],
     tags: ["JM", "flag", "flag: jamaica"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15316,7 +13532,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_jo", "jordan"],
     tags: ["JO", "flag", "flag: jordan"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15325,7 +13540,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_jp", "japan"],
     tags: ["JP", "flag", "flag: japan"],
     group: "flags",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -15334,7 +13548,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_ke", "kenya"],
     tags: ["KE", "flag", "flag: kenya"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15343,7 +13556,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_kg", "kyrgyzstan"],
     tags: ["KG", "flag", "flag: kyrgyzstan"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15352,7 +13564,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["cambodia", "flag_kh"],
     tags: ["KH", "flag", "flag: cambodia"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15361,7 +13572,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_ki", "kiribati"],
     tags: ["KI", "flag", "flag: kiribati"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15370,7 +13580,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["comoros", "flag_km"],
     tags: ["KM", "flag", "flag: comoros"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15379,7 +13588,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_kn", "st_kitts_nevis"],
     tags: ["KN", "flag", "flag: st. kitts & nevis"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15388,7 +13596,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_kp", "north_korea"],
     tags: ["KP", "flag", "flag: north korea"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15397,7 +13604,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_kr", "south_korea"],
     tags: ["KR", "flag", "flag: south korea"],
     group: "flags",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -15406,7 +13612,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_kw", "kuwait"],
     tags: ["KW", "flag", "flag: kuwait"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15415,7 +13620,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["cayman_islands", "flag_ky"],
     tags: ["KY", "flag", "flag: cayman islands"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15424,7 +13628,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_kz", "kazakhstan"],
     tags: ["KZ", "flag", "flag: kazakhstan"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15433,7 +13636,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_la", "laos"],
     tags: ["LA", "flag", "flag: laos"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15442,7 +13644,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_lb", "lebanon"],
     tags: ["LB", "flag", "flag: lebanon"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15451,7 +13652,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_lc", "st_lucia"],
     tags: ["LC", "flag", "flag: st. lucia"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15460,7 +13660,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_li", "liechtenstein"],
     tags: ["LI", "flag", "flag: liechtenstein"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15469,7 +13668,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_lk", "sri_lanka"],
     tags: ["LK", "flag", "flag: sri lanka"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15478,7 +13676,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_lr", "liberia"],
     tags: ["LR", "flag", "flag: liberia"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15487,7 +13684,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_ls", "lesotho"],
     tags: ["LS", "flag", "flag: lesotho"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15496,7 +13692,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_lt", "lithuania"],
     tags: ["LT", "flag", "flag: lithuania"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15505,7 +13700,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_lu", "luxembourg"],
     tags: ["LU", "flag", "flag: luxembourg"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15514,7 +13708,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_lv", "latvia"],
     tags: ["LV", "flag", "flag: latvia"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15523,7 +13716,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_ly", "libya"],
     tags: ["LY", "flag", "flag: libya"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15532,7 +13724,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_ma", "morocco"],
     tags: ["MA", "flag", "flag: morocco"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15541,7 +13732,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_mc", "monaco"],
     tags: ["MC", "flag", "flag: monaco"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15550,7 +13740,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_md", "moldova"],
     tags: ["MD", "flag", "flag: moldova"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15559,7 +13748,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_me", "montenegro"],
     tags: ["ME", "flag", "flag: montenegro"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15568,7 +13756,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_mf", "st_martin"],
     tags: ["MF", "flag", "flag: st. martin"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15577,7 +13764,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_mg", "madagascar"],
     tags: ["MG", "flag", "flag: madagascar"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15586,7 +13772,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_mh", "marshall_islands"],
     tags: ["MH", "flag", "flag: marshall islands"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15595,7 +13780,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_mk", "macedonia"],
     tags: ["MK", "flag", "flag: north macedonia"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15604,7 +13788,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_ml", "mali"],
     tags: ["ML", "flag", "flag: mali"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15613,7 +13796,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["burma", "flag_mm", "myanmar"],
     tags: ["MM", "flag", "flag: myanmar (burma)"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15622,7 +13804,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_mn", "mongolia"],
     tags: ["MN", "flag", "flag: mongolia"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15631,7 +13812,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_mo", "macao", "macau"],
     tags: ["MO", "flag", "flag: macao sar china"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15640,7 +13820,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_mp", "northern_mariana_islands"],
     tags: ["MP", "flag", "flag: northern mariana islands"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15649,7 +13828,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_mq", "martinique"],
     tags: ["MQ", "flag", "flag: martinique"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15658,7 +13836,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_mr", "mauritania"],
     tags: ["MR", "flag", "flag: mauritania"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15667,7 +13844,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_ms", "montserrat"],
     tags: ["MS", "flag", "flag: montserrat"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15676,7 +13852,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_mt", "malta"],
     tags: ["MT", "flag", "flag: malta"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15685,7 +13860,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_mu", "mauritius"],
     tags: ["MU", "flag", "flag: mauritius"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15694,7 +13868,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_mv", "maldives"],
     tags: ["MV", "flag", "flag: maldives"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15703,7 +13876,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_mw", "malawi"],
     tags: ["MW", "flag", "flag: malawi"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15712,7 +13884,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_mx", "mexico"],
     tags: ["MX", "flag", "flag: mexico"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15721,7 +13892,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_my", "malaysia"],
     tags: ["MY", "flag", "flag: malaysia"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15730,7 +13900,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_mz", "mozambique"],
     tags: ["MZ", "flag", "flag: mozambique"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15739,7 +13908,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_na", "namibia"],
     tags: ["NA", "flag", "flag: namibia"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15748,7 +13916,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_nc", "new_caledonia"],
     tags: ["NC", "flag", "flag: new caledonia"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15757,7 +13924,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_ne", "niger"],
     tags: ["NE", "flag", "flag: niger"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15766,7 +13932,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_nf", "norfolk_island"],
     tags: ["NF", "flag", "flag: norfolk island"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15775,7 +13940,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_ng", "nigeria"],
     tags: ["NG", "flag", "flag: nigeria"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15784,7 +13948,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_ni", "nicaragua"],
     tags: ["NI", "flag", "flag: nicaragua"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15793,7 +13956,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_nl", "netherlands"],
     tags: ["NL", "flag", "flag: netherlands"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15802,7 +13964,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_no", "norway"],
     tags: ["NO", "flag", "flag: norway"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15811,7 +13972,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_np", "nepal"],
     tags: ["NP", "flag", "flag: nepal"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15820,7 +13980,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_nr", "nauru"],
     tags: ["NR", "flag", "flag: nauru"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15829,7 +13988,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_nu", "niue"],
     tags: ["NU", "flag", "flag: niue"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15838,7 +13996,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_nz", "new_zealand"],
     tags: ["NZ", "flag", "flag: new zealand"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15847,7 +14004,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_om", "oman"],
     tags: ["OM", "flag", "flag: oman"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15856,7 +14012,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_pa", "panama"],
     tags: ["PA", "flag", "flag: panama"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15865,7 +14020,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_pe", "peru"],
     tags: ["PE", "flag", "flag: peru"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15874,7 +14028,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_pf", "french_polynesia"],
     tags: ["PF", "flag", "flag: french polynesia"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15883,7 +14036,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_pg", "papua_new_guinea"],
     tags: ["PG", "flag", "flag: papua new guinea"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15892,7 +14044,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_ph", "philippines"],
     tags: ["PH", "flag", "flag: philippines"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15901,7 +14052,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_pk", "pakistan"],
     tags: ["PK", "flag", "flag: pakistan"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15910,7 +14060,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_pl", "poland"],
     tags: ["PL", "flag", "flag: poland"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15919,7 +14068,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_pm", "st_pierre_miquelon"],
     tags: ["PM", "flag", "flag: st. pierre & miquelon"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15928,7 +14076,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_pn", "pitcairn_islands"],
     tags: ["PN", "flag", "flag: pitcairn islands"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15937,7 +14084,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_pr", "puerto_rico"],
     tags: ["PR", "flag", "flag: puerto rico"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15946,7 +14092,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_ps", "palestinian_territories"],
     tags: ["PS", "flag", "flag: palestinian territories"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15955,7 +14100,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_pt", "portugal"],
     tags: ["PT", "flag", "flag: portugal"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15964,7 +14108,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_pw", "palau"],
     tags: ["PW", "flag", "flag: palau"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15973,7 +14116,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_py", "paraguay"],
     tags: ["PY", "flag", "flag: paraguay"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15982,7 +14124,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_qa", "qatar"],
     tags: ["QA", "flag", "flag: qatar"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -15991,7 +14132,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_re", "reunion"],
     tags: ["RE", "flag", "flag: réunion"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -16000,7 +14140,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_ro", "romania"],
     tags: ["RO", "flag", "flag: romania"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -16009,7 +14148,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_rs", "serbia"],
     tags: ["RS", "flag", "flag: serbia"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -16018,7 +14156,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_ru", "russia"],
     tags: ["RU", "flag", "flag: russia"],
     group: "flags",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -16027,7 +14164,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_rw", "rwanda"],
     tags: ["RW", "flag", "flag: rwanda"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -16036,7 +14172,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_sa", "saudi_arabia"],
     tags: ["SA", "flag", "flag: saudi arabia"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -16045,7 +14180,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_sb", "solomon_islands"],
     tags: ["SB", "flag", "flag: solomon islands"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -16054,7 +14188,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_sc", "seychelles"],
     tags: ["SC", "flag", "flag: seychelles"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -16063,7 +14196,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_sd", "sudan"],
     tags: ["SD", "flag", "flag: sudan"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -16072,7 +14204,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_se", "sweden"],
     tags: ["SE", "flag", "flag: sweden"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -16081,7 +14212,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_sg", "singapore"],
     tags: ["SG", "flag", "flag: singapore"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -16090,7 +14220,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_sh", "st_helena"],
     tags: ["SH", "flag", "flag: st. helena"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -16099,7 +14228,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_si", "slovenia"],
     tags: ["SI", "flag", "flag: slovenia"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -16108,7 +14236,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_sj", "svalbard_jan_mayen"],
     tags: ["SJ", "flag", "flag: svalbard & jan mayen"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -16117,7 +14244,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_sk", "slovakia"],
     tags: ["SK", "flag", "flag: slovakia"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -16126,7 +14252,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_sl", "sierra_leone"],
     tags: ["SL", "flag", "flag: sierra leone"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -16135,7 +14260,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_sm", "san_marino"],
     tags: ["SM", "flag", "flag: san marino"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -16144,7 +14268,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_sn", "senegal"],
     tags: ["SN", "flag", "flag: senegal"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -16153,7 +14276,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_so", "somalia"],
     tags: ["SO", "flag", "flag: somalia"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -16162,7 +14284,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_sr", "suriname"],
     tags: ["SR", "flag", "flag: suriname"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -16171,7 +14292,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_ss", "south_sudan"],
     tags: ["SS", "flag", "flag: south sudan"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -16180,7 +14300,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_st", "sao_tome_principe"],
     tags: ["ST", "flag", "flag: são tomé & príncipe"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -16189,7 +14308,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["el_salvador", "flag_sv"],
     tags: ["SV", "flag", "flag: el salvador"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -16198,7 +14316,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_sx", "sint_maarten"],
     tags: ["SX", "flag", "flag: sint maarten"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -16207,7 +14324,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_sy", "syria"],
     tags: ["SY", "flag", "flag: syria"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -16216,7 +14332,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["eswatini", "flag_sz", "swaziland"],
     tags: ["SZ", "flag", "flag: eswatini"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -16225,7 +14340,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_ta", "tristan_da_cunha"],
     tags: ["TA", "flag", "flag: tristan da cunha"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -16234,7 +14348,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_tc", "turks_caicos_islands"],
     tags: ["TC", "flag", "flag: turks & caicos islands"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -16243,7 +14356,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["chad", "flag_td"],
     tags: ["TD", "flag", "flag: chad"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -16252,7 +14364,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_tf", "french_southern_territories"],
     tags: ["TF", "flag", "flag: french southern territories"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -16261,7 +14372,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_tg", "togo"],
     tags: ["TG", "flag", "flag: togo"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -16270,7 +14380,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_th", "thailand"],
     tags: ["TH", "flag", "flag: thailand"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -16279,7 +14388,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_tj", "tajikistan"],
     tags: ["TJ", "flag", "flag: tajikistan"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -16288,7 +14396,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_tk", "tokelau"],
     tags: ["TK", "flag", "flag: tokelau"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -16297,7 +14404,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_tl", "timor_leste"],
     tags: ["TL", "flag", "flag: timor-leste"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -16306,7 +14412,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_tm", "turkmenistan"],
     tags: ["TM", "flag", "flag: turkmenistan"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -16315,7 +14420,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_tn", "tunisia"],
     tags: ["TN", "flag", "flag: tunisia"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -16324,7 +14428,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_to", "tonga"],
     tags: ["TO", "flag", "flag: tonga"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -16333,7 +14436,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_tr", "turkey_tr"],
     tags: ["TR", "flag", "flag: türkiye"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -16342,7 +14444,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_tt", "trinidad_tobago"],
     tags: ["TT", "flag", "flag: trinidad & tobago"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -16351,7 +14452,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_tv", "tuvalu"],
     tags: ["TV", "flag", "flag: tuvalu"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -16360,7 +14460,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_tw", "taiwan"],
     tags: ["TW", "flag", "flag: taiwan"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -16369,7 +14468,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_tz", "tanzania"],
     tags: ["TZ", "flag", "flag: tanzania"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -16378,7 +14476,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_ua", "ukraine"],
     tags: ["UA", "flag", "flag: ukraine"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -16387,7 +14484,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_ug", "uganda"],
     tags: ["UG", "flag", "flag: uganda"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -16396,7 +14492,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_um", "us_outlying_islands"],
     tags: ["UM", "flag", "flag: u.s. outlying islands"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -16405,7 +14500,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_un", "un", "united_nations"],
     tags: ["UN", "flag", "flag: united nations"],
     group: "flags",
-    emoticons: [],
     version: 4,
   },
   {
@@ -16414,7 +14508,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_us", "united_states", "usa"],
     tags: ["US", "flag", "flag: united states"],
     group: "flags",
-    emoticons: [],
     version: 0.6,
   },
   {
@@ -16423,7 +14516,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_uy", "uruguay"],
     tags: ["UY", "flag", "flag: uruguay"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -16432,7 +14524,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_uz", "uzbekistan"],
     tags: ["UZ", "flag", "flag: uzbekistan"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -16441,7 +14532,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_va", "vatican_city"],
     tags: ["VA", "flag", "flag: vatican city"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -16450,7 +14540,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_vc", "st_vincent_grenadines"],
     tags: ["VC", "flag", "flag: st. vincent & grenadines"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -16459,7 +14548,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_ve", "venezuela"],
     tags: ["VE", "flag", "flag: venezuela"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -16468,7 +14556,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["british_virgin_islands", "flag_vg"],
     tags: ["VG", "flag", "flag: british virgin islands"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -16477,7 +14564,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_vi", "us_virgin_islands"],
     tags: ["VI", "flag", "flag: u.s. virgin islands"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -16486,7 +14572,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_vn", "vietnam"],
     tags: ["VN", "flag", "flag: vietnam"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -16495,7 +14580,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_vu", "vanuatu"],
     tags: ["VU", "flag", "flag: vanuatu"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -16504,7 +14588,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_wf", "wallis_futuna"],
     tags: ["WF", "flag", "flag: wallis & futuna"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -16513,7 +14596,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_ws", "samoa"],
     tags: ["WS", "flag", "flag: samoa"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -16522,7 +14604,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_xk", "kosovo"],
     tags: ["XK", "flag", "flag: kosovo"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -16531,7 +14612,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_ye", "yemen"],
     tags: ["YE", "flag", "flag: yemen"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -16540,7 +14620,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_yt", "mayotte"],
     tags: ["YT", "flag", "flag: mayotte"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -16549,7 +14628,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_za", "south_africa"],
     tags: ["ZA", "flag", "flag: south africa"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -16558,7 +14636,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_zm", "zambia"],
     tags: ["ZM", "flag", "flag: zambia"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -16567,7 +14644,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_zw", "zimbabwe"],
     tags: ["ZW", "flag", "flag: zimbabwe"],
     group: "flags",
-    emoticons: [],
     version: 2,
   },
   {
@@ -16576,7 +14652,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["england", "flag_gbeng"],
     tags: ["flag", "flag: england", "gbeng"],
     group: "flags",
-    emoticons: [],
     version: 5,
   },
   {
@@ -16585,7 +14660,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_gbsct", "scotland"],
     tags: ["flag", "flag: scotland", "gbsct"],
     group: "flags",
-    emoticons: [],
     version: 5,
   },
   {
@@ -16594,7 +14668,6 @@ export const emojis: EmojiItem[] = [
     shortcodes: ["flag_gbwls", "wales"],
     tags: ["flag", "flag: wales", "gbwls"],
     group: "flags",
-    emoticons: [],
     version: 5,
   },
 ];

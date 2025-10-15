@@ -33,8 +33,10 @@ const emojis: EmojiItem[] = data
       name,
       shortcodes,
       tags: emoji.tags || [],
-      group: emoji.group ? (messages.groups[emoji.group]?.message ?? "") : "",
-      emoticons,
+      group: emoji.group
+        ? (messages.groups[emoji.group]?.message ?? "")
+        : undefined,
+      emoticons: emoticons.length > 0 ? emoticons : undefined,
       version: emoji.version,
       // #region - disabled fallback
       // fallbackImage: hasFallbackImage
