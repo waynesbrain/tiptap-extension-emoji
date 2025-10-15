@@ -1,23 +1,27 @@
-// import dataSource from "emoji-datasource/emoji.json"; // disabled fallback
+import dataSource from "emoji-datasource/emoji.json";
 import data from "emojibase-data/en/data.json";
 import messages from "emojibase-data/en/messages.json";
 import emojibaseShortcodes from "emojibase-data/en/shortcodes/emojibase.json";
 import gitHubShortcodes from "emojibase-data/en/shortcodes/github.json";
 import fs from "fs";
 import json5 from "json5";
-
+// Local
 import type { EmojiItem } from "../src/emoji";
 import { removeVariationSelector } from "../src/helpers/removeVariationSelector";
 
+const EMOTICONS_DISABLED = true;
+const FALLBACKS_DISABLED = true;
+const GITHUB_DISABLED = true;
 const TAGS_DISABLED = true;
+const VERSIONS_DISABLED = true;
 
 /**
  * Filters tags to reduce file size while maintaining search utility.
  *
- * Removes tags that are:
- * 1. First 3 letters match the beginning of the emoji name (prefix check)
- * 2. First 3 letters match the beginning of any shortcode segment (prefix check)
- * 3. Multi-word tags containing spaces or hyphens (e.g., "in love", "blond-haired")
+ * Removes tags when:
+ * 1. The first 3 letters prefix the emoji name
+ * 2. The first 3 letters prefix any shortcode segment
+ * 3. It contains spaces or hyphens (e.g., "in love", "blond-haired")
  */
 function filterTags(
   tags: string[],
@@ -58,21 +62,20 @@ function filterTags(
 const emojis: EmojiItem[] = data
   .filter((emoji) => emoji.version > 0 && emoji.version < 14)
   .map((emoji) => {
-    // #region - disabled fallback
-    // const dataSourceEmoji = dataSource.find((item) => {
-    //   return (
-    //     item.unified === emoji.hexcode || item.non_qualified === emoji.hexcode
-    //   );
-    // });
-    // const hasFallbackImage = dataSourceEmoji?.has_img_apple;
-    // #endregion
+    const dataSourceEmoji = dataSource.find((item) => {
+      return (
+        item.unified === emoji.hexcode || item.non_qualified === emoji.hexcode
+      );
+    });
+    const hasFallbackImage = dataSourceEmoji?.has_img_apple;
+
     const name =
       [gitHubShortcodes[emoji.hexcode]].flat()[0] ||
       [emojibaseShortcodes[emoji.hexcode]].flat()[0]!;
     const shortcodes = emojibaseShortcodes[emoji.hexcode]
       ? [emojibaseShortcodes[emoji.hexcode]!].flat()
       : [];
-    // const emoticons = emoji.emoticon ? [emoji.emoticon].flat() : [];
+    const emoticons = emoji.emoticon ? [emoji.emoticon].flat() : [];
 
     let tags = emoji.tags
       ? filterTags(emoji.tags, shortcodes, name)
@@ -81,67 +84,80 @@ const emojis: EmojiItem[] = data
       tags = undefined;
     }
 
+    // Check if emoji has a text variant (presence of text field with U+FE0E)
+    const hasTextVariant = !!(emoji.text && emoji.text.includes("\u{FE0E}"));
+
     return {
-      emoji: removeVariationSelector(emoji.emoji),
+      emoji: removeVariationSelector(emoji.emoji, hasTextVariant),
       name,
       shortcodes,
+
       tags: TAGS_DISABLED ? undefined : tags,
+
       group: emoji.group
         ? (messages.groups[emoji.group]?.message ?? "")
         : undefined,
-      // emoticons: emoticons.length > 0 ? emoticons : undefined,
-      // version: emoji.version,
-      // #region - disabled fallback
-      // fallbackImage: hasFallbackImage
-      //   ? `https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/${dataSourceEmoji.image}`
-      //   : undefined,
-      // #endregion
+
+      emoticons: EMOTICONS_DISABLED
+        ? undefined
+        : emoticons.length > 0
+          ? emoticons
+          : undefined,
+
+      version: VERSIONS_DISABLED ? undefined : emoji.version,
+
+      fallbackImage: FALLBACKS_DISABLED
+        ? undefined
+        : hasFallbackImage
+          ? `https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/${dataSourceEmoji.image}`
+          : undefined,
     };
   });
 
-// #region - disable fallback (github emoji are useless without them)
-// const gitHubCustomEmojiNames = [
-//   // "atom",
-//   // "basecamp",
-//   // "basecampy",
-//   "bowtie",
-//   // "electron",
-//   "feelsgood",
-//   // "finnadie",
-//   // "goberserk",
-//   // "godmode",
-//   // "hurtrealbad",
-//   // "neckbeard",
-//   // "octocat",
-//   "rage1",
-//   "rage2",
-//   "rage3",
-//   "rage4",
-//   "shipit",
-//   "suspect",
-//   "trollface",
-// ];
+// #region - GitHub
 
-// const gitHubCustomEmojis: EmojiItem[] = gitHubCustomEmojiNames.map((name) => {
-//   return {
-//     name,
-//     shortcodes: [name],
-//     tags: [],
-//     group: "GitHub",
-//     fallbackImage: `https://github.githubassets.com/images/icons/emoji/${name}.png`,
-//   };
-// });
+const gitHubCustomEmojiNames = [
+  // "atom",
+  // "basecamp",
+  // "basecampy",
+  "bowtie",
+  // "electron",
+  "feelsgood",
+  // "finnadie",
+  // "goberserk",
+  // "godmode",
+  // "hurtrealbad",
+  // "neckbeard",
+  // "octocat",
+  "rage1",
+  "rage2",
+  "rage3",
+  "rage4",
+  "shipit",
+  "suspect",
+  "trollface",
+];
 
-// const content = `// This is a generated file
+const gitHubCustomEmojis: EmojiItem[] = gitHubCustomEmojiNames.map((name) => {
+  return {
+    name,
+    shortcodes: [name],
+    tags: [],
+    group: "GitHub",
+    fallbackImage: `https://github.githubassets.com/images/icons/emoji/${name}.png`,
+  };
+});
 
-// import type { EmojiItem } from "./emoji.js";
+const content_github = `// This is a generated file
 
-// export const emojis: EmojiItem[] = ${json5.stringify(emojis, { space: 2, quote: '"' })};
+import type { EmojiItem } from "./emoji.js";
 
-// export const gitHubCustomEmojis: EmojiItem[] = ${json5.stringify(gitHubCustomEmojis, { space: 2, quote: '"' })};
+export const emojis: EmojiItem[] = ${json5.stringify(emojis, { space: 2, quote: '"' })};
 
-// export const gitHubEmojis: EmojiItem[] = [...emojis, ...gitHubCustomEmojis];
-// `;
+export const gitHubCustomEmojis: EmojiItem[] = ${json5.stringify(gitHubCustomEmojis, { space: 2, quote: '"' })};
+
+export const gitHubEmojis: EmojiItem[] = [...emojis, ...gitHubCustomEmojis];
+`;
 // #endregion
 
 const content = `// This is a generated file
@@ -151,4 +167,8 @@ import type { EmojiItem } from "./emoji.js";
 export const emojis: EmojiItem[] = ${json5.stringify(emojis, { space: 2, quote: '"' })};
 `;
 
-fs.writeFileSync("./src/data.ts", content);
+if (GITHUB_DISABLED) {
+  fs.writeFileSync("./src/data.ts", content);
+} else {
+  fs.writeFileSync("./src/data.ts", content_github);
+}
